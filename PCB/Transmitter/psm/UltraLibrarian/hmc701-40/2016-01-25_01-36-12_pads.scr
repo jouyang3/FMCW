@@ -1,0 +1,71 @@
+# Allegro Script file created by :
+# Ultra Librarian Lite 8.1.31 Copyright © 1999-2016 Accelerated Designs
+# http://www.Accelerated-Designs.com
+ 
+# Registered to :
+# Ultra Librarian Free Reader
+# 
+ 
+# Original file name : 
+ 
+Version 13.6
+
+setwindow Form.padedit
+
+######################## New PadStack #########################
+pse_new
+fillin "RX12Y23p81D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 12
+FORM padedit height 23.811
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 12
+FORM padedit height 23.811
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX12Y23p81D0T.pad"
+
+######################## New PadStack #########################
+pse_new
+fillin "RX185p04Y185p04D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Square
+FORM padedit width 185.0394
+FORM padedit height 185.0394
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 6
+FORM padedit geometry Square
+FORM padedit width 1
+FORM padedit height 1
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX185p04Y185p04D0T.pad"
+pse_exit
+FORM padedit done
+ 
+# end of padstack script

@@ -1,0 +1,278 @@
+\t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:00)     Journal start - Sat Feb 20 22:02:50 2016
+\t (00:00:00)         Host=DART User=Dart Pid=9740 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/SPB_Data/Footprints/header2.dra
+\i (00:00:02) trapsize 1241
+\i (00:00:02) trapsize 1169
+\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:02) trapsize 1254
+\i (00:00:02) trapsize 865
+\i (00:00:02) trapsize 865
+\i (00:00:03) generaledit 
+\i (00:00:08) new 
+\i (00:00:20) newdrawfillin "menu_cancel"
+\i (00:00:20) generaledit 
+\i (00:00:21) open 
+\i (00:00:28) fillin "smp6_1_2.dra"
+\t (00:00:28) Opening existing design...
+\t (00:00:28) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
+\i (00:00:28) trapsize 865
+\d (00:00:28) Design opened: C:/SPB_Data/Footprints/smp6_1_2.dra
+\i (00:00:28) generaledit 
+\i (00:00:36) show measure 
+\i (00:00:37) pick grid -0.6401 1.1073
+\t (00:00:37) last pick:  -0.6500 1.1000
+\i (00:00:39) pick grid 0.5709 1.1765
+\t (00:00:39) last pick:  0.5500 1.2000
+\i (00:00:47) setwindow text
+\i (00:00:47) close 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick grid 0.6747 -1.2457
+\t (00:00:49) last pick:  0.6500 -1.2500
+\i (00:01:42) pick grid -0.6747 -1.2457
+\t (00:01:42) last pick:  -0.6500 -1.2500
+\i (00:02:06) move 
+\t (00:02:06) Select element(s) to move.
+\i (00:02:08) pick grid -0.5709 -1.1073
+\t (00:02:08) last pick:  -0.5500 -1.1000
+\i (00:02:09) pick grid -0.6574 -1.1419
+\t (00:02:09) last pick:  -0.6500 -1.1500
+\i (00:02:12) setwindow form.find
+\i (00:02:12) FORM find shapes YES 
+\i (00:02:14) FORM find all_on  
+\i (00:02:15) setwindow pcb
+\i (00:02:15) pick grid -0.6401 -1.2457
+\t (00:02:15) last pick:  -0.6500 -1.2500
+\t (00:02:15) last pick:  -0.6500 -1.1500
+\t (00:02:15) Pick new location for the element(s).
+\e (00:02:29) Command not found: -95
+\i (00:02:30) roam y -96 
+\i (00:02:37) pick -0.95 
+\t (00:02:37) last pick:  -0.9500 -1.1500
+\i (00:02:44) pick grid 0.6747 -1.0208
+\t (00:02:44) last pick:  0.6500 -1.0000
+\t (00:02:44) last pick:  0.6500 -1.1500
+\t (00:02:44) Pick new location for the element(s).
+\i (00:02:48) pick 0.95 
+\t (00:02:48) last pick:  0.9500 -1.1500
+\i (00:02:55) pick grid -0.1557 0.0692
+\t (00:02:55) last pick:  -0.1500 0.0500
+\t (00:02:55) last pick:  0.0000 0.0000
+\t (00:02:55) Pick new location for the element(s).
+\i (00:02:57) prepopup -0.9343 0.0000
+\i (00:02:59) done 
+\i (00:02:59) generaledit 
+\i (00:03:01) delete 
+\i (00:03:02) pick grid 0.0000 0.0692
+\t (00:03:02) last pick:  0.0000 0.0500
+\t (00:03:02) Pin "Sm1_2R0_75, 7"
+\i (00:03:02) pick grid dbl 0.0000 0.0692
+\t (00:03:02) last pick:  0.0000 0.0500
+\i (00:03:04) move 
+\t (00:03:04) Select element(s) to move.
+\i (00:03:05) pick grid 0.5363 1.0381
+\t (00:03:05) last pick:  0.5500 1.0500
+\t (00:03:05) last pick:  0.6500 1.1500
+\t (00:03:05) Pick new location for the element(s).
+\i (00:03:11) pick 0.95 
+\t (00:03:11) last pick:  0.9500 1.1500
+\i (00:03:13) pick grid -0.7786 1.1765
+\t (00:03:13) last pick:  -0.8000 1.2000
+\t (00:03:13) last pick:  -0.6500 1.1500
+\t (00:03:13) Pick new location for the element(s).
+\i (00:03:20) pick -0.95 
+\t (00:03:20) last pick:  -0.9500 1.1500
+\i (00:03:27) pick grid -0.9862 -1.3149
+\t (00:03:27) last pick:  -1.0000 -1.3000
+\t (00:03:27) last pick:  -0.9500 -1.1500
+\t (00:03:27) Pick new location for the element(s).
+\i (00:04:23) prepopup -1.6955 -2.5606
+\i (00:04:24) oops 
+\t (00:04:24) last pick:  -1.0000 -1.3000
+\i (00:04:28) show measure 
+\i (00:04:29) pick grid -0.9516 -1.1073
+\t (00:04:29) last pick:  -0.9500 -1.1000
+\i (00:04:37) pick grid -0.9862 1.1246
+\t (00:04:37) last pick:  -1.0000 1.1000
+\i (00:05:09) setwindow text
+\i (00:05:09) close 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) pick grid -2.7855 0.2941
+\t (00:05:10) last pick:  -2.8000 0.3000
+\i (00:05:10) prepopup -2.7855 0.2941
+\i (00:05:11) done 
+\i (00:05:11) generaledit 
+\i (00:05:12) move 
+\t (00:05:12) Select element(s) to move.
+\i (00:05:14) pick grid -0.9170 0.9861
+\t (00:05:14) last pick:  -0.9000 1.0000
+\t (00:05:14) last pick:  -0.9500 1.1500
+\t (00:05:14) Pick new location for the element(s).
+\i (00:05:17) Esc 
+\i (00:05:17) prepopup -2.0242 0.8823
+\i (00:05:19) cancel 
+\i (00:05:19) generaledit 
+\i (00:05:19) pick grid -1.9550 3.1315
+\t (00:05:19) last pick:  -1.9500 3.1500
+\i (00:05:20) prepopup -2.5087 2.5605
+\i (00:05:23) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:05:23) generaledit 
+\i (00:05:23) drag_start grid -2.4222 2.8374
+\i (00:05:24) drag_stop 2.8893 0.1730
+\i (00:05:26) move 
+\i (00:05:28) pick grid -0.9343 1.1765
+\t (00:05:28) last pick:  -0.9500 1.2000
+\t (00:05:28) Pick new location for the element(s).
+\i (00:06:23) ipick 0 0.45 
+\t (00:06:23) last pick:  -0.9500 1.6500
+\i (00:06:24) generaledit 
+\i (00:06:26) prepopup -2.1799 -0.4152
+\i (00:06:27) pick grid -3.0277 0.7612
+\t (00:06:27) last pick:  -3.0500 0.7500
+\i (00:06:28) drag_start grid -1.6609 -0.3114
+\i (00:06:28) drag_stop 4.2560 -3.4775
+\i (00:06:29) pick grid -0.9343 -0.9862
+\t (00:06:29) last pick:  -0.9500 -1.0000
+\i (00:06:30) pick grid -2.0934 -0.3287
+\t (00:06:30) last pick:  -2.1000 -0.3500
+\i (00:06:30) drag_start grid -2.6298 -0.1903
+\i (00:06:30) drag_stop 3.6851 -3.7197
+\i (00:06:35) pick grid -2.2664 -1.0035
+\t (00:06:35) last pick:  -2.2500 -1.0000
+\i (00:06:37) pick grid -1.0208 1.5225
+\t (00:06:37) last pick:  -1.0000 1.5000
+\i (00:06:43) pick grid 0.0173 1.5398
+\t (00:06:43) last pick:  0.0000 1.5500
+\i (00:06:45) pick grid 1.0034 1.5052
+\t (00:06:45) last pick:  1.0000 1.5000
+\i (00:06:48) pick grid 0.0346 1.3322
+\t (00:06:48) last pick:  0.0500 1.3500
+\i (00:06:50) pick grid 0.1211 -0.0865
+\t (00:06:50) last pick:  0.1000 -0.1000
+\i (00:06:58) pick grid -0.9343 1.6955
+\t (00:06:58) last pick:  -0.9500 1.7000
+\i (00:07:09) pick grid -2.6471 2.8374
+\t (00:07:09) last pick:  -2.6500 2.8500
+\i (00:07:17) pick grid -0.9170 1.6609
+\t (00:07:17) last pick:  -0.9000 1.6500
+\i (00:07:18) pick grid -2.4395 1.5052
+\t (00:07:18) last pick:  -2.4500 1.5000
+\i (00:07:21) show measure 
+\i (00:07:22) pick grid -0.9689 1.6090
+\t (00:07:22) last pick:  -0.9500 1.6000
+\i (00:07:36) setwindow text
+\i (00:07:36) close 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) pick grid -2.9931 3.5986
+\t (00:07:37) last pick:  -3.0000 3.6000
+\i (00:07:38) pick grid -2.8201 3.0969
+\t (00:07:38) last pick:  -2.8000 3.1000
+\i (00:07:38) prepopup -1.5052 2.8893
+\i (00:07:38) done 
+\i (00:07:39) generaledit 
+\i (00:07:39) drag_start grid -2.7682 2.9758
+\i (00:07:39) drag_stop 2.5432 1.0727
+\i (00:07:41) move 
+\i (00:07:42) pick grid -0.9170 1.7301
+\t (00:07:42) last pick:  -0.9000 1.7500
+\t (00:07:42) Pick new location for the element(s).
+\i (00:07:48) ipick 0 -0.15 
+\t (00:07:48) last pick:  -0.9000 1.6000
+\i (00:07:49) generaledit 
+\i (00:07:50) prepopup -3.0796 0.8823
+\i (00:07:51) pick grid -3.0623 1.9031
+\t (00:07:51) last pick:  -3.0500 1.9000
+\i (00:07:54) show measure 
+\i (00:07:55) pick grid -0.9170 1.4360
+\t (00:07:55) last pick:  -0.9000 1.4500
+\i (00:07:58) setwindow text
+\i (00:07:58) close 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) pick grid -2.4741 -0.0865
+\t (00:07:59) last pick:  -2.4500 -0.1000
+\i (00:08:00) pick grid -0.9170 -1.1073
+\t (00:08:00) last pick:  -0.9000 -1.1000
+\i (00:08:12) Esc 
+\i (00:08:12) Esc 
+\i (00:08:13) Esc 
+\i (00:08:13) Esc 
+\i (00:08:14) prepopup -2.3529 -0.2249
+\i (00:08:14) done 
+\i (00:08:14) generaledit 
+\i (00:08:16) move 
+\t (00:08:16) Select element(s) to move.
+\i (00:08:16) drag_start grid -2.2318 -0.6055
+\i (00:08:17) drag_stop 2.0934 -2.1453
+\i (00:08:19) move 
+\t (00:08:19) Select element(s) to move.
+\i (00:08:20) drag_start grid -1.5571 -0.7613
+\i (00:08:21) drag_stop 2.5605 -1.8339
+\i (00:08:22) pick grid -1.0381 -1.1592
+\t (00:08:22) last pick:  -1.0500 -1.1500
+\t (00:08:22) Pick new location for the element(s).
+\i (00:08:27) ipick 0 -0.30 
+\t (00:08:27) last pick:  -1.0500 -1.4500
+\i (00:08:28) prepopup -2.4395 -0.6920
+\i (00:08:29) done 
+\i (00:08:29) generaledit 
+\i (00:08:29) pick grid -2.8547 -0.1384
+\t (00:08:29) last pick:  -2.8500 -0.1500
+\i (00:08:37) show measure 
+\i (00:08:38) pick grid -0.9343 -1.4706
+\t (00:08:38) last pick:  -0.9500 -1.4500
+\i (00:08:39) pick grid 0.9515 -1.5225
+\t (00:08:39) last pick:  0.9500 -1.5000
+\i (00:08:50) pick grid 1.0381 1.4879
+\t (00:08:50) last pick:  1.0500 1.5000
+\i (00:08:54) Esc 
+\i (00:08:54) Esc 
+\i (00:08:54) Esc 
+\i (00:08:56) save_as 
+\i (00:10:04) fillin "smp6_1_9r2_8.dra"
+\t (00:10:04) Symbol 'smp6_1_9r2_8.psm' created.
+\i (00:10:05) generaledit 
+\i (00:10:09) drag_start grid -2.3183 2.8893
+\i (00:10:10) drag_stop 1.8166 0.5709
+\i (00:10:14) move 
+\i (00:10:15) pick grid -0.9170 1.5225
+\t (00:10:15) last pick:  -0.9000 1.5000
+\t (00:10:15) Pick new location for the element(s).
+\i (00:10:19) ipick 0 -0.05 
+\t (00:10:19) last pick:  -0.9000 1.4500
+\i (00:10:19) generaledit 
+\i (00:10:20) prepopup -2.9931 0.0865
+\i (00:10:21) pick grid -2.7163 1.1419
+\t (00:10:21) last pick:  -2.7000 1.1500
+\i (00:10:22) drag_start grid -1.7993 -1.1419
+\i (00:10:22) drag_stop 2.4740 -3.1142
+\i (00:10:23) move 
+\i (00:10:24) pick grid -0.9862 -1.5052
+\t (00:10:24) last pick:  -1.0000 -1.5000
+\t (00:10:24) Pick new location for the element(s).
+\i (00:10:27) ipick 0 0.05 
+\t (00:10:27) last pick:  -1.0000 -1.4500
+\i (00:10:27) generaledit 
+\i (00:10:28) prepopup -3.2872 -0.0173
+\i (00:10:29) pick grid -3.0623 1.3841
+\t (00:10:29) last pick:  -3.0500 1.4000
+\i (00:10:30) save 
+\i (00:10:33) fillin yes 
+\t (00:10:33) Symbol 'smp6_1_9r2_8.psm' created.
+\i (00:10:33) generaledit 
+\i (00:10:36) pick grid -1.3841 1.3149
+\t (00:10:36) last pick:  -1.4000 1.3000
+\i (00:10:37) move 
+\t (00:10:37) last pick:  -1.5000 1.2000
+\t (00:10:37) Pick new location for the element(s).
+\i (00:10:38) pick grid -2.0242 1.1765
+\t (00:10:38) last pick:  -2.0000 1.2000
+\i (00:10:38) generaledit 
+\i (00:10:39) save 
+\i (00:10:40) fillin yes 
+\t (00:10:40) Symbol 'smp6_1_9r2_8.psm' created.
+\i (00:10:40) generaledit 
+\i (00:10:42) exit 
+\t (00:10:42)     Journal end - Sat Feb 20 22:13:33 2016

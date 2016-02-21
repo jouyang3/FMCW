@@ -1,0 +1,30 @@
+\t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 30 02:26:08 2016
+\t (00:00:00)         Host=DART User=Dart Pid=8672 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\UltraLibrarian\Library\Exported\Allegro\hmc701-40\HCP_40_1.dra
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/UltraLibrarian/Library/Exported/Allegro/hmc701-40/HCP_40_1.dra
+\i (00:00:00) trapsize 129
+\i (00:00:00) trapsize 121
+\i (00:00:00) trapsize 130
+\i (00:00:00) trapsize 90
+\i (00:00:00) trapsize 90
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -4.84 15.79
+\i (00:00:02) trapsize 179
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -4.12 12.56
+\i (00:00:02) trapsize 359
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out 6.64 -17.59
+\i (00:00:02) trapsize 718
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 10.95 -19.02
+\i (00:00:02) trapsize 359
+\i (00:00:05) exit 
+\t (00:00:06)     Journal end - Sat Jan 30 02:26:14 2016

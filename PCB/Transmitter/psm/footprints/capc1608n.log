@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : capc1608n.dra                                 )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Jan 17 04:56:56 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Footprints
+    Name      = capc1608n.psm
+    User      = Dart
+    Machine   = DART
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

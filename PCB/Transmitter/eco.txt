@@ -1,0 +1,281 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5V          pins ADDED TO this new net
+                                 5V1.1          C6.2           C7.2           
+                                 C9.2           C10.2          C11.2          
+                                 C12.2          C22.2          C23.2          
+                                 C26.2          C27.2          C28.2          
+                                 LP5900_3V3_A1.6 LP5900_3V3_A2.6 
+                                 LP5900_3V3_D1.6 PLL1.2         PLL1.3         
+                                 PLL1.7         PLL1.8         PLL1.11        
+                                 PLL1.13        R2.2           R3.2           
+                                 R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3VANALOG     pins ADDED TO this new net
+                                 C4.2           C13.1          C17.2          
+                                 C18.2          C20.2          C21.2          
+                                 LP5900_3V3_A1.1 PLL1.1         PLL1.16        
+                                 PLL1.39        R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3VDIGITAL    pins ADDED TO this new net
+                                 C8.1           C15.2          C16.2          
+                                 C29.2          C30.2          LP5900_3V3_D1.1 
+                                 PLL1.22        PLL1.34        PLL1.35        
+                                 PLL1.36        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 5V1.2          C1.1           C2.1           
+                                 C3.1           C4.1           C5.1           
+                                 C6.1           C7.1           C8.2           
+                                 C9.1           C10.1          C11.1          
+                                 C12.1          C15.1          C16.1          
+                                 C17.1          C18.1          C19.1          
+                                 C20.1          C21.1          C22.1          
+                                 C23.1          C24.1          C25.1          
+                                 C26.1          C27.1          C28.1          
+                                 C29.1          C30.1          GPIO_SPI1.8    
+                                 J1.1           J1.3           LP5900_3V3_A1.3 
+                                 LP5900_3V3_A2.3 LP5900_3V3_D1.3 PLL1.5         
+                                 PLL1.6         PLL1.9         PLL1.12        
+                                 PLL1.14        PLL1.41        PLL_OUT1.2     
+                                 U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GP01         pins ADDED TO this new net
+                                 GPIO_SPI1.1    PLL1.23        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GP02         pins ADDED TO this new net
+                                 GPIO_SPI1.2    PLL1.24        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GP03         pins ADDED TO this new net
+                                 GPIO_SPI1.3    PLL1.25        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78296       pins ADDED TO this new net
+                                 C19.2          PLL1.38        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78304       pins ADDED TO this new net
+                                 C14.2          PLL1.37        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78474       pins ADDED TO this new net
+                                 PLL1.10        R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78616       pins ADDED TO this new net
+                                 C5.2           PLL1.18        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N78878       pins ADDED TO this new net
+                                 LP5900_3V3_D1.4 R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N79360       pins ADDED TO this new net
+                                 LP5900_3V3_A1.4 R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N80357       pins ADDED TO this new net
+                                 C3.2           PLL1.15        U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N81782       pins ADDED TO this new net
+                                 LP5900_3V3_A2.4 R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N780341      pins ADDED TO this new net
+                                 C13.2          PLL1.40        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PLL_OUT      pins ADDED TO this new net
+                                 PLL1.4         PLL_OUT1.1     
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 GPIO_SPI1.6    PLL1.29        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDI          pins ADDED TO this new net
+                                 GPIO_SPI1.5    PLL1.28        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDO          pins ADDED TO this new net
+                                 GPIO_SPI1.7    PLL1.33        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SEN          pins ADDED TO this new net
+                                 GPIO_SPI1.4    PLL1.27        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  TCXO_POWER   pins ADDED TO this new net
+                                 C24.2          C25.2          LP5900_3V3_A2.1 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TXCO_POWER   pins ADDED TO this new net
+                                 C1.2           C2.2           U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCOIP        pins ADDED TO this new net
+                                 C14.1          J1.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 8 HEADER_HEADER8_GPIO_SPI
+ CAP_CAPC1608N_0.001UF
+ CAP_CAPC1608N_0.1UF
+ CAP_CAPC1608N_100PF
+ CAP_CAPC1608N_10PF
+ CAP_CAPC1608N_1UF
+ CAP_CAPC1608N_4.5UF
+ CAP_CAPC1608N_4.7UF
+ CAP_CAPC1608N_CAP
+ CON2_HEADER2_CON2
+ D75J_D75J_D75J
+ HEADER 2_HEADER2_HEADER 2
+ HMC701_HCP_40_1_HMC701
+ LP5900_SMP6_1_2_LP5900
+ RES_CAPC1608N_0
+ RES_CAPC1608N_10K
+ SMA_3_SMA_AMPHENOL_S_SMA_3
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 5V1                 HEADER 2_HEADER2_HEADER 2 
+ C1                  CAP_CAPC1608N_CAP     
+ C2                  CAP_CAPC1608N_CAP     
+ C3                  CAP_CAPC1608N_CAP     
+ C4                  CAP_CAPC1608N_CAP     
+ C5                  CAP_CAPC1608N_0.001UF 
+ C6                  CAP_CAPC1608N_CAP     
+ C7                  CAP_CAPC1608N_CAP     
+ C8                  CAP_CAPC1608N_1UF     
+ C9                  CAP_CAPC1608N_CAP     
+ C10                 CAP_CAPC1608N_1UF     
+ C11                 CAP_CAPC1608N_0.1UF   
+ C12                 CAP_CAPC1608N_0.1UF   
+ C13                 CAP_CAPC1608N_0.001UF 
+ C14                 CAP_CAPC1608N_100PF   
+ C15                 CAP_CAPC1608N_1UF     
+ C16                 CAP_CAPC1608N_0.1UF   
+ C17                 CAP_CAPC1608N_10PF    
+ C18                 CAP_CAPC1608N_0.1UF   
+ C19                 CAP_CAPC1608N_100PF   
+ C20                 CAP_CAPC1608N_1UF     
+ C21                 CAP_CAPC1608N_0.1UF   
+ C22                 CAP_CAPC1608N_0.1UF   
+ C23                 CAP_CAPC1608N_4.7UF   
+ C24                 CAP_CAPC1608N_1UF     
+ C25                 CAP_CAPC1608N_0.1UF   
+ C26                 CAP_CAPC1608N_0.1UF   
+ C27                 CAP_CAPC1608N_0.1UF   
+ C28                 CAP_CAPC1608N_4.5UF   
+ C29                 CAP_CAPC1608N_1UF     
+ C30                 CAP_CAPC1608N_0.1UF   
+ GPIO_SPI1           8 HEADER_HEADER8_GPIO_SPI 
+ J1                  SMA_3_SMA_AMPHENOL_S_SMA_3 
+ LP5900_3V3_A1       LP5900_SMP6_1_2_LP5900 
+ LP5900_3V3_A2       LP5900_SMP6_1_2_LP5900 
+ LP5900_3V3_D1       LP5900_SMP6_1_2_LP5900 
+ PLL1                HMC701_HCP_40_1_HMC701 
+ PLL_OUT1            CON2_HEADER2_CON2     
+ R1                  RES_CAPC1608N_0       
+ R2                  RES_CAPC1608N_10K     
+ R3                  RES_CAPC1608N_10K     
+ R4                  RES_CAPC1608N_10K     
+ U1                  D75J_D75J_D75J        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 5V1.2                          PRIM_FILE      .\pstchip.dat
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C29.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ GPIO_SPI1.8                    PRIM_FILE      .\pstchip.dat
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ LP5900_3V3_A1.7                 PRIM_FILE      .\pstchip.dat
+ LP5900_3V3_A2.7                 PRIM_FILE      .\pstchip.dat
+ LP5900_3V3_D1.7                 PRIM_FILE      .\pstchip.dat
+ PLL1.17                        PRIM_FILE      .\pstchip.dat
+ PLL_OUT1.2                     PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ U1.9                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  PLL_SQ.brd                                                                  |
+|                                                    Fri Feb 05 00:33:24 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  234                                            |
+|------------------------------------------------------------------------------|

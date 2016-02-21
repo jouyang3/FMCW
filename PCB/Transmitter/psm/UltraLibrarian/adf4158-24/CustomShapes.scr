@@ -1,0 +1,18 @@
+# Allegro Script file created by :
+# Ultra Librarian Lite 8.1.31 Copyright © 1999-2016 Accelerated Designs
+# http://www.Accelerated-Designs.com
+ 
+# Registered to :
+# Ultra Librarian Free Reader
+# 
+ 
+ 
+version 14.0
+enved
+setwindow Form.prfedit
+FORM prfedit treelist Ui
+FORM prfedit noconfirm YES
+FORM prfedit done
+ 
+setwindow pcb
+exit

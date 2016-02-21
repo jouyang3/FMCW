@@ -1,0 +1,18 @@
+\t (00:00:01) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:01)     Journal start - Sat Feb 20 23:42:16 2016
+\t (00:00:01)         Host=DART User=Dart Pid=1064 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\TRANS.DSN
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\e (00:00:03) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (00:00:03) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (00:00:04) fillin confirm
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 837
+\i (00:00:05) trapsize 817
+\i (00:00:05) trapsize 840
+\i (00:00:05) trapsize 716
+\i (00:00:05) trapsize 1421
+\i (00:00:05) generaledit 
+\i (00:00:07) exit 
+\t (00:00:08)     Journal end - Sat Feb 20 23:42:22 2016

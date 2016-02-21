@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pat1220.dra                                   )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Tue Jan 26 18:03:25 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Footprints
+    Name      = pat1220.psm
+    User      = Dart
+    Machine   = DART
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

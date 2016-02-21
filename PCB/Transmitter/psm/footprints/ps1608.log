@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ps1608.dra                                    )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Tue Jan 26 18:44:46 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Footprints
+    Name      = ps1608.psm
+    User      = Dart
+    Machine   = DART
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

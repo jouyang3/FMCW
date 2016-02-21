@@ -1,0 +1,63 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Fri Feb 19 21:17:30 2016
+\t (00:00:00)         Host=DART User=Dart Pid=6684 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) FORM padedit layers  
+\i (00:00:06) pse_open 
+\i (00:00:34) fillin "th1_0c_unp.pad"
+\i (00:00:42) FORM padedit parameters  
+\i (00:00:52) FORM padedit layers  
+\i (00:00:57) FORM padedit crossbox YES 
+\i (00:00:58) FORM padedit stackbox YES 
+\i (00:01:06) FORM padedit parameters  
+\i (00:01:16) FORM padedit plating Plated 
+\i (00:01:19) FORM padedit layers  
+\i (00:01:26) pse_open 
+\i (00:02:43) fillin "th1_22c1_98s.pad"
+\i (00:02:45) fillin yes 
+\i (00:02:52) FORM padedit parameters  
+\i (00:02:54) FORM padedit layers  
+\i (00:03:02) pse_open 
+\i (00:03:28) fillin "th1_78c2_54c.pad"
+\i (00:03:32) FORM padedit grid row begin_layer 
+\i (00:03:51) FORM padedit parameters  
+\i (00:03:53) FORM padedit layers  
+\i (00:04:03) pse_open 
+\i (00:04:36) fillin "th0_8c1_31c.pad"
+\i (00:04:36) FORM padedit grid row default_internal 
+\i (00:04:46) FORM padedit parameters  
+\i (00:05:03) FORM padedit layers  
+\i (00:05:11) pse_open 
+\i (00:05:19) fillin "th1_0c_unp.pad"
+\i (00:05:19) FORM padedit grid row pastemask_bottom 
+\i (00:05:23) FORM padedit parameters  
+\i (00:05:25) FORM padedit plating Plated 
+\i (00:05:26) FORM padedit layers  
+\i (00:05:28) FORM padedit grid row begin_layer 
+\i (00:05:37) FORM padedit width 1.45 
+\i (00:05:57) FORM padedit width 0.7 
+\i (00:05:59) FORM padedit height 0.7 
+\i (00:06:18) FORM padedit width 1.45 
+\i (00:06:23) FORM padedit width_th 1.450 
+\i (00:06:28) FORM padedit width_ant 1.550 
+\i (00:06:31) FORM padedit grid row default_internal 
+\i (00:06:37) FORM padedit width 1.450 
+\i (00:06:38) FORM padedit width_th 1.450 
+\i (00:06:40) FORM padedit width_ant 1.450 
+\i (00:06:43) FORM padedit width_ant 1.550 
+\i (00:06:51) FORM padedit grid row end_layer 
+\i (00:06:59) FORM padedit width 1.450 
+\i (00:07:00) FORM padedit width_th 1.450 
+\i (00:07:05) FORM padedit width_ant 1.550 
+\i (00:07:07) FORM padedit grid row soldermask_top 
+\i (00:07:12) FORM padedit width 1.550 
+\i (00:07:14) FORM padedit grid row soldermask_bottom 
+\i (00:07:23) FORM padedit width 1.550 
+\i (00:07:26) FORM padedit parameters  
+\i (00:07:30) FORM padedit layers  
+\i (00:07:34) pse_save_as 
+\i (00:08:55) fillin "th1_0c1_45c.pad"
+\i (00:08:56) pse_exit
+\t (00:08:56)     Journal end - Fri Feb 19 21:26:27 2016

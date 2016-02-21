@@ -1,0 +1,690 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Feb-20-2016 at 23:24:11 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TRANS';
+ POST_TIME='Oct 15 2014 05:53:32';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_CAPC1608N_100PF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27338@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27338@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27338@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_CAPC1608N_11NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26558@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26558@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26558@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_CAPC1608N_100PF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26726@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26726@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26726@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_CAPC1608N_1.51UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26578@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26578@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26578@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_CAPC1608N_10NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27012@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27012@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27012@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_CAPC1608N_10NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26634@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26634@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26634@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_CAPC1608N_0.1UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26742@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26742@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26742@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_CAPC1608N_100PF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27306@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27306@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27306@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_CAPC1608N_CAP':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26996@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26996@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26996@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_CAPC1608N_CAP':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26670@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26670@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26670@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_CAPC1608N_100PF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27358@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27358@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27358@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_CAPC1608N_0.1UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28454@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28454@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28454@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_CAPC1608N_CAP':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26690@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26690@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26690@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_CAPC1608N_10NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28884@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28884@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28884@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_CAPC1608N_4.7UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28932@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28932@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28932@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_CAPC1608N_1UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28852@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28852@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28852@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_CAPC1608N_10NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26538@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26538@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26538@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_CAPC1608N_4.7UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26650@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26650@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26650@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_CAPC1608N_1UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28978@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28978@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28978@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_CAPC1608N_22UF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26706@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26706@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26706@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_CAPC1608N_100PF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27322@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27322@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27322@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_CAPC1608N_10PF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28474@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28474@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28474@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_CAPC1608N_1NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28606@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28606@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28606@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_CAPC1608N_1NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27036@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27036@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27036@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_CAPC1608N_1NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26618@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26618@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26618@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_CAPC1608N_50.8NF':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26602@PASSIVES.CAP.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26602@passives.\cap.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26602@passives.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_SMA_AMPHENOL_S_CON3':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27878@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27878@connector.\con3.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27878@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_SMA_AMPHENOL_S_CON3':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28804@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28804@connector.\con3.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28804@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_SMA_AMPHENOL_S_CON3':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27824@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27824@connector.\con3.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27824@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 6_JUMPER6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS29934@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins29934@connector.\header 6.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins29934@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'JUMPER1_JUMPER2_JUMPER1':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28300@CONNECTOR.JUMPER1.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28300@connector.\jumper1.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28300@connector.\jumper1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'JUMPER1_JUMPER2_JUMPER1':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28316@CONNECTOR.JUMPER1.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28316@connector.\jumper1.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28316@connector.\jumper1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON3_SMA_AMPHENOL_S_CON3':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27842@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27842@connector.\con3.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27842@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CON3_SMA_AMPHENOL_S_CON3':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27860@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27860@connector.\con3.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27860@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 2_JUMPER2_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28670@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28670@connector.\header 2.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28670@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28502@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28502@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28502@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_CAPC1608N_330':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27660@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27660@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27660@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_CAPC1608N_330':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27644@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27644@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27644@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_CAPC1608N_330':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26848@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26848@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26848@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26880@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26880@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26880@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES_CAPC1608N_10K':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27454@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27454@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27454@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28518@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28518@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28518@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_CAPC1608N_330':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28534@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28534@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28534@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28402@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28402@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28402@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_CAPC1608N_330':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28566@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28566@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28566@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_CAPC1608N_60.1':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26812@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26812@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26812@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_CAPC1608N_29.4':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28550@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28550@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28550@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27692@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27692@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27692@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_CAPC1608N_51':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27676@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27676@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27676@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_CAPC1608N_4.7K':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26832@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26832@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26832@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27708@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27708@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27708@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28234@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28234@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28234@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_CAPC1608N_0':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28082@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28082@passives.\res.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28082@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27474@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27474@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27474@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28380@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28380@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28380@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28112@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28112@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28112@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27502@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27502@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27502@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27488@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27488@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27488@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP6 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27984@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27984@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27984@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27516@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27516@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27516@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP8 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28042@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28042@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28042@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP9 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28056@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28056@connector.\test point.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28056@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'PAT129_PAT2012_PAT129':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28726@TRANS.PAT129.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28726@trans.\pat129.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28726@trans.\pat129.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ADF4158_CP_24_7_ADF4158':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS26470@TRANS.ADF4158.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins26470@trans.\adf4158.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins26470@trans.\adf4158.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ADP3300_SMP6_1_9R2_8_ADP3300':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28752@TRANS.ADP3300.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28752@trans.\adp3300.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28752@trans.\adp3300.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'ADP3300_SMP6_1_9R2_8_ADP3300':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28776@TRANS.ADP3300.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28776@trans.\adp3300.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28776@trans.\adp3300.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VCO1 'HMC509_HCP_32_1_HMC509':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS27224@TRANS.HMC509.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins27224@trans.\hmc509.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins27224@trans.\hmc509.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'FOX801_FOX801_FOX801':;
+
+SECTION_NUMBER 1
+ '@TRANS.SCHEMATIC5(SCH_1):INS28172@TRANS.FOX801.NORMAL(CHIPS)':
+ C_PATH='@trans.schematic5(sch_1):ins28172@trans.\fox801.normal\(chips)',
+ P_PATH='@trans.schematic5(sch_1):page1_ins28172@trans.\fox801.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

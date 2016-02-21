@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PLL.brd                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jan 30 03:03:40 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  PLL / HMC701_HCP_40_1_HMC701 / HCP_40_1 at (-858.00 1151.20)
+         Placed symbol:  GPIO_SPI / 8 HEADER_HEADER8_GPIO_SPI / HEADER8 at (-529.63 1073.42)
+         Placed symbol:  LP5900_3V3_A / LP5900_SMP6_1_2_LP5900 / SMP6_1_2 at (-193.48 1086.99)
+         Placed symbol:  LP5900_3V3_D / LP5900_SMP6_1_2_LP5900 / SMP6_1_2 at (-85.22 1086.99)
+         Placed symbol:  J2 / SMA_3_SMA_AMPHENOL_S_SMA_3 / SMA_AMPHENOL_S at (-21.52 1154.50)
+         Placed symbol:  J1 / SMA_3_SMA_AMPHENOL_S_SMA_3 / SMA_AMPHENOL_S at (169.48 1154.50)
+         Placed symbol:  C26 / CAP_CAPC1608N_1UF / CAPC1608N at (413.50 1037.53)
+         Placed symbol:  C12 / CAP_CAPC1608N_1UF / CAPC1608N at (543.54 1037.53)
+         Placed symbol:  C18 / CAP_CAPC1608N_1UF / CAPC1608N at (673.58 1037.53)
+         Placed symbol:  C5 / CAP_CAPC1608N_1UF / CAPC1608N at (803.62 1037.53)
+         Placed symbol:  C15 / CAP_CAPC1608N_0.1UF / CAPC1608N at (933.66 1037.53)
+         Placed symbol:  C14 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-930.98 1338.53)
+         Placed symbol:  C19 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-800.94 1338.53)
+         Placed symbol:  C22 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-670.90 1338.53)
+         Placed symbol:  C24 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-540.86 1338.53)
+         Placed symbol:  C9 / CAP_CAPC1608N_CAP / CAPC1608N at (-410.82 1338.53)
+         Placed symbol:  C11 / CAP_CAPC1608N_1UF / CAPC1608N at (-280.78 1338.53)
+         Placed symbol:  C13 / CAP_CAPC1608N_CAP / CAPC1608N at (-150.74 1338.53)
+         Placed symbol:  C6 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-20.70 1338.53)
+         Placed symbol:  C10 / CAP_CAPC1608N_CAP / CAPC1608N at (109.34 1338.53)
+         Placed symbol:  C16 / CAP_CAPC1608N_0.001UF / CAPC1608N at (239.38 1338.53)
+         Placed symbol:  C8 / CAP_CAPC1608N_0.001UF / CAPC1608N at (369.42 1338.53)
+         Placed symbol:  C17 / CAP_CAPC1608N_100PF / CAPC1608N at (499.46 1338.53)
+         Placed symbol:  C20 / CAP_CAPC1608N_100PF / CAPC1608N at (629.50 1338.53)
+         Placed symbol:  C2 / CAP_CAPC1608N_4.5UF / CAPC1608N at (759.54 1338.53)
+         Placed symbol:  C21 / CAP_CAPC1608N_10PF / CAPC1608N at (889.58 1338.53)
+         Placed symbol:  C23 / CAP_CAPC1608N_4.7UF / CAPC1608N at (-930.98 1408.55)
+         Placed symbol:  C1 / CAP_CAPC1608N_CAP / CAPC1608N at (-800.94 1408.55)
+         Placed symbol:  C4 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-670.90 1408.55)
+         Placed symbol:  C25 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-540.86 1408.55)
+         Placed symbol:  C3 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-410.82 1408.55)
+         Placed symbol:  5V / HEADER 2_HEADER2_HEADER 2 / HEADER2 at (-258.87 1399.16)
+         Placed symbol:  C7 / CAP_CAPC1608N_0.1UF / CAPC1608N at (-107.17 1408.55)
+         Placed symbol:  PLL_OUT / CON2_HEADER2_CON2 / HEADER2 at (44.78 1399.16)
+         Placed symbol:  R1 / RES_CAPC1608N_10K / CAPC1608N at (196.48 1408.55)
+         Placed symbol:  R4 / RES_CAPC1608N_10K / CAPC1608N at (326.52 1408.55)
+         Placed symbol:  R2 / RES_CAPC1608N_51 / CAPC1608N at (456.56 1408.55)
+         Placed symbol:  R3 / RES_CAPC1608N_0 / CAPC1608N at (586.60 1408.55)
+
+
+Placed 38 of 38 applicable (38 total) symbols.
+
+-----------------------------------------------------------------------
+

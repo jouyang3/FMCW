@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:00)     Journal start - Sat Feb 20 21:56:21 2016
+\t (00:00:00)         Host=DART User=Dart Pid=7324 CPUs=4
+\t (00:00:00) CmdLine= allegro -s CustomShapes.scr
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 837
+\i (00:00:00) trapsize 817
+\i (00:00:00) trapsize 840
+\i (00:00:01) trapsize 716
+\i (00:00:01) trapsize 1421
+\i (00:00:01) replay CustomShapes.scr 
+\i (00:00:01) version 14.0 
+\t (00:00:01) Script version: 14.0
+\i (00:00:01) enved 
+\i (00:00:03) setwindow Form.prfedit 
+\i (00:00:03) FORM prfedit treelist Ui 
+\i (00:00:03) FORM prfedit noconfirm YES 
+\e (00:00:03) Form field label not found
+\i (00:00:03) FORM prfedit done 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) exit 
+\t (00:00:03)     Journal end - Sat Feb 20 21:56:25 2016

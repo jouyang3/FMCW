@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : jumper1.dra                                   )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Fri Feb 19 21:53:19 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Dart/Desktop/PCBv1/transFull/psm/footprints
+    Name      = jumper1.psm
+    User      = Dart
+    Machine   = DART
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,10 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 30 01:03:17 2016
+\t (00:00:00)         Host=DART User=Dart Pid=4760 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:06) setwindow form.padedit
+\i (00:00:06) pse_open 
+\i (00:00:21) fillin "menu_cancel"
+\i (00:00:23) pse_exit
+\t (00:00:23)     Journal end - Sat Jan 30 01:03:41 2016

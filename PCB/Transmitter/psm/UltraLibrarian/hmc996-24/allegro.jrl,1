@@ -1,0 +1,326 @@
+\t (00:00:03) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:03)     Journal start - Tue Jan 26 17:03:35 2016
+\t (00:00:03)         Host=DART User=Dart Pid=7320 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\UltraLibrarian\Library\Exported\Allegro\hmc996-24\HCP_24_3.dra
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/UltraLibrarian/Library/Exported/Allegro/hmc996-24/HCP_24_3.dra
+\i (00:00:05) trapsize 67
+\i (00:00:05) trapsize 64
+\i (00:00:05) trapsize 67
+\i (00:00:05) trapsize 54
+\i (00:00:05) trapsize 54
+\i (00:00:07) trapsize 39
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 4.68 4.51
+\i (00:00:07) trapsize 78
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 4.68 4.04
+\i (00:00:08) trapsize 156
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 4.05 -1.26
+\i (00:00:08) trapsize 311
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 20.24 -60.43
+\i (00:00:08) trapsize 156
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 19.93 -60.74
+\i (00:00:09) trapsize 311
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -26.79 53.25
+\i (00:00:13) trapsize 156
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 114.28 31.45
+\i (00:00:21) trapsize 311
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 137.95 20.87
+\i (00:00:21) trapsize 156
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out -122.09 41.73
+\i (00:00:24) trapsize 311
+\i (00:37:02) new 
+\i (00:37:49) newdrawfillin "pat1220.dra" "Package Symbol"
+\t (00:37:49) Starting new design...
+\i (00:37:49) trapsize 2044
+\i (00:37:49) trapsize 2044
+\i (00:37:55) prmed 
+\i (00:38:01) setwindow form.prmedit
+\i (00:38:01) FORM prmedit cancel  
+\i (00:38:04) setwindow pcb
+\i (00:38:04) prmed 
+\i (00:38:05) setwindow form.prmedit
+\i (00:38:05) FORM prmedit design  
+\i (00:38:08) FORM prmedit units Millimeter 
+\e (00:38:08) Change may cause round-off; run dbcheck.
+\i (00:38:11) FORM prmedit display  
+\i (00:38:13) FORM prmedit design  
+\i (00:38:42) FORM prmedit x -10.0000 
+\i (00:38:47) FORM prmedit y 10.0000 
+\i (00:38:49) FORM prmedit width 10.0000 
+\i (00:38:54) FORM prmedit height 20.0000 
+\i (00:38:56) FORM prmedit width 20.0000 
+\i (00:39:02) FORM prmedit shapes  
+\i (00:39:03) FORM prmedit text  
+\i (00:39:03) FORM prmedit design  
+\i (00:39:04) FORM prmedit text  
+\i (00:39:05) FORM prmedit design  
+\i (00:39:05) FORM prmedit display  
+\i (00:39:08) FORM prmedit apply  
+\w (00:39:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:39:09) FORM prmedit done  
+\i (00:39:19) setwindow pcb
+\i (00:39:19) prmed 
+\i (00:39:23) setwindow form.prmedit
+\i (00:39:23) FORM prmedit design  
+\i (00:39:25) FORM prmedit text  
+\i (00:39:26) FORM prmedit shapes  
+\i (00:39:27) FORM prmedit flow_planning  
+\i (00:39:28) FORM prmedit route  
+\i (00:39:29) FORM prmedit cancel  
+\i (00:39:30) setwindow pcb
+\i (00:39:30) grid toggle 
+\i (00:39:38) define grid 
+\t (00:39:38) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:39:44) setwindow form.grid
+\i (00:39:44) FORM grid top subclass_x_grids 0.6350 
+\i (00:39:49) FORM grid non_etch non_etch_x_grids 1 
+\i (00:39:50) FORM grid non_etch non_etch_y_grids 1 
+\i (00:39:53) FORM grid top subclass_x_grids 1 
+\i (00:39:54) FORM grid top subclass_y_grids 1 
+\i (00:39:55) FORM grid bottom subclass_x_grids 1 
+\i (00:39:56) FORM grid bottom subclass_y_grids 1 
+\i (00:39:57) FORM grid done  
+\i (00:40:04) setwindow pcb
+\i (00:40:04) add line 
+\i (00:40:05) add rect 
+\i (00:40:40) add line 
+\i (00:40:48) setwindow form.mini
+\i (00:40:48) FORM mini class PACKAGE GEOMETRY 
+\i (00:41:21) setwindow pcb
+\i (00:41:21) prepopup -0.1932 7.0612
+\i (00:41:22) done 
+\i (00:41:23) shape add rect 
+\i (00:42:11) pick -1 -0.625 
+\t (00:42:11) last pick:  -1.0000 -0.6250
+\w (00:42:11) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:42:15) roam y -96 
+\t (00:42:19) last pick:  -2.8506 2.7276
+\w (00:42:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:21) last pick:  -0.1114 0.8061
+\w (00:42:21) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:23) last pick:  -3.1777 2.4414
+\w (00:42:23) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:42:25) shape add rect 
+\t (00:42:26) last pick:  -4.8539 3.5861
+\w (00:42:26) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:26) last pick:  0.8289 2.1144
+\w (00:42:26) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:39) last pick:  -1.6650 2.4414
+\w (00:42:39) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:40) last pick:  1.8101 -0.9928
+\w (00:42:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:40) last pick:  0.3383 -0.8292
+\w (00:42:40) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:42) last pick:  -2.8097 1.0514
+\w (00:42:42) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:42:47) prmed 
+\i (00:42:48) setwindow form.prmedit
+\i (00:42:48) FORM prmedit display  
+\i (00:42:51) FORM prmedit design  
+\i (00:42:58) FORM prmedit y -10.0000 
+\i (00:42:58) FORM prmedit done  
+\i (00:42:58) setwindow pcb
+\i (00:42:58) trapsize 1704
+\i (00:43:10) pick -1 -0.625 
+\e (00:43:10) No command active
+\i (00:43:12) shape add rect 
+\i (00:43:18) pick -1 -0.625 
+\t (00:43:18) last pick:  -1.0000 -0.6250
+\i (00:43:32) pick 1 0.625 
+\t (00:43:32) last pick:  1.0000 0.6250
+\i (00:43:34) prepopup 7.4787 0.1874
+\i (00:43:34) done 
+\i (00:43:35) zoom in 1 
+\i (00:43:35) setwindow pcb
+\i (00:43:35) zoom in -0.9370 1.8569
+\i (00:43:35) trapsize 852
+\i (00:43:35) zoom in 1 
+\i (00:43:35) setwindow pcb
+\i (00:43:35) zoom in -5.4344 1.8399
+\i (00:43:35) trapsize 426
+\i (00:43:35) zoom in 1 
+\i (00:43:35) setwindow pcb
+\i (00:43:35) zoom in -5.4344 1.8399
+\i (00:43:35) trapsize 213
+\i (00:43:36) zoom out 1 
+\i (00:43:36) setwindow pcb
+\i (00:43:36) zoom out -4.5400 1.6227
+\i (00:43:36) trapsize 426
+\i (00:43:36) zoom out 1 
+\i (00:43:36) setwindow pcb
+\i (00:43:36) zoom out -4.4975 1.6143
+\i (00:43:36) trapsize 852
+\i (00:43:37) zoom in 1 
+\i (00:43:37) setwindow pcb
+\i (00:43:37) zoom in 1.1925 -1.9122
+\i (00:43:37) trapsize 426
+\i (00:43:47) define grid 
+\t (00:43:47) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:43:59) setwindow form.grid
+\i (00:43:59) FORM grid non_etch non_etch_x_grids 0.01 
+\i (00:44:02) FORM grid non_etch non_etch_y_grids 0.01 
+\i (00:44:03) FORM grid top subclass_x_grids 0.01 
+\i (00:44:05) FORM grid top subclass_y_grids 0.01 
+\i (00:44:09) FORM grid bottom subclass_x_grids 0.01 
+\i (00:44:12) FORM grid bottom subclass_y_grids 0.01 
+\i (00:44:13) FORM grid bottom subclass_x_grids 0.0100 
+\i (00:44:13) FORM grid done  
+\t (00:44:13) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:45:38) setwindow pcb
+\i (00:45:38) zoom in 1 
+\i (00:45:38) setwindow pcb
+\i (00:45:38) zoom in -0.0596 -0.0126
+\t (00:45:38) Grids are drawn 0.0200, 0.0200 apart for enhanced viewability.
+\i (00:45:38) trapsize 213
+\i (00:45:39) zoom out 1 
+\i (00:45:39) setwindow pcb
+\i (00:45:39) zoom out -0.0595 -0.0126
+\t (00:45:39) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:45:39) trapsize 426
+\i (00:45:43) prmed 
+\i (00:45:47) setwindow form.prmedit
+\i (00:45:47) FORM prmedit cancel  
+\i (00:45:51) setwindow pcb
+\i (00:45:51) define grid 
+\t (00:45:51) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:45:54) setwindow form.grid
+\i (00:45:54) FORM grid top subclass_x_grids 0.0100 
+\i (00:45:56) FORM grid non_etch non_etch_x_grids 0.0500 
+\i (00:45:58) FORM grid non_etch non_etch_y_grids 0.0500 
+\i (00:45:59) FORM grid top subclass_x_grids 0.0500 
+\i (00:46:01) FORM grid top subclass_y_grids 0.0500 
+\i (00:46:02) FORM grid bottom subclass_x_grids 0.0500 
+\i (00:46:03) FORM grid bottom subclass_y_grids 0.0500 
+\i (00:46:03) FORM grid done  
+\i (00:46:39) setwindow pcb
+\i (00:46:39) add pin 
+\i (00:46:46) setwindow form.mini
+\i (00:46:46) FORM mini pad_browse  
+\i (00:47:02) fillin "Sm0_65R0_25"
+\t (00:47:02) Using 'SM0_65R0_25.pad'.
+\i (00:47:36) setwindow pcb
+\i (00:47:36) pick grid -0.6303 0.4815
+\t (00:47:36) last pick:  -0.6500 0.5000
+\t (00:47:36) Using 'SM0_65R0_25.pad'.
+\i (00:47:40) pick grid 0.6730 0.4985
+\t (00:47:40) last pick:  0.6500 0.5000
+\t (00:47:40) Using 'SM0_65R0_25.pad'.
+\i (00:48:16) setwindow form.mini
+\i (00:48:16) FORM mini pad_browse  
+\i (00:48:45) fillin "Sm2_1R0_45"
+\t (00:48:45) Using 'SM2_1R0_45.pad'.
+\i (00:48:53) setwindow pcb
+\i (00:48:53) pick grid 0.0171 -0.4129
+\t (00:48:53) last pick:  0.0000 -0.4000
+\t (00:48:53) Using 'SM2_1R0_45.pad'.
+\i (00:48:54) prepopup 4.4804 -0.7706
+\i (00:48:55) done 
+\t (00:48:55) Exiting from Add Pin.
+\i (00:50:04) save_as 
+\i (00:53:12) fillin "C:\SPB_Data\Footprints\pat1220.dra"
+\i (00:53:12) cd "C:\SPB_Data\Footprints"
+\e (00:53:14) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:53:19) setwindow text
+\i (00:53:19) close 
+\i (00:53:40) setwindow pcb
+\i (00:53:40) label refdes 
+\t (00:53:40) Pick text location.
+\i (00:53:43) pick grid 0.1704 0.9670
+\t (00:53:43) last pick:  0.1500 0.9500
+\t (00:53:43) Enter text string.
+\i (00:53:44) setwindow pcb
+\i (00:53:44) pick grid 0.3152 1.0777
+\t (00:53:44) last pick:  0.3000 1.1000
+\t (00:53:44) Enter text string.
+\i (00:53:44) setwindow pcb
+\i (00:53:44) pick grid dbl 0.3152 1.0777
+\t (00:53:44) last pick:  0.3000 1.1000
+\t (00:53:44) Enter text string.
+\i (00:54:50) setwindow pcb
+\i (00:54:50) pick grid 2.4362 -0.2340
+\t (00:54:50) last pick:  2.4500 -0.2500
+\i (00:54:50) setwindow pcb
+\i (00:54:50) pick 0.3000 1.1000
+\i (00:54:53) pick grid 0.3663 1.7336
+\t (00:54:53) last pick:  0.3500 1.7500
+\t (00:54:53) Refdes of this subclass is already defined, change subclass.
+\i (00:54:54) pick grid 0.3833 1.6229
+\t (00:54:54) last pick:  0.4000 1.6000
+\t (00:54:54) Refdes of this subclass is already defined, change subclass.
+\i (00:54:56) move 
+\t (00:54:57) Select element(s) to move.
+\i (00:54:57) pick grid 0.3408 1.6399
+\t (00:54:57) last pick:  0.3500 1.6500
+\t (00:54:57) last pick:  0.3000 1.1000
+\t (00:54:57) Pick new location for the element(s).
+\i (00:54:59) pick grid -2.5809 1.3674
+\t (00:54:59) last pick:  -2.6000 1.3500
+\i (00:55:00) pick grid -0.8177 1.1033
+\t (00:55:00) last pick:  -0.8000 1.1000
+\t (00:55:00) last pick:  0.6500 0.5000
+\t (00:55:00) Pick new location for the element(s).
+\i (00:55:03) pick grid 0.6389 0.5241
+\t (00:55:03) last pick:  0.6500 0.5000
+\i (00:55:07) Esc 
+\i (00:55:07) pick grid 2.7683 0.6007
+\t (00:55:07) last pick:  2.7500 0.6000
+\i (00:55:28) drag_start grid -2.5383 1.1885
+\i (00:55:29) drag_stop -1.9420 0.4219
+\i (00:55:32) drag_start grid -2.1294 0.6859
+\i (00:55:32) drag_stop -2.1294 0.4474
+\t (00:55:32) last pick:  -0.6500 0.5000
+\t (00:55:32) Pick new location for the element(s).
+\i (00:55:35) pick grid -0.6729 0.4815
+\t (00:55:35) last pick:  -0.6500 0.5000
+\i (00:58:31) pick grid 2.5554 0.8989
+\t (00:58:31) last pick:  2.5500 0.9000
+\i (00:58:32) pick grid -0.6644 0.9329
+\t (00:58:32) last pick:  -0.6500 0.9500
+\t (00:58:32) last pick:  0.6500 0.5000
+\t (00:58:32) Pick new location for the element(s).
+\i (00:58:34) pick grid 0.6730 0.5241
+\t (00:58:34) last pick:  0.6500 0.5000
+\i (00:58:50) prepopup -3.5604 1.4525
+\i (00:58:50) done 
+\i (00:59:09) setwindow form.mini
+\i (00:59:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:59:15) FORM mini subclass PIN_NUMBER 
+\i (00:59:18) setwindow pcb
+\i (00:59:18) move 
+\t (00:59:18) Select element(s) to move.
+\i (00:59:19) pick grid -2.1379 0.8137
+\t (00:59:19) last pick:  -2.1500 0.8000
+\t (00:59:19) last pick:  -0.6500 0.5000
+\t (00:59:19) Pick new location for the element(s).
+\i (00:59:23) pick grid -0.6303 0.4900
+\t (00:59:23) last pick:  -0.6500 0.5000
+\i (00:59:24) prepopup 1.8143 1.0011
+\i (00:59:25) done 
+\i (00:59:30) setwindow form.mini
+\i (00:59:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:59:52) setwindow pcb
+\i (00:59:52) save 
+\i (00:59:53) fillin yes 
+\t (00:59:53) Symbol 'pat1220.psm' created.
+\i (01:05:57) new 
+\i (01:06:07) newdrawfillin "ps1608.dra" "Package Symbol"
+\t (01:06:07)     Journal end - Tue Jan 26 18:09:38 2016

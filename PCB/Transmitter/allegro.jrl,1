@@ -1,18 +1,34 @@
-\t (00:00:01) allegro 16.6 S042 (v16-6-112DG) Windows 32
-\t (00:00:01)     Journal start - Sat Feb 20 23:42:16 2016
-\t (00:00:01)         Host=DART User=Dart Pid=1064 CPUs=4
-\t (00:00:01) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\TRANS.DSN
-\t (00:00:01) 
-\t (00:00:03) Opening existing design...
-\e (00:00:03) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
-\e (00:00:03) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
-\i (00:00:04) fillin confirm
-\t (00:00:04) Starting new design...
-\i (00:00:05) trapsize 837
-\i (00:00:05) trapsize 817
-\i (00:00:05) trapsize 840
-\i (00:00:05) trapsize 716
-\i (00:00:05) trapsize 1421
-\i (00:00:05) generaledit 
-\i (00:00:07) exit 
-\t (00:00:08)     Journal end - Sat Feb 20 23:42:22 2016
+\t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:00)     Journal start - Sun Feb 21 00:09:05 2016
+\t (00:00:00)         Host=DART User=Dart Pid=1440 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_SQ.brd
+\t (00:00:02) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:02) trapsize 1862
+\i (00:00:02) trapsize 1818
+\i (00:00:02) trapsize 1869
+\i (00:00:03) trapsize 1594
+\t (00:00:03) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:03) trapsize 1777
+\i (00:00:03) generaledit 
+\i (00:00:19) enved 
+\i (00:00:20) generaledit 
+\i (00:03:08) setwindow form.prfedit
+\i (00:03:08) FORM prfedit treelist  Drawing 
+\i (00:03:10) FORM prfedit treelist  Library Paths 
+\i (00:03:12) FORM prfedit padpath  
+\i (00:04:59) FORM prfedit psmpath  
+\i (00:05:04) FORM prfedit psmpath  
+\i (00:05:06) FORM prfedit padpath  
+\i (00:05:10) FORM prfedit psmpath  
+\i (00:05:32) FORM prfedit psmpath  
+\i (00:05:35) FORM prfedit padpath  
+\i (00:06:13) FORM prfedit psmpath  
+\i (00:07:14) FORM prfedit psmpath  
+\i (00:07:16) FORM prfedit apply  
+\i (00:07:17) FORM prfedit done  
+\i (00:07:19) setwindow pcb
+\i (00:07:19) exit 
+\t (00:07:19)     Journal end - Sun Feb 21 00:16:24 2016

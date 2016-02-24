@@ -1,23 +1,2493 @@
 \t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
-\t (00:00:00)     Journal start - Sat Feb 20 21:56:21 2016
-\t (00:00:00)         Host=DART User=Dart Pid=7324 CPUs=4
-\t (00:00:00) CmdLine= allegro -s CustomShapes.scr
+\t (00:00:00)     Journal start - Sat Feb 20 21:56:26 2016
+\t (00:00:00)         Host=DART User=Dart Pid=5636 CPUs=4
+\t (00:00:00) CmdLine= allegro -s 2016-02-20_21-55-38_brd.scr
 \t (00:00:00) 
 \t (00:00:00) Starting new design...
 \i (00:00:00) trapsize 837
 \i (00:00:00) trapsize 817
 \i (00:00:00) trapsize 840
-\i (00:00:01) trapsize 716
-\i (00:00:01) trapsize 1421
-\i (00:00:01) replay CustomShapes.scr 
+\i (00:00:00) trapsize 716
+\i (00:00:00) trapsize 1421
+\i (00:00:01) replay 2016-02-20_21-55-38_brd.scr 
 \i (00:00:01) version 14.0 
 \t (00:00:01) Script version: 14.0
-\i (00:00:01) enved 
-\i (00:00:03) setwindow Form.prfedit 
-\i (00:00:03) FORM prfedit treelist Ui 
-\i (00:00:03) FORM prfedit noconfirm YES 
-\e (00:00:03) Form field label not found
-\i (00:00:03) FORM prfedit done 
+\i (00:00:01) version 14.0 
+\t (00:00:01) Script version: 14.0
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) open 
+\i (00:00:01) fillin blank_drawing.dra 
+\t (00:00:01) Opening existing design...
+\i (00:00:02) fillin yes 
+\i (00:00:02) trapsize 25
+\i (00:00:02) trapsize 43
+\d (00:00:03) Design opened: C:/UltraLibrarian/Library/Exported/Allegro/adf4158-24/blank_drawing.dra
+\i (00:00:03) prmed 
+\i (00:00:03) setwindow Form.prmedit 
+\i (00:00:03) FORM prmedit design 
+\i (00:00:03) FORM prmedit type Package 
+\i (00:00:03) FORM prmedit units Mils 
+\i (00:00:03) FORM prmedit size Other 
+\i (00:00:03) FORM prmedit accuracy 2 
+\i (00:00:03) FORM prmedit width 2468 
+\i (00:00:03) FORM prmedit height 2133 
+\i (00:00:03) FORM prmedit apply 
+\i (00:00:03) trapsize 43
+\i (00:00:03) FORM prmedit x -1217.5 
+\i (00:00:03) FORM prmedit y -921.5 
+\i (00:00:03) FORM prmedit apply 
+\i (00:00:03) trapsize 43
+\i (00:00:03) FORM prmedit lock_mode Line 
+\i (00:00:03) FORM prmedit lock_direction Off 
+\i (00:00:03) FORM prmedit apply 
+\i (00:00:03) FORM prmedit done 
 \i (00:00:03) setwindow pcb 
-\i (00:00:03) exit 
-\t (00:00:03)     Journal end - Sat Feb 20 21:56:25 2016
+\i (00:00:03) status 
+\i (00:00:03) setwindow form.status 
+\i (00:00:03) FORM status lock_direction Off 
+\e (00:00:03) Form field label not found
+\i (00:00:03) FORM status lock_mode line 
+\e (00:00:03) Form field label not found
+\i (00:00:03) FORM status symbol_mirror NO 
+\e (00:00:03) Form field label not found
+\i (00:00:03) FORM status drawing_size 
+\e (00:00:03) Form field label not found
+\i (00:00:03) FORM status done 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) zoom center 
+\t (00:00:03) Pick center for the new display.
+\i (00:00:03) pick 0.0 0.0 
+\t (00:00:03) last pick:  0.00 0.00
+\i (00:00:03) define subclass 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name SILKSCREEN_TOP 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PIN pick 
+\e (00:00:03) Form field label not found
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name PASTEMASK_TOP 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name SOLDERMASK_TOP 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name SOLDERMASK_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PIN pick 
+\e (00:00:04) Form field label not found
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name PASTEMASK_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name SILKSCREEN_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name OUTLINE 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass MANUFACTURING pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name NO_PROBE_TOP 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass MANUFACTURING pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name NO_PROBE_BOTTOM 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name CUTOUTSLOTS 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name DIEBONDPADS 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name WIREBONDS 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name PIN 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_DETAIL 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name OUTLINE 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name COPY RIGHT 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name OUTLINE 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:04) setwindow form.subclass 
+\i (00:00:04) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:04) setwindow form.subclass_nonetch 
+\i (00:00:04) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:04) FORM subclass done 
+\i (00:00:04) add pin 
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini offsetx 0.00 
+\i (00:00:04) FORM mini offsety 0.00 
+\i (00:00:04) FORM mini rotate_pin 270 
+\i (00:00:04) add pin 
+\t (00:00:04) Exiting from Add Pin.
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini pad_name RX12Y32D0TSM2 
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:04) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini next_pin_number 1 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -76.5 49.21 
+\t (00:00:04) last pick:  -76.50 49.21
+\t (00:00:04) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:04) done 
+\t (00:00:04) Exiting from Add Pin.
+\i (00:00:05) add pin 
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini offsetx 0.00 
+\i (00:00:05) FORM mini offsety 0.00 
+\i (00:00:05) FORM mini rotate_pin 270 
+\i (00:00:05) add pin 
+\t (00:00:05) Exiting from Add Pin.
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini next_pin_number 2 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -76.5 29.53 
+\t (00:00:05) last pick:  -76.50 29.53
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) done 
+\t (00:00:05) Exiting from Add Pin.
+\i (00:00:05) add pin 
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini offsetx 0.00 
+\i (00:00:05) FORM mini offsety 0.00 
+\i (00:00:05) FORM mini rotate_pin 270 
+\i (00:00:05) add pin 
+\t (00:00:05) Exiting from Add Pin.
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini next_pin_number 3 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -76.5 9.84 
+\t (00:00:05) last pick:  -76.50 9.84
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) done 
+\t (00:00:05) Exiting from Add Pin.
+\i (00:00:05) add pin 
+\t (00:00:05) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini offsetx 0.00 
+\i (00:00:05) FORM mini offsety 0.00 
+\i (00:00:05) FORM mini rotate_pin 270 
+\i (00:00:05) add pin 
+\t (00:00:05) Exiting from Add Pin.
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini next_pin_number 4 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -76.5 -9.84 
+\t (00:00:06) last pick:  -76.50 -9.84
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) done 
+\t (00:00:06) Exiting from Add Pin.
+\i (00:00:06) add pin 
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini offsetx 0.00 
+\i (00:00:06) FORM mini offsety 0.00 
+\i (00:00:06) FORM mini rotate_pin 270 
+\i (00:00:06) add pin 
+\t (00:00:06) Exiting from Add Pin.
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini next_pin_number 5 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -76.5 -29.53 
+\t (00:00:06) last pick:  -76.50 -29.53
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) done 
+\t (00:00:06) Exiting from Add Pin.
+\i (00:00:06) add pin 
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini offsetx 0.00 
+\i (00:00:06) FORM mini offsety 0.00 
+\i (00:00:06) FORM mini rotate_pin 270 
+\i (00:00:06) add pin 
+\t (00:00:06) Exiting from Add Pin.
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini next_pin_number 6 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -76.5 -49.21 
+\t (00:00:06) last pick:  -76.50 -49.21
+\t (00:00:06) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:06) done 
+\t (00:00:06) Exiting from Add Pin.
+\i (00:00:07) add pin 
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini offsetx 0.00 
+\i (00:00:07) FORM mini offsety 0.00 
+\i (00:00:07) FORM mini rotate_pin 180 
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) add pin 
+\t (00:00:07) Exiting from Add Pin.
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini next_pin_number 7 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick -49.21 -76.5 
+\t (00:00:07) last pick:  -49.21 -76.50
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) done 
+\t (00:00:07) Exiting from Add Pin.
+\i (00:00:07) add pin 
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini offsetx 0.00 
+\i (00:00:07) FORM mini offsety 0.00 
+\i (00:00:07) FORM mini rotate_pin 180 
+\i (00:00:07) add pin 
+\t (00:00:07) Exiting from Add Pin.
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini next_pin_number 8 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick -29.53 -76.5 
+\t (00:00:07) last pick:  -29.53 -76.50
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) done 
+\t (00:00:07) Exiting from Add Pin.
+\i (00:00:07) add pin 
+\t (00:00:07) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini offsetx 0.00 
+\i (00:00:07) FORM mini offsety 0.00 
+\i (00:00:07) FORM mini rotate_pin 180 
+\i (00:00:07) add pin 
+\t (00:00:07) Exiting from Add Pin.
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini next_pin_number 9 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick -9.84 -76.5 
+\t (00:00:08) last pick:  -9.84 -76.50
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) done 
+\t (00:00:08) Exiting from Add Pin.
+\i (00:00:08) add pin 
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini offsetx 0.00 
+\i (00:00:08) FORM mini offsety 0.00 
+\i (00:00:08) FORM mini rotate_pin 180 
+\i (00:00:08) add pin 
+\t (00:00:08) Exiting from Add Pin.
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini next_pin_number 10 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 9.84 -76.5 
+\t (00:00:08) last pick:  9.84 -76.50
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) done 
+\t (00:00:08) Exiting from Add Pin.
+\i (00:00:08) add pin 
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini offsetx 0.00 
+\i (00:00:08) FORM mini offsety 0.00 
+\i (00:00:08) FORM mini rotate_pin 180 
+\i (00:00:08) add pin 
+\t (00:00:08) Exiting from Add Pin.
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:08) setwindow form.mini 
+\i (00:00:08) FORM mini next_pin_number 11 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 29.53 -76.5 
+\t (00:00:08) last pick:  29.53 -76.50
+\t (00:00:08) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:08) done 
+\t (00:00:08) Exiting from Add Pin.
+\i (00:00:08) add pin 
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini offsetx 0.00 
+\i (00:00:09) FORM mini offsety 0.00 
+\i (00:00:09) FORM mini rotate_pin 180 
+\i (00:00:09) add pin 
+\t (00:00:09) Exiting from Add Pin.
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini next_pin_number 12 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick 49.21 -76.5 
+\t (00:00:09) last pick:  49.21 -76.50
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) done 
+\t (00:00:09) Exiting from Add Pin.
+\i (00:00:09) add pin 
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini offsetx 0.00 
+\i (00:00:09) FORM mini offsety 0.00 
+\i (00:00:09) FORM mini rotate_pin 270 
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) add pin 
+\t (00:00:09) Exiting from Add Pin.
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini next_pin_number 13 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick 76.5 -49.21 
+\t (00:00:09) last pick:  76.50 -49.21
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) done 
+\t (00:00:09) Exiting from Add Pin.
+\i (00:00:09) add pin 
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini offsetx 0.00 
+\i (00:00:09) FORM mini offsety 0.00 
+\i (00:00:09) FORM mini rotate_pin 270 
+\i (00:00:09) add pin 
+\t (00:00:09) Exiting from Add Pin.
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:09) setwindow form.mini 
+\i (00:00:09) FORM mini next_pin_number 14 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick 76.5 -29.53 
+\t (00:00:09) last pick:  76.50 -29.53
+\t (00:00:09) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:09) done 
+\t (00:00:09) Exiting from Add Pin.
+\i (00:00:10) add pin 
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini offsetx 0.00 
+\i (00:00:10) FORM mini offsety 0.00 
+\i (00:00:10) FORM mini rotate_pin 270 
+\i (00:00:10) add pin 
+\t (00:00:10) Exiting from Add Pin.
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini next_pin_number 15 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick 76.5 -9.84 
+\t (00:00:10) last pick:  76.50 -9.84
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) done 
+\t (00:00:10) Exiting from Add Pin.
+\i (00:00:10) add pin 
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini offsetx 0.00 
+\i (00:00:10) FORM mini offsety 0.00 
+\i (00:00:10) FORM mini rotate_pin 270 
+\i (00:00:10) add pin 
+\t (00:00:10) Exiting from Add Pin.
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini next_pin_number 16 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick 76.5 9.84 
+\t (00:00:10) last pick:  76.50 9.84
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) done 
+\t (00:00:10) Exiting from Add Pin.
+\i (00:00:10) add pin 
+\t (00:00:10) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini offsetx 0.00 
+\i (00:00:10) FORM mini offsety 0.00 
+\i (00:00:10) FORM mini rotate_pin 270 
+\i (00:00:10) add pin 
+\t (00:00:10) Exiting from Add Pin.
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini next_pin_number 17 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick 76.5 29.53 
+\t (00:00:11) last pick:  76.50 29.53
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) done 
+\t (00:00:11) Exiting from Add Pin.
+\i (00:00:11) add pin 
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini offsetx 0.00 
+\i (00:00:11) FORM mini offsety 0.00 
+\i (00:00:11) FORM mini rotate_pin 270 
+\i (00:00:11) add pin 
+\t (00:00:11) Exiting from Add Pin.
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini next_pin_number 18 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick 76.5 49.21 
+\t (00:00:11) last pick:  76.50 49.21
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) done 
+\t (00:00:11) Exiting from Add Pin.
+\i (00:00:11) add pin 
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini offsetx 0.00 
+\i (00:00:11) FORM mini offsety 0.00 
+\i (00:00:11) FORM mini rotate_pin 180 
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) add pin 
+\t (00:00:11) Exiting from Add Pin.
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini next_pin_number 19 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick 49.21 76.5 
+\t (00:00:11) last pick:  49.21 76.50
+\t (00:00:11) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:11) done 
+\t (00:00:11) Exiting from Add Pin.
+\i (00:00:12) add pin 
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini offsetx 0.00 
+\i (00:00:12) FORM mini offsety 0.00 
+\i (00:00:12) FORM mini rotate_pin 180 
+\i (00:00:12) add pin 
+\t (00:00:12) Exiting from Add Pin.
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini next_pin_number 20 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 29.53 76.5 
+\t (00:00:12) last pick:  29.53 76.50
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) done 
+\t (00:00:12) Exiting from Add Pin.
+\i (00:00:12) add pin 
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini offsetx 0.00 
+\i (00:00:12) FORM mini offsety 0.00 
+\i (00:00:12) FORM mini rotate_pin 180 
+\i (00:00:12) add pin 
+\t (00:00:12) Exiting from Add Pin.
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini next_pin_number 21 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 9.84 76.5 
+\t (00:00:12) last pick:  9.84 76.50
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) done 
+\t (00:00:12) Exiting from Add Pin.
+\i (00:00:12) add pin 
+\t (00:00:12) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini offsetx 0.00 
+\i (00:00:12) FORM mini offsety 0.00 
+\i (00:00:12) FORM mini rotate_pin 180 
+\i (00:00:12) add pin 
+\t (00:00:12) Exiting from Add Pin.
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini next_pin_number 22 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -9.84 76.5 
+\t (00:00:13) last pick:  -9.84 76.50
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) done 
+\t (00:00:13) Exiting from Add Pin.
+\i (00:00:13) add pin 
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini offsetx 0.00 
+\i (00:00:13) FORM mini offsety 0.00 
+\i (00:00:13) FORM mini rotate_pin 180 
+\i (00:00:13) add pin 
+\t (00:00:13) Exiting from Add Pin.
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini next_pin_number 23 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -29.53 76.5 
+\t (00:00:13) last pick:  -29.53 76.50
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) done 
+\t (00:00:13) Exiting from Add Pin.
+\i (00:00:13) add pin 
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini offsetx 0.00 
+\i (00:00:13) FORM mini offsety 0.00 
+\i (00:00:13) FORM mini rotate_pin 180 
+\i (00:00:13) add pin 
+\t (00:00:13) Exiting from Add Pin.
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini pad_name RX12Y32D0TSM2 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini next_pin_number 24 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -49.21 76.5 
+\t (00:00:13) last pick:  -49.21 76.50
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) done 
+\t (00:00:13) Exiting from Add Pin.
+\i (00:00:13) add pin 
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini offsetx 0.00 
+\i (00:00:13) FORM mini offsety 0.00 
+\i (00:00:13) FORM mini rotate_pin 0 
+\t (00:00:13) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:13) add pin 
+\t (00:00:13) Exiting from Add Pin.
+\t (00:00:14) Using 'RX12Y32D0TSM2.pad'.
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini pad_name RX104Y104D0T 
+\w (00:00:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:14) Using 'RX104Y104D0T.pad'.
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini next_pin_number 25 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 0 0 
+\t (00:00:14) last pick:  0.00 0.00
+\t (00:00:14) Using 'RX104Y104D0T.pad'.
+\i (00:00:14) done 
+\t (00:00:14) Exiting from Add Pin.
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) add fshape 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:14) FORM mini dyns_grid None 
+\t (00:00:14) Grids are drawn 0.64, 0.64 apart for enhanced viewability.
+\i (00:00:14) FORM mini dyns_lock_mode Line 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 2.3 -102.5 
+\t (00:00:14) last pick:  2.30 -102.50
+\i (00:00:14) pick 2.3 -112.5 
+\t (00:00:14) last pick:  2.30 -112.50
+\i (00:00:14) pick 17.3 -112.5 
+\t (00:00:14) last pick:  17.30 -112.50
+\i (00:00:14) pick 17.3 -102.5 
+\t (00:00:14) last pick:  17.30 -102.50
+\i (00:00:14) done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) add fshape 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:14) FORM mini dyns_grid None 
+\i (00:00:14) FORM mini dyns_lock_mode Line 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 22 102.5 
+\t (00:00:14) last pick:  22.00 102.50
+\i (00:00:14) pick 22 112.5 
+\t (00:00:14) last pick:  22.00 112.50
+\i (00:00:14) pick 37 112.5 
+\t (00:00:14) last pick:  37.00 112.50
+\i (00:00:14) pick 37 102.5 
+\t (00:00:14) last pick:  37.00 102.50
+\i (00:00:14) done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) add fshape 
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:15) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:15) FORM mini dyns_grid None 
+\i (00:00:15) FORM mini dyns_lock_mode Line 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -102.5 -102.5 
+\t (00:00:15) last pick:  -102.50 -102.50
+\i (00:00:15) pick -102.5 102.5 
+\t (00:00:15) last pick:  -102.50 102.50
+\i (00:00:15) pick 102.5 102.5 
+\t (00:00:15) last pick:  102.50 102.50
+\i (00:00:15) pick 102.5 -102.5 
+\t (00:00:15) last pick:  102.50 -102.50
+\i (00:00:15) done 
+\i (00:00:15) property edit 
+\t (00:00:15) Adjust find filter then select an element or group of elements.
+\i (00:00:15) setwindow Form.Find 
+\i (00:00:15) FORM find all_off 
+\i (00:00:15) FORM find shapes YES 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick grid -102.5 -102.5 
+\t (00:00:15) last pick:  -100.00 -100.00
+\i (00:00:15) setwindow Form.editprop1 
+\i (00:00:15) FORM editprop1 properties PACKAGE_HEIGHT_MAX 
+\i (00:00:15) setwindow Form.editprop2 
+\i (00:00:15) FORM editprop2 package_height_max ele_prop_value 32 
+\i (00:00:15) FORM editprop2 apply 
+\i (00:00:15) setwindow Form.editprop1 
+\i (00:00:15) FORM editprop1 done 
+\i (00:00:15) setwindow Form.Find 
+\i (00:00:15) FORM find all_on 
+\i (00:00:15) property edit 
+\t (00:00:15) Adjust find filter then select an element or group of elements.
+\i (00:00:15) setwindow Form.Find 
+\i (00:00:15) FORM find all_off 
+\i (00:00:15) FORM find shapes YES 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick grid -102.5 -102.5 
+\t (00:00:15) last pick:  -100.00 -100.00
+\i (00:00:15) setwindow Form.editprop1 
+\i (00:00:15) FORM editprop1 properties PACKAGE_HEIGHT_MIN 
+\i (00:00:15) setwindow Form.editprop2 
+\i (00:00:15) FORM editprop2 package_height_min ele_prop_value 1 
+\i (00:00:15) FORM editprop2 apply 
+\i (00:00:15) setwindow Form.editprop1 
+\i (00:00:15) FORM editprop1 done 
+\i (00:00:15) setwindow Form.Find 
+\i (00:00:15) FORM find all_on 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) add fshape 
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini class MANUFACTURING 
+\i (00:00:15) FORM mini subclass NO_PROBE_TOP 
+\i (00:00:15) FORM mini dyns_grid None 
+\i (00:00:15) FORM mini dyns_lock_mode Line 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -117.5 -117.5 
+\t (00:00:15) last pick:  -117.50 -117.50
+\i (00:00:15) pick -117.5 117.5 
+\t (00:00:15) last pick:  -117.50 117.50
+\i (00:00:15) pick 117.5 117.5 
+\t (00:00:15) last pick:  117.50 117.50
+\i (00:00:15) pick 117.5 -117.5 
+\t (00:00:15) last pick:  117.50 -117.50
+\i (00:00:15) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini line_width 6 
+\i (00:00:16) FORM mini lock_direction Off 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 80.5 68.3 
+\t (00:00:16) last pick:  80.50 68.30
+\i (00:00:16) pick 80.5 80.5 
+\t (00:00:16) last pick:  80.50 80.50
+\i (00:00:16) done 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) label refdes 
+\t (00:00:16) Pick text location.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini class REF DES 
+\i (00:00:16) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:16) FORM mini text_block 3 
+\i (00:00:16) FORM mini text_justification Center 
+\i (00:00:16) FORM mini angle 0 
+\i (00:00:16) FORM mini mirror NO 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0 -25 
+\t (00:00:16) last pick:  0.00 -25.00
+\t (00:00:16) Enter text string.
+\i (00:00:16) text REF 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) label refdes 
+\t (00:00:16) Pick text location.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini class REF DES 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini text_block 3 
+\i (00:00:16) FORM mini text_justification Center 
+\i (00:00:16) FORM mini angle 0 
+\i (00:00:16) FORM mini mirror NO 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0 -25 
+\t (00:00:16) last pick:  0.00 -25.00
+\t (00:00:16) Enter text string.
+\i (00:00:16) text REF 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) label device 
+\t (00:00:16) Pick text location.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini class DEVICE TYPE 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini text_block 3 
+\i (00:00:16) FORM mini text_justification Center 
+\i (00:00:16) FORM mini angle 0 
+\i (00:00:16) FORM mini mirror NO 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0 -25 
+\t (00:00:16) last pick:  0.00 -25.00
+\t (00:00:16) Enter text string.
+\i (00:00:16) text CP_24_7 
+\t (00:00:16) Enter text string.
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) add text 
+\t (00:00:16) Pick text location.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:16) FORM mini text_block 3 
+\i (00:00:16) FORM mini text_justification Center 
+\i (00:00:16) FORM mini angle 0 
+\i (00:00:16) FORM mini mirror NO 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -117.5 49.1 
+\t (00:00:16) last pick:  -117.50 49.10
+\t (00:00:16) Enter text string.
+\i (00:00:16) text * 
+\t (00:00:16) Enter text string.
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) add text 
+\t (00:00:17) Pick text location.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini text_block 3 
+\i (00:00:17) FORM mini text_justification Center 
+\i (00:00:17) FORM mini angle 0 
+\i (00:00:17) FORM mini mirror NO 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -117.5 49.1 
+\t (00:00:17) last pick:  -117.50 49.10
+\t (00:00:17) Enter text string.
+\i (00:00:17) text * 
+\t (00:00:17) Enter text string.
+\i (00:00:17) add line 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini line_width 6 
+\i (00:00:17) FORM mini lock_direction Off 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -68.3 80.5 
+\t (00:00:17) last pick:  -68.30 80.50
+\i (00:00:17) pick -80.5 80.5 
+\t (00:00:17) last pick:  -80.50 80.50
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) FORM mini lock_direction Off 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -80.5 30.5 
+\t (00:00:17) last pick:  -80.50 30.50
+\i (00:00:17) pick -30.5 80.5 
+\t (00:00:17) last pick:  -30.50 80.50
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) FORM mini lock_direction Off 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 43.2 80.5 
+\t (00:00:17) last pick:  43.20 80.50
+\i (00:00:17) pick 55.2 80.5 
+\t (00:00:17) last pick:  55.20 80.50
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) FORM mini lock_direction Off 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 55.2 80.5 
+\t (00:00:17) last pick:  55.20 80.50
+\i (00:00:17) pick 55.2 80.5 
+\t (00:00:17) last pick:  55.20 80.50
+\t (00:00:17) last pick:  55.20 80.50
+\w (00:00:17) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 55.2 80.5 
+\t (00:00:18) last pick:  55.20 80.50
+\i (00:00:18) pick 43.2 80.5 
+\t (00:00:18) last pick:  43.20 80.50
+\e (00:00:18) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:18) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 43.2 80.5 
+\t (00:00:18) last pick:  43.20 80.50
+\i (00:00:18) pick 43.2 80.5 
+\t (00:00:18) last pick:  43.20 80.50
+\t (00:00:18) last pick:  43.20 80.50
+\w (00:00:18) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 23.5 80.5 
+\t (00:00:18) last pick:  23.50 80.50
+\i (00:00:18) pick 35.5 80.5 
+\t (00:00:18) last pick:  35.50 80.50
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 35.5 80.5 
+\t (00:00:18) last pick:  35.50 80.50
+\i (00:00:18) pick 35.5 80.5 
+\t (00:00:18) last pick:  35.50 80.50
+\t (00:00:18) last pick:  35.50 80.50
+\w (00:00:18) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 35.5 80.5 
+\t (00:00:18) last pick:  35.50 80.50
+\i (00:00:18) pick 23.5 80.5 
+\t (00:00:18) last pick:  23.50 80.50
+\e (00:00:18) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:18) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 23.5 80.5 
+\t (00:00:18) last pick:  23.50 80.50
+\i (00:00:18) pick 23.5 80.5 
+\t (00:00:18) last pick:  23.50 80.50
+\t (00:00:18) last pick:  23.50 80.50
+\w (00:00:18) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:18) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 3.8 80.5 
+\t (00:00:19) last pick:  3.80 80.50
+\i (00:00:19) pick 15.8 80.5 
+\t (00:00:19) last pick:  15.80 80.50
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 15.8 80.5 
+\t (00:00:19) last pick:  15.80 80.50
+\i (00:00:19) pick 15.8 80.5 
+\t (00:00:19) last pick:  15.80 80.50
+\t (00:00:19) last pick:  15.80 80.50
+\w (00:00:19) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 15.8 80.5 
+\t (00:00:19) last pick:  15.80 80.50
+\i (00:00:19) pick 3.8 80.5 
+\t (00:00:19) last pick:  3.80 80.50
+\e (00:00:19) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:19) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 3.8 80.5 
+\t (00:00:19) last pick:  3.80 80.50
+\i (00:00:19) pick 3.8 80.5 
+\t (00:00:19) last pick:  3.80 80.50
+\t (00:00:19) last pick:  3.80 80.50
+\w (00:00:19) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -15.8 80.5 
+\t (00:00:19) last pick:  -15.80 80.50
+\i (00:00:19) pick -3.8 80.5 
+\t (00:00:19) last pick:  -3.80 80.50
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.8 80.5 
+\t (00:00:20) last pick:  -3.80 80.50
+\i (00:00:20) pick -3.8 80.5 
+\t (00:00:20) last pick:  -3.80 80.50
+\t (00:00:20) last pick:  -3.80 80.50
+\w (00:00:20) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.8 80.5 
+\t (00:00:20) last pick:  -3.80 80.50
+\i (00:00:20) pick -15.8 80.5 
+\t (00:00:20) last pick:  -15.80 80.50
+\e (00:00:20) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:20) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -15.8 80.5 
+\t (00:00:20) last pick:  -15.80 80.50
+\i (00:00:20) pick -15.8 80.5 
+\t (00:00:20) last pick:  -15.80 80.50
+\t (00:00:20) last pick:  -15.80 80.50
+\w (00:00:20) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -35.5 80.5 
+\t (00:00:20) last pick:  -35.50 80.50
+\i (00:00:20) pick -23.5 80.5 
+\t (00:00:20) last pick:  -23.50 80.50
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -23.5 80.5 
+\t (00:00:20) last pick:  -23.50 80.50
+\i (00:00:20) pick -23.5 80.5 
+\t (00:00:20) last pick:  -23.50 80.50
+\t (00:00:20) last pick:  -23.50 80.50
+\w (00:00:20) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) FORM mini lock_direction Off 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -23.5 80.5 
+\t (00:00:21) last pick:  -23.50 80.50
+\i (00:00:21) pick -35.5 80.5 
+\t (00:00:21) last pick:  -35.50 80.50
+\e (00:00:21) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:21) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) FORM mini lock_direction Off 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -35.5 80.5 
+\t (00:00:21) last pick:  -35.50 80.50
+\i (00:00:21) pick -35.5 80.5 
+\t (00:00:21) last pick:  -35.50 80.50
+\t (00:00:21) last pick:  -35.50 80.50
+\w (00:00:21) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) FORM mini lock_direction Off 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -55.2 80.5 
+\t (00:00:21) last pick:  -55.20 80.50
+\i (00:00:21) pick -43.2 80.5 
+\t (00:00:21) last pick:  -43.20 80.50
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) FORM mini lock_direction Off 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -43.2 80.5 
+\t (00:00:21) last pick:  -43.20 80.50
+\i (00:00:21) pick -43.2 80.5 
+\t (00:00:21) last pick:  -43.20 80.50
+\t (00:00:21) last pick:  -43.20 80.50
+\w (00:00:21) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) FORM mini lock_direction Off 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -43.2 80.5 
+\t (00:00:21) last pick:  -43.20 80.50
+\i (00:00:21) pick -55.2 80.5 
+\t (00:00:21) last pick:  -55.20 80.50
+\e (00:00:21) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:21) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) FORM mini lock_direction Off 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -55.2 80.5 
+\t (00:00:21) last pick:  -55.20 80.50
+\i (00:00:21) pick -55.2 80.5 
+\t (00:00:21) last pick:  -55.20 80.50
+\t (00:00:21) last pick:  -55.20 80.50
+\w (00:00:21) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:21) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) FORM mini lock_direction Off 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -80.5 43.2 
+\t (00:00:22) last pick:  -80.50 43.20
+\i (00:00:22) pick -80.5 55.2 
+\t (00:00:22) last pick:  -80.50 55.20
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) FORM mini lock_direction Off 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -80.5 55.2 
+\t (00:00:22) last pick:  -80.50 55.20
+\i (00:00:22) pick -80.5 55.2 
+\t (00:00:22) last pick:  -80.50 55.20
+\t (00:00:22) last pick:  -80.50 55.20
+\w (00:00:22) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) FORM mini lock_direction Off 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -80.5 55.2 
+\t (00:00:22) last pick:  -80.50 55.20
+\i (00:00:22) pick -80.5 43.2 
+\t (00:00:22) last pick:  -80.50 43.20
+\e (00:00:22) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:22) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) FORM mini lock_direction Off 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -80.5 43.2 
+\t (00:00:22) last pick:  -80.50 43.20
+\i (00:00:22) pick -80.5 43.2 
+\t (00:00:22) last pick:  -80.50 43.20
+\t (00:00:22) last pick:  -80.50 43.20
+\w (00:00:22) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) FORM mini lock_direction Off 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -80.5 23.5 
+\t (00:00:22) last pick:  -80.50 23.50
+\i (00:00:22) pick -80.5 35.5 
+\t (00:00:22) last pick:  -80.50 35.50
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) FORM mini lock_direction Off 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -80.5 35.5 
+\t (00:00:23) last pick:  -80.50 35.50
+\i (00:00:23) pick -80.5 35.5 
+\t (00:00:23) last pick:  -80.50 35.50
+\t (00:00:23) last pick:  -80.50 35.50
+\w (00:00:23) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) FORM mini lock_direction Off 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -80.5 35.5 
+\t (00:00:23) last pick:  -80.50 35.50
+\i (00:00:23) pick -80.5 23.5 
+\t (00:00:23) last pick:  -80.50 23.50
+\e (00:00:23) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:23) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) FORM mini lock_direction Off 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -80.5 23.5 
+\t (00:00:23) last pick:  -80.50 23.50
+\i (00:00:23) pick -80.5 23.5 
+\t (00:00:23) last pick:  -80.50 23.50
+\t (00:00:23) last pick:  -80.50 23.50
+\w (00:00:23) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) FORM mini lock_direction Off 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -80.5 3.8 
+\t (00:00:23) last pick:  -80.50 3.80
+\i (00:00:23) pick -80.5 15.8 
+\t (00:00:23) last pick:  -80.50 15.80
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) FORM mini lock_direction Off 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -80.5 15.8 
+\t (00:00:23) last pick:  -80.50 15.80
+\i (00:00:23) pick -80.5 15.8 
+\t (00:00:23) last pick:  -80.50 15.80
+\t (00:00:23) last pick:  -80.50 15.80
+\w (00:00:23) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) FORM mini lock_direction Off 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -80.5 15.8 
+\t (00:00:23) last pick:  -80.50 15.80
+\i (00:00:23) pick -80.5 3.8 
+\t (00:00:23) last pick:  -80.50 3.80
+\e (00:00:23) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:23) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:23) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) FORM mini lock_direction Off 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -80.5 3.8 
+\t (00:00:24) last pick:  -80.50 3.80
+\i (00:00:24) pick -80.5 3.8 
+\t (00:00:24) last pick:  -80.50 3.80
+\t (00:00:24) last pick:  -80.50 3.80
+\w (00:00:24) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) FORM mini lock_direction Off 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -80.5 -15.8 
+\t (00:00:24) last pick:  -80.50 -15.80
+\i (00:00:24) pick -80.5 -3.8 
+\t (00:00:24) last pick:  -80.50 -3.80
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) FORM mini lock_direction Off 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -80.5 -3.8 
+\t (00:00:24) last pick:  -80.50 -3.80
+\i (00:00:24) pick -80.5 -3.8 
+\t (00:00:24) last pick:  -80.50 -3.80
+\t (00:00:24) last pick:  -80.50 -3.80
+\w (00:00:24) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) FORM mini lock_direction Off 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -80.5 -3.8 
+\t (00:00:24) last pick:  -80.50 -3.80
+\i (00:00:24) pick -80.5 -15.8 
+\t (00:00:24) last pick:  -80.50 -15.80
+\e (00:00:24) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:24) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) FORM mini lock_direction Off 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -80.5 -15.8 
+\t (00:00:24) last pick:  -80.50 -15.80
+\i (00:00:24) pick -80.5 -15.8 
+\t (00:00:24) last pick:  -80.50 -15.80
+\t (00:00:24) last pick:  -80.50 -15.80
+\w (00:00:24) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) FORM mini lock_direction Off 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -80.5 -35.5 
+\t (00:00:25) last pick:  -80.50 -35.50
+\i (00:00:25) pick -80.5 -23.5 
+\t (00:00:25) last pick:  -80.50 -23.50
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) FORM mini lock_direction Off 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -80.5 -23.5 
+\t (00:00:25) last pick:  -80.50 -23.50
+\i (00:00:25) pick -80.5 -23.5 
+\t (00:00:25) last pick:  -80.50 -23.50
+\t (00:00:25) last pick:  -80.50 -23.50
+\w (00:00:25) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) FORM mini lock_direction Off 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -80.5 -23.5 
+\t (00:00:25) last pick:  -80.50 -23.50
+\i (00:00:25) pick -80.5 -35.5 
+\t (00:00:25) last pick:  -80.50 -35.50
+\e (00:00:25) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:25) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) FORM mini lock_direction Off 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -80.5 -35.5 
+\t (00:00:25) last pick:  -80.50 -35.50
+\i (00:00:25) pick -80.5 -35.5 
+\t (00:00:25) last pick:  -80.50 -35.50
+\t (00:00:25) last pick:  -80.50 -35.50
+\w (00:00:25) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) FORM mini lock_direction Off 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -80.5 -55.2 
+\t (00:00:25) last pick:  -80.50 -55.20
+\i (00:00:25) pick -80.5 -43.2 
+\t (00:00:25) last pick:  -80.50 -43.20
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) FORM mini lock_direction Off 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -80.5 -43.2 
+\t (00:00:26) last pick:  -80.50 -43.20
+\i (00:00:26) pick -80.5 -43.2 
+\t (00:00:26) last pick:  -80.50 -43.20
+\t (00:00:26) last pick:  -80.50 -43.20
+\w (00:00:26) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) FORM mini lock_direction Off 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -80.5 -43.2 
+\t (00:00:26) last pick:  -80.50 -43.20
+\i (00:00:26) pick -80.5 -55.2 
+\t (00:00:26) last pick:  -80.50 -55.20
+\e (00:00:26) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:26) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) FORM mini lock_direction Off 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -80.5 -55.2 
+\t (00:00:26) last pick:  -80.50 -55.20
+\i (00:00:26) pick -80.5 -55.2 
+\t (00:00:26) last pick:  -80.50 -55.20
+\t (00:00:26) last pick:  -80.50 -55.20
+\w (00:00:26) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) FORM mini lock_direction Off 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -43.2 -80.5 
+\t (00:00:26) last pick:  -43.20 -80.50
+\i (00:00:26) pick -55.2 -80.5 
+\t (00:00:26) last pick:  -55.20 -80.50
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) FORM mini lock_direction Off 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -55.2 -80.5 
+\t (00:00:26) last pick:  -55.20 -80.50
+\i (00:00:26) pick -55.2 -80.5 
+\t (00:00:26) last pick:  -55.20 -80.50
+\t (00:00:26) last pick:  -55.20 -80.50
+\w (00:00:26) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) FORM mini lock_direction Off 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick -55.2 -80.5 
+\t (00:00:27) last pick:  -55.20 -80.50
+\i (00:00:27) pick -43.2 -80.5 
+\t (00:00:27) last pick:  -43.20 -80.50
+\e (00:00:27) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:27) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) FORM mini lock_direction Off 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick -43.2 -80.5 
+\t (00:00:27) last pick:  -43.20 -80.50
+\i (00:00:27) pick -43.2 -80.5 
+\t (00:00:27) last pick:  -43.20 -80.50
+\t (00:00:27) last pick:  -43.20 -80.50
+\w (00:00:27) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) FORM mini lock_direction Off 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick -23.5 -80.5 
+\t (00:00:27) last pick:  -23.50 -80.50
+\i (00:00:27) pick -35.5 -80.5 
+\t (00:00:27) last pick:  -35.50 -80.50
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) FORM mini lock_direction Off 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick -35.5 -80.5 
+\t (00:00:27) last pick:  -35.50 -80.50
+\i (00:00:27) pick -35.5 -80.5 
+\t (00:00:27) last pick:  -35.50 -80.50
+\t (00:00:27) last pick:  -35.50 -80.50
+\w (00:00:27) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) FORM mini lock_direction Off 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick -35.5 -80.5 
+\t (00:00:27) last pick:  -35.50 -80.50
+\i (00:00:27) pick -23.5 -80.5 
+\t (00:00:27) last pick:  -23.50 -80.50
+\e (00:00:27) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:27) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) FORM mini lock_direction Off 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick -23.5 -80.5 
+\t (00:00:27) last pick:  -23.50 -80.50
+\i (00:00:27) pick -23.5 -80.5 
+\t (00:00:27) last pick:  -23.50 -80.50
+\t (00:00:27) last pick:  -23.50 -80.50
+\w (00:00:27) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:27) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) FORM mini lock_direction Off 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick -3.8 -80.5 
+\t (00:00:28) last pick:  -3.80 -80.50
+\i (00:00:28) pick -15.8 -80.5 
+\t (00:00:28) last pick:  -15.80 -80.50
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) FORM mini lock_direction Off 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick -15.8 -80.5 
+\t (00:00:28) last pick:  -15.80 -80.50
+\i (00:00:28) pick -15.8 -80.5 
+\t (00:00:28) last pick:  -15.80 -80.50
+\t (00:00:28) last pick:  -15.80 -80.50
+\w (00:00:28) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) FORM mini lock_direction Off 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick -15.8 -80.5 
+\t (00:00:28) last pick:  -15.80 -80.50
+\i (00:00:28) pick -3.8 -80.5 
+\t (00:00:28) last pick:  -3.80 -80.50
+\e (00:00:28) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:28) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) FORM mini lock_direction Off 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick -3.8 -80.5 
+\t (00:00:28) last pick:  -3.80 -80.50
+\i (00:00:28) pick -3.8 -80.5 
+\t (00:00:28) last pick:  -3.80 -80.50
+\t (00:00:28) last pick:  -3.80 -80.50
+\w (00:00:28) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) FORM mini lock_direction Off 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 15.8 -80.5 
+\t (00:00:29) last pick:  15.80 -80.50
+\i (00:00:29) pick 3.8 -80.5 
+\t (00:00:29) last pick:  3.80 -80.50
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) FORM mini lock_direction Off 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 3.8 -80.5 
+\t (00:00:29) last pick:  3.80 -80.50
+\i (00:00:29) pick 3.8 -80.5 
+\t (00:00:29) last pick:  3.80 -80.50
+\t (00:00:29) last pick:  3.80 -80.50
+\w (00:00:29) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) FORM mini lock_direction Off 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 3.8 -80.5 
+\t (00:00:29) last pick:  3.80 -80.50
+\i (00:00:29) pick 15.8 -80.5 
+\t (00:00:29) last pick:  15.80 -80.50
+\e (00:00:29) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:29) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) FORM mini lock_direction Off 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 15.8 -80.5 
+\t (00:00:29) last pick:  15.80 -80.50
+\i (00:00:29) pick 15.8 -80.5 
+\t (00:00:29) last pick:  15.80 -80.50
+\t (00:00:29) last pick:  15.80 -80.50
+\w (00:00:29) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) FORM mini lock_direction Off 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 35.5 -80.5 
+\t (00:00:29) last pick:  35.50 -80.50
+\i (00:00:29) pick 23.5 -80.5 
+\t (00:00:29) last pick:  23.50 -80.50
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) FORM mini lock_direction Off 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 23.5 -80.5 
+\t (00:00:30) last pick:  23.50 -80.50
+\i (00:00:30) pick 23.5 -80.5 
+\t (00:00:30) last pick:  23.50 -80.50
+\t (00:00:30) last pick:  23.50 -80.50
+\w (00:00:30) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) FORM mini lock_direction Off 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 23.5 -80.5 
+\t (00:00:30) last pick:  23.50 -80.50
+\i (00:00:30) pick 35.5 -80.5 
+\t (00:00:30) last pick:  35.50 -80.50
+\e (00:00:30) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:30) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) FORM mini lock_direction Off 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 35.5 -80.5 
+\t (00:00:30) last pick:  35.50 -80.50
+\i (00:00:30) pick 35.5 -80.5 
+\t (00:00:30) last pick:  35.50 -80.50
+\t (00:00:30) last pick:  35.50 -80.50
+\w (00:00:30) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) FORM mini lock_direction Off 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 55.2 -80.5 
+\t (00:00:30) last pick:  55.20 -80.50
+\i (00:00:30) pick 43.2 -80.5 
+\t (00:00:30) last pick:  43.20 -80.50
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) FORM mini lock_direction Off 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 43.2 -80.5 
+\t (00:00:30) last pick:  43.20 -80.50
+\i (00:00:30) pick 43.2 -80.5 
+\t (00:00:30) last pick:  43.20 -80.50
+\t (00:00:30) last pick:  43.20 -80.50
+\w (00:00:30) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) FORM mini lock_direction Off 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 43.2 -80.5 
+\t (00:00:30) last pick:  43.20 -80.50
+\i (00:00:30) pick 55.2 -80.5 
+\t (00:00:30) last pick:  55.20 -80.50
+\e (00:00:30) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:30) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:30) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) FORM mini lock_direction Off 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 55.2 -80.5 
+\t (00:00:31) last pick:  55.20 -80.50
+\i (00:00:31) pick 55.2 -80.5 
+\t (00:00:31) last pick:  55.20 -80.50
+\t (00:00:31) last pick:  55.20 -80.50
+\w (00:00:31) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) FORM mini lock_direction Off 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 80.5 -43.2 
+\t (00:00:31) last pick:  80.50 -43.20
+\i (00:00:31) pick 80.5 -55.2 
+\t (00:00:31) last pick:  80.50 -55.20
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) FORM mini lock_direction Off 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 80.5 -55.2 
+\t (00:00:31) last pick:  80.50 -55.20
+\i (00:00:31) pick 80.5 -55.2 
+\t (00:00:31) last pick:  80.50 -55.20
+\t (00:00:31) last pick:  80.50 -55.20
+\w (00:00:31) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) FORM mini lock_direction Off 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 80.5 -55.2 
+\t (00:00:31) last pick:  80.50 -55.20
+\i (00:00:31) pick 80.5 -43.2 
+\t (00:00:31) last pick:  80.50 -43.20
+\e (00:00:31) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:31) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) FORM mini lock_direction Off 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 80.5 -43.2 
+\t (00:00:31) last pick:  80.50 -43.20
+\i (00:00:31) pick 80.5 -43.2 
+\t (00:00:31) last pick:  80.50 -43.20
+\t (00:00:31) last pick:  80.50 -43.20
+\w (00:00:31) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:31) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) FORM mini lock_direction Off 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 80.5 -23.5 
+\t (00:00:32) last pick:  80.50 -23.50
+\i (00:00:32) pick 80.5 -35.5 
+\t (00:00:32) last pick:  80.50 -35.50
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) FORM mini lock_direction Off 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 80.5 -35.5 
+\t (00:00:32) last pick:  80.50 -35.50
+\i (00:00:32) pick 80.5 -35.5 
+\t (00:00:32) last pick:  80.50 -35.50
+\t (00:00:32) last pick:  80.50 -35.50
+\w (00:00:32) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) FORM mini lock_direction Off 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 80.5 -35.5 
+\t (00:00:32) last pick:  80.50 -35.50
+\i (00:00:32) pick 80.5 -23.5 
+\t (00:00:32) last pick:  80.50 -23.50
+\e (00:00:32) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:32) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) FORM mini lock_direction Off 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 80.5 -23.5 
+\t (00:00:32) last pick:  80.50 -23.50
+\i (00:00:32) pick 80.5 -23.5 
+\t (00:00:32) last pick:  80.50 -23.50
+\t (00:00:32) last pick:  80.50 -23.50
+\w (00:00:32) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) FORM mini lock_direction Off 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 80.5 -3.8 
+\t (00:00:32) last pick:  80.50 -3.80
+\i (00:00:32) pick 80.5 -15.8 
+\t (00:00:32) last pick:  80.50 -15.80
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) FORM mini lock_direction Off 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 80.5 -15.8 
+\t (00:00:33) last pick:  80.50 -15.80
+\i (00:00:33) pick 80.5 -15.8 
+\t (00:00:33) last pick:  80.50 -15.80
+\t (00:00:33) last pick:  80.50 -15.80
+\w (00:00:33) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) FORM mini lock_direction Off 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 80.5 -15.8 
+\t (00:00:33) last pick:  80.50 -15.80
+\i (00:00:33) pick 80.5 -3.8 
+\t (00:00:33) last pick:  80.50 -3.80
+\e (00:00:33) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:33) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) FORM mini lock_direction Off 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 80.5 -3.8 
+\t (00:00:33) last pick:  80.50 -3.80
+\i (00:00:33) pick 80.5 -3.8 
+\t (00:00:33) last pick:  80.50 -3.80
+\t (00:00:33) last pick:  80.50 -3.80
+\w (00:00:33) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) FORM mini lock_direction Off 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 80.5 15.8 
+\t (00:00:33) last pick:  80.50 15.80
+\i (00:00:33) pick 80.5 3.8 
+\t (00:00:33) last pick:  80.50 3.80
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) FORM mini lock_direction Off 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 80.5 3.8 
+\t (00:00:33) last pick:  80.50 3.80
+\i (00:00:33) pick 80.5 3.8 
+\t (00:00:33) last pick:  80.50 3.80
+\t (00:00:33) last pick:  80.50 3.80
+\w (00:00:33) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) FORM mini lock_direction Off 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 80.5 3.8 
+\t (00:00:33) last pick:  80.50 3.80
+\i (00:00:33) pick 80.5 15.8 
+\t (00:00:33) last pick:  80.50 15.80
+\e (00:00:33) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:33) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:33) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) FORM mini lock_direction Off 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 80.5 15.8 
+\t (00:00:34) last pick:  80.50 15.80
+\i (00:00:34) pick 80.5 15.8 
+\t (00:00:34) last pick:  80.50 15.80
+\t (00:00:34) last pick:  80.50 15.80
+\w (00:00:34) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) FORM mini lock_direction Off 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 80.5 35.5 
+\t (00:00:34) last pick:  80.50 35.50
+\i (00:00:34) pick 80.5 23.5 
+\t (00:00:34) last pick:  80.50 23.50
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) FORM mini lock_direction Off 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 80.5 23.5 
+\t (00:00:34) last pick:  80.50 23.50
+\i (00:00:34) pick 80.5 23.5 
+\t (00:00:34) last pick:  80.50 23.50
+\t (00:00:34) last pick:  80.50 23.50
+\w (00:00:34) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) FORM mini lock_direction Off 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 80.5 23.5 
+\t (00:00:34) last pick:  80.50 23.50
+\i (00:00:34) pick 80.5 35.5 
+\t (00:00:34) last pick:  80.50 35.50
+\e (00:00:34) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:34) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) FORM mini lock_direction Off 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 80.5 35.5 
+\t (00:00:34) last pick:  80.50 35.50
+\i (00:00:34) pick 80.5 35.5 
+\t (00:00:34) last pick:  80.50 35.50
+\t (00:00:34) last pick:  80.50 35.50
+\w (00:00:34) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) FORM mini lock_direction Off 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 80.5 55.2 
+\t (00:00:35) last pick:  80.50 55.20
+\i (00:00:35) pick 80.5 43.2 
+\t (00:00:35) last pick:  80.50 43.20
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) FORM mini lock_direction Off 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 80.5 43.2 
+\t (00:00:35) last pick:  80.50 43.20
+\i (00:00:35) pick 80.5 43.2 
+\t (00:00:35) last pick:  80.50 43.20
+\t (00:00:35) last pick:  80.50 43.20
+\w (00:00:35) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) FORM mini lock_direction Off 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 80.5 43.2 
+\t (00:00:35) last pick:  80.50 43.20
+\i (00:00:35) pick 80.5 55.2 
+\t (00:00:35) last pick:  80.50 55.20
+\e (00:00:35) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (00:00:35) ERROR(SPMHGE-86): Illegal pick.
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) FORM mini lock_direction Off 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 80.5 55.2 
+\t (00:00:35) last pick:  80.50 55.20
+\i (00:00:35) pick 80.5 55.2 
+\t (00:00:35) last pick:  80.50 55.20
+\t (00:00:35) last pick:  80.50 55.20
+\w (00:00:35) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini line_width 6 
+\i (00:00:35) FORM mini lock_direction Off 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick -80.5 -80.5 
+\t (00:00:35) last pick:  -80.50 -80.50
+\i (00:00:35) pick -68.3 -80.5 
+\t (00:00:35) last pick:  -68.30 -80.50
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini line_width 6 
+\i (00:00:36) FORM mini lock_direction Off 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick 80.5 -80.5 
+\t (00:00:36) last pick:  80.50 -80.50
+\i (00:00:36) pick 80.5 -68.3 
+\t (00:00:36) last pick:  80.50 -68.30
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini line_width 6 
+\i (00:00:36) FORM mini lock_direction Off 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick 80.5 80.5 
+\t (00:00:36) last pick:  80.50 80.50
+\i (00:00:36) pick 68.3 80.5 
+\t (00:00:36) last pick:  68.30 80.50
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini line_width 6 
+\i (00:00:36) FORM mini lock_direction Off 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick -80.5 80.5 
+\t (00:00:36) last pick:  -80.50 80.50
+\i (00:00:36) pick -80.5 68.3 
+\t (00:00:36) last pick:  -80.50 68.30
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini line_width 6 
+\i (00:00:36) FORM mini lock_direction Off 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick -80.5 -68.3 
+\t (00:00:36) last pick:  -80.50 -68.30
+\i (00:00:36) pick -80.5 -80.5 
+\t (00:00:36) last pick:  -80.50 -80.50
+\t (00:00:36) Merged with existing line. Start next line.
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini line_width 0 
+\i (00:00:36) FORM mini lock_direction Off 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick -80.5 -80.5 
+\t (00:00:36) last pick:  -80.50 -80.50
+\i (00:00:36) pick 80.5 -80.5 
+\t (00:00:36) last pick:  80.50 -80.50
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:37) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini line_width 0 
+\i (00:00:37) FORM mini lock_direction Off 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick 80.5 -80.5 
+\t (00:00:37) last pick:  80.50 -80.50
+\i (00:00:37) pick 80.5 -80.5 
+\t (00:00:37) last pick:  80.50 -80.50
+\t (00:00:37) last pick:  80.50 -80.50
+\w (00:00:37) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:37) done 
+\i (00:00:37) add line 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:37) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini line_width 0 
+\i (00:00:37) FORM mini lock_direction Off 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick 80.5 -80.5 
+\t (00:00:37) last pick:  80.50 -80.50
+\i (00:00:37) pick 80.5 80.5 
+\t (00:00:37) last pick:  80.50 80.50
+\i (00:00:37) done 
+\i (00:00:37) add line 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:37) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini line_width 0 
+\i (00:00:37) FORM mini lock_direction Off 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick 80.5 80.5 
+\t (00:00:37) last pick:  80.50 80.50
+\i (00:00:37) pick 80.5 80.5 
+\t (00:00:37) last pick:  80.50 80.50
+\t (00:00:37) last pick:  80.50 80.50
+\w (00:00:37) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:37) done 
+\i (00:00:37) add line 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:37) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini line_width 0 
+\i (00:00:37) FORM mini lock_direction Off 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick 80.5 80.5 
+\t (00:00:37) last pick:  80.50 80.50
+\i (00:00:37) pick -80.5 80.5 
+\t (00:00:37) last pick:  -80.50 80.50
+\i (00:00:37) done 
+\i (00:00:37) add line 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:37) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini line_width 0 
+\i (00:00:37) FORM mini lock_direction Off 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick -80.5 80.5 
+\t (00:00:37) last pick:  -80.50 80.50
+\i (00:00:37) pick -80.5 80.5 
+\t (00:00:37) last pick:  -80.50 80.50
+\t (00:00:37) last pick:  -80.50 80.50
+\w (00:00:37) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:37) done 
+\i (00:00:37) add line 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:38) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini line_width 0 
+\i (00:00:38) FORM mini lock_direction Off 
+\i (00:00:38) setwindow pcb 
+\i (00:00:38) pick -80.5 80.5 
+\t (00:00:38) last pick:  -80.50 80.50
+\i (00:00:38) pick -80.5 -80.5 
+\t (00:00:38) last pick:  -80.50 -80.50
+\i (00:00:38) done 
+\i (00:00:38) add line 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:38) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini line_width 0 
+\i (00:00:38) FORM mini lock_direction Off 
+\i (00:00:38) setwindow pcb 
+\i (00:00:38) pick -80.5 -80.5 
+\t (00:00:38) last pick:  -80.50 -80.50
+\i (00:00:38) pick -80.5 -80.5 
+\t (00:00:38) last pick:  -80.50 -80.50
+\t (00:00:38) last pick:  -80.50 -80.50
+\w (00:00:38) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:00:38) done 
+\i (00:00:38) add line 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:38) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini line_width 6 
+\i (00:00:38) FORM mini lock_direction Off 
+\i (00:00:38) setwindow pcb 
+\i (00:00:38) pick 68.3 -80.5 
+\t (00:00:38) last pick:  68.30 -80.50
+\i (00:00:38) pick 80.5 -80.5 
+\t (00:00:38) last pick:  80.50 -80.50
+\t (00:00:38) Merged with existing line. Start next line.
+\i (00:00:38) done 
+\i (00:00:38) create symbol 
+\i (00:00:38) fillin CP_24_7 
+\t (00:00:38) Creating package symbol 'C:/UltraLibrarian/Library/Exported/Allegro/adf4158-24/cp_24_7.psm'.
+\t (00:00:38) Starting Create symbol...
+\i (00:00:39) setwindow pcb 
+\i (00:00:39) trapsize 503 
+\i (00:00:39) dbdoctor 
+\i (00:00:39) setwindow Form.dbdoctor_allegro 
+\i (00:00:39) FORM dbdoctor_allegro drc YES 
+\i (00:00:39) FORM dbdoctor_allegro shapes YES 
+\i (00:00:39) FORM dbdoctor_allegro execute 
+\t (00:00:39) Dbdoctor in progress - wait...
+\t (00:00:40) Checking db records
+\t (00:00:40)     checking for orphans...
+\t (00:00:40)     Checked 100 percent
+\t (00:00:40) Regenerating DRC
+\t (00:00:40)   Original DRC errors: 0
+\t (00:00:40) Performing DRC...
+\t (00:00:40) No DRC errors detected.
+\t (00:00:40)   Updated DRC errors:  0
+\t (00:00:40) Done dbdoctor.
+\t (00:00:40) Dbdoctor completed.
+\i (00:00:40) setwindow pcb 
+\i (00:00:40) save_as 
+\i (00:00:40) fillin CP_24_7 
+\t (00:00:40) Symbol 'cp_24_7.psm' created.
+\i (00:00:40) setwindow pcb 
+\i (00:00:40) exit 
+\t (00:00:41)     Journal end - Sat Feb 20 21:57:07 2016

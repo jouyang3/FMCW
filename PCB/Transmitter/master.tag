@@ -1,1 +1,1 @@
-PLL_SQ.brd
+PLL_VCO.brd

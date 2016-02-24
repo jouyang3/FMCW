@@ -1,0 +1,75 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PLL_VCO.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Feb 21 20:35:10 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  Y1 / FOX801_FOX801_FOX801 / FOX801 at (-260.65 1095.06)
+         Placed symbol:  J7 / CON3_SMA_AMPHENOL_S_CON3 / SMA_AMPHENOL_S at (-39.93 1062.03)
+         Placed symbol:  J8 / CON3_SMA_AMPHENOL_S_CON3 / SMA_AMPHENOL_S at (151.07 1062.03)
+         Placed symbol:  J3 / CON3_SMA_AMPHENOL_S_CON3 / SMA_AMPHENOL_S at (-484.00 1429.09)
+         Placed symbol:  J2 / CON3_SMA_AMPHENOL_S_CON3 / SMA_AMPHENOL_S at (-293.00 1429.09)
+         Placed symbol:  J1 / CON3_SMA_AMPHENOL_S_CON3 / SMA_AMPHENOL_S at (-102.00 1429.09)
+         Placed symbol:  C26 / CAP_CAPC1608N_1UF / CAPC1608N at (142.02 1312.12)
+         Placed symbol:  C3 / CAP_CAPC1608N_22UF / CAPC1608N at (272.06 1312.12)
+         Placed symbol:  C11 / CAP_CAPC1608N_100PF / CAPC1608N at (402.10 1312.12)
+         Placed symbol:  C16 / CAP_CAPC1608N_100PF / CAPC1608N at (-430.98 1613.12)
+         Placed symbol:  C7 / CAP_CAPC1608N_1NF / CAPC1608N at (-300.94 1613.12)
+         Placed symbol:  C8 / CAP_CAPC1608N_1NF / CAPC1608N at (-170.90 1613.12)
+         Placed symbol:  C5 / CAP_CAPC1608N_10PF / CAPC1608N at (-40.86 1613.12)
+         Placed symbol:  C23 / CAP_CAPC1608N_1UF / CAPC1608N at (89.18 1613.12)
+         Placed symbol:  C25 / CAP_CAPC1608N_4.7UF / CAPC1608N at (219.22 1613.12)
+         Placed symbol:  C19 / CAP_CAPC1608N_100PF / CAPC1608N at (349.26 1613.12)
+         Placed symbol:  R17 / RES_CAPC1608N_0 / CAPC1608N at (-430.98 1683.14)
+         Placed symbol:  C6 / CAP_CAPC1608N_1NF / CAPC1608N at (-300.94 1683.14)
+         Placed symbol:  J5 / JUMPER1_JUMPER2_JUMPER1 / JUMPER2 at (-181.92 1703.61)
+         Placed symbol:  C9 / CAP_CAPC1608N_50.8NF / CAPC1608N at (37.10 1683.14)
+         Placed symbol:  J9 / HEADER 2_JUMPER2_HEADER 2 / JUMPER2 at (156.12 1703.61)
+         Placed symbol:  R1 / RES_CAPC1608N_0 / CAPC1608N at (375.14 1683.14)
+         Placed symbol:  R13 / RES_CAPC1608N_0 / CAPC1608N at (-430.98 1791.14)
+         Placed symbol:  R15 / RES_CAPC1608N_0 / CAPC1608N at (-300.94 1791.14)
+         Placed symbol:  J6 / JUMPER1_JUMPER2_JUMPER1 / JUMPER2 at (-181.92 1811.61)
+         Placed symbol:  R4 / RES_CAPC1608N_0 / CAPC1608N at (37.10 1791.14)
+         Placed symbol:  R7 / RES_CAPC1608N_0 / CAPC1608N at (167.14 1791.14)
+         Placed symbol:  R8 / RES_CAPC1608N_0 / CAPC1608N at (297.18 1791.14)
+         Placed symbol:  R9 / RES_CAPC1608N_0 / CAPC1608N at (427.22 1791.14)
+ERROR:   Cannot place symbol:  R10 / RES_CAPC1608N_330 / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R11 / RES_CAPC1608N_330 / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R12 / RES_CAPC1608N_330 / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R16 / RES_CAPC1608N_330 / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R18 / RES_CAPC1608N_330 / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R14 / RES_CAPC1608N_10K / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+ERROR:   Cannot place symbol:  R2 / RES_CAPC1608N_60.1 / CAPC1608N
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+WARNING: Could not place:  R3 / RES_CAPC1608N_29.4 / CAPC1608N; outside of drawing extents
+WARNING: Could not place:  R5 / RES_CAPC1608N_51 / CAPC1608N; outside of drawing extents
+WARNING: Could not place:  R6 / RES_CAPC1608N_4.7K / CAPC1608N; outside of drawing extents
+WARNING: Could not place:  C1 / CAP_CAPC1608N_100PF / CAPC1608N; outside of drawing extents
+WARNING: Could not place:  TP2 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP3 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP4 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP5 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP6 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP7 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP8 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP9 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+WARNING: Could not place:  TP1 / TEST POINT_JUMPER1_TEST POINT / JUMPER1; outside of drawing extents
+
+
+Placed 29 of 49 applicable (49 total) symbols.
+
+-----------------------------------------------------------------------
+

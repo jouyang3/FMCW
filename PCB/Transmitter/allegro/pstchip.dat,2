@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Feb-21-2016 at 00:16:44}
+{ Using PSTWRITER 16.6.0 d001Feb-21-2016 at 20:26:07}
 primitive 'CAP_CAPC1608N_100PF';
   pin
     'A':
@@ -487,6 +487,9 @@ primitive 'ADF4158_CP_24_7_ADF4158';
       PINUSE='UNSPEC';
     'DVDD':
       PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(25)';
       PINUSE='UNSPEC';
   end_pin;
   body

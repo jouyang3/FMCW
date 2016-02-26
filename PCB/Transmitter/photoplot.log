@@ -1,0 +1,248 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Fri Feb 26 13:32:14 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03242                                  DARK 
+  CIRCLE     0.03255                                  DARK 
+  CIRCLE     0.03257                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  SQUARE     0.03937                     0.000 NO     DARK 
+  SQUARE     0.10400                     0.000 NO     DARK 
+  SQUARE     0.14764                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.02775       0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.02775      90.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.02559     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.15600     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.15600     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.16700     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.16700     x 0.05900      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  RECTANGLE  0.15600     x 0.05900       0.000 NO     DARK 
+  RECTANGLE  0.15600     x 0.05900      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/SILK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (593.00 -283.00)
+           ... using undefined line width of 5.00
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     SILK created with warnings
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-600.00 -754.00)
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     OUTLINE created with warnings
+
+
+================================================================
+     PROCESSING FILM < SM_TOP >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/SM_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SM_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SM_BOT >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/SM_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SM_BOT created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     DRILL created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        SILK created with warnings
+        OUTLINE created with warnings
+        SM_TOP created with warnings
+        SM_BOT created with warnings
+        DRILL created with warnings
+
+ ARTWORK had warnings

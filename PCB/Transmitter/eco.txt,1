@@ -2,51 +2,68 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  PLL_VCO.brd                                                                 |
-|                                                    Sun Feb 21 20:26:36 2016  |
+|  C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd                       |
+|                                                    Tue Feb 23 19:23:29 2016  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 U2.25                          
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 U1.2                           
+                                                                         N27440
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27440       pins MOVED FROM this net (to net name listed on right)
+                                 U1.3                           
+                                                                            GND
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  PLL_VCO.brd                                                                 |
-|                                                    Sun Feb 21 20:26:36 2016  |
+|  C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd                       |
+|                                                    Tue Feb 23 19:23:29 2016  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- ADF4158_CP_24_7_ADF4158
+ PAT129_PAT2012_PAT129
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  PLL_VCO.brd                                                                 |
-|                                                    Sun Feb 21 20:26:36 2016  |
+|  C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd                       |
+|                                                    Tue Feb 23 19:23:29 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J7                  CON3_SMA_AMPHENOL_S_CON3                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd                       |
+|                                                    Tue Feb 23 19:23:29 2016  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in board drawing          |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2                  ADF4158_CP_24_7_ADF4158                 ADF4158_CP_24_7_ADF4158
+ U1                  PAT129_PAT2012_PAT129                 PAT129_PAT2012_PAT129
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
+|                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  PLL_VCO.brd                                                                 |
-|                                                    Sun Feb 21 20:26:36 2016  |
+|  C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd                       |
+|                                                    Tue Feb 23 19:23:29 2016  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2.22                          PRIM_FILE      .\pstchip.dat
+ U1.2                           PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  4                                              |
+|   total ECO changes reported  6                                              |
 |------------------------------------------------------------------------------|

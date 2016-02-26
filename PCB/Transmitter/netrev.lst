@@ -2,35 +2,36 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : PLL_VCO.brd                                   )
-(    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Feb 23 19:23:29 2016                      )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Fri Feb 26 14:27:55 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
------- Directives ------
+------ Directives ------------
 
-RIPUP_ETCH FALSE;
-RIPUP_DELETE_FIRST_SEGMENT FALSE;
-RIPUP_RETAIN_BONDWIRE FALSE;
-RIPUP_SYMBOLS ALWAYS;
-Missing symbol has error FALSE;
-SCHEMATIC_DIRECTORY 'C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro';
-BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd';
-NEW_BOARD_NAME 'C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd';
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro'
+Design Directory:            '.'
+Old design name:             'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
+New design name:             'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
 
-CmdLine: netrev -$ -i C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro -y 1 C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/#Taaaaex20344.tmp
+CmdLine: netrev -$ -i C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/#Taaaabb07744.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro/pstchip.dat 
-   Finished reading C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro/pstchip.dat (00:00:00.03)
-Starting to read C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro/pstxprt.dat 
-   Finished reading C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro/pstxnet.dat 
-   Finished reading C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/allegro/pstxnet.dat (00:00:00.00)
+Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat 
+   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat (00:00:00.16)
+Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxprt.dat 
+   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxnet.dat 
+   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -46,9 +47,11 @@ PSMPATH =  .
            C:/Cadence/SPB_16.6/share/local/pcb/symbols 
            C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/footprints/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24 
 
 PADPATH =  . 
            symbols 
@@ -57,17 +60,19 @@ PADPATH =  .
            C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
            C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/padstacks/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/padstacks/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Feb 23 19:23:29 2016
+netrev run on Feb 26 14:27:55 2016
    DESIGN NAME : 'TRANS'
-   PACKAGING ON Sep 10 2012 04:46:09
+   PACKAGING ON Oct 15 2014 05:53:32
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -90,6 +95,6 @@ netrev run on Feb 23 19:23:29 2016
  No oversight detected
  No warning detected
 
-cpu time      0:00:28
-elapsed time  0:00:00
+cpu time      0:02:11
+elapsed time  0:00:01
 

@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Feb-21-2016 at 20:26:07 }
+{ Using PSTWRITER 16.6.0 d001Feb-23-2016 at 19:01:57 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='TRANS';
@@ -324,16 +324,6 @@ SECTION_NUMBER 1
  '@TRANS.SCHEMATIC5(SCH_1):INS28316@CONNECTOR.JUMPER1.NORMAL(CHIPS)':
  C_PATH='@trans.schematic5(sch_1):ins28316@connector.\jumper1.normal\(chips)',
  P_PATH='@trans.schematic5(sch_1):page1_ins28316@connector.\jumper1.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J7 'CON3_SMA_AMPHENOL_S_CON3':;
-
-SECTION_NUMBER 1
- '@TRANS.SCHEMATIC5(SCH_1):INS27842@CONNECTOR.CON3.NORMAL(CHIPS)':
- C_PATH='@trans.schematic5(sch_1):ins27842@connector.\con3.normal\(chips)',
- P_PATH='@trans.schematic5(sch_1):page1_ins27842@connector.\con3.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

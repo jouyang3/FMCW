@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Feb-26-2016 at 14:27:18}
+{ Using PSTWRITER 16.6.0 d001Feb-27-2016 at 00:36:34}
 primitive 'CAP_CAPC1608N_100PF';
   pin
     'A':
@@ -17,7 +17,7 @@ primitive 'CAP_CAPC1608N_100PF';
     VALUE='100pF';
   end_body;
 end_primitive;
-primitive 'CAP_CAPC1608N_11NF';
+primitive 'CAP_CAPC2012N_11NF';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -30,7 +30,7 @@ primitive 'CAP_CAPC1608N_11NF';
   end_pin;
   body
     PART_NAME='CAP';
-    JEDEC_TYPE='capc1608n';
+    JEDEC_TYPE='capc2012n';
     VALUE='11nF';
   end_body;
 end_primitive;
@@ -187,7 +187,7 @@ primitive 'CAP_CAPC1608N_1NF';
     VALUE='1nF';
   end_body;
 end_primitive;
-primitive 'CAP_CAPC1608N_50.8NF';
+primitive 'CAP_CAPC3216N_50.8NF';
   pin
     'A':
       PIN_NUMBER='(1)';
@@ -200,7 +200,7 @@ primitive 'CAP_CAPC1608N_50.8NF';
   end_pin;
   body
     PART_NAME='CAP';
-    JEDEC_TYPE='capc1608n';
+    JEDEC_TYPE='capc3216n';
     VALUE='50.8nF';
   end_body;
 end_primitive;

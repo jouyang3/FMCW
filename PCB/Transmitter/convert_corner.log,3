@@ -1,0 +1,308 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sat Feb 27 00:52:36 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 1 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 6 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 4 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 1 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 4 of 19 failed to convert
+
+Cline vertex:xy (354.50 788.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (488.00 788.50)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (840.81 217.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (839.81 216.00)	subclass: TOP	net_name: +5V 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 1 of 2 failed to convert
+
+Cline vertex:xy (869.60 -529.10)	subclass: TOP	net_name: +12V 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 2 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 11 of 25 failed to convert
+
+Cline vertex:xy (552.50 -334.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (264.50 -195.50)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (236.50 -183.21)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (54.00 -277.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (14.00 -317.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-11.00 -342.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (289.00 -267.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-38.00 342.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-38.00 347.50)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-243.00 154.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (279.00 -277.00)	subclass: BOTTOM	net_name: +3V 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 3 failed to convert
+
+Cline vertex:xy (-144.50 475.00)	subclass: TOP	net_name: N28210 
+Cline vertex:xy (-260.65 525.65)	subclass: TOP	net_name: N28210 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 16 failed to convert
+
+Cline vertex:xy (633.50 -69.00)	subclass: TOP	net_name: N27202 
+Cline vertex:xy (418.00 163.00)	subclass: BOTTOM	net_name: N27202 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 13 failed to convert
+
+Cline vertex:xy (633.50 -69.00)	subclass: TOP	net_name: N27202 
+Cline vertex:xy (418.00 163.00)	subclass: BOTTOM	net_name: N27202 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 4 of 18 failed to convert
+
+Cline vertex:xy (839.81 216.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (840.81 217.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (354.50 788.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (488.00 788.50)	subclass: TOP	net_name: +5V 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 13 failed to convert
+
+Cline vertex:xy (633.50 -69.00)	subclass: TOP	net_name: N27202 
+Cline vertex:xy (418.00 163.00)	subclass: BOTTOM	net_name: N27202 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 4 of 18 failed to convert
+
+Cline vertex:xy (839.81 216.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (840.81 217.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (354.50 788.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (488.00 788.50)	subclass: TOP	net_name: +5V 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 10 of 24 failed to convert
+
+Cline vertex:xy (289.00 -267.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-243.00 154.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-11.00 -342.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (14.00 -317.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (54.00 -277.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (552.50 -334.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (236.50 -183.21)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-38.00 342.00)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (-38.00 347.50)	subclass: TOP	net_name: +3V 
+Cline vertex:xy (279.00 -277.00)	subclass: BOTTOM	net_name: +3V 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 1 of 5 failed to convert
+
+Cline vertex:xy (798.40 -214.07)	subclass: TOP	net_name: N28882 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 3 of 5 failed to convert
+
+Cline vertex:xy (947.37 -232.91)	subclass: TOP	net_name: N26468 
+Cline vertex:xy (932.52 -177.13)	subclass: BOTTOM	net_name: N26468 
+Cline vertex:xy (932.52 -176.52)	subclass: BOTTOM	net_name: N26468 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 0 of 2 failed to convert
+
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 4 of 18 failed to convert
+
+Cline vertex:xy (839.81 216.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (840.81 217.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (354.50 788.00)	subclass: TOP	net_name: +5V 
+Cline vertex:xy (488.00 788.50)	subclass: TOP	net_name: +5V 
+
+CommandEnd AiCC **************************************************************

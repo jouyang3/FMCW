@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Feb-26-2016 at 14:27:15 }
+{ Using PSTWRITER 16.6.0 d001Feb-27-2016 at 00:36:33 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.18" ignored for U2: SCHEMATIC5, PLL_VCO (8.50, 2.70). Connecting pin to net "+3V".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.19" ignored for U2: SCHEMATIC5, PLL_VCO (8.50, 2.70). Connecting pin to net "+3V".

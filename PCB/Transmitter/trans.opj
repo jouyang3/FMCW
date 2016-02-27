@@ -201,15 +201,25 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\trans.dsn")
+      (Path "Design Resources" ".\trans.dsn" "SCHEMATIC5")
       (Path "Design Resources" ".\trans.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\trans.dsn" "Design Cache" "Ps"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -13 -58 0 258 0 832"))
-      (Tab 0)))
-  (MPSSessionName "Jun")
+        (Placement "44 2 3 -1 -1 -9 -38 0 258 0 832"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 64 1683 64 516")
+        (Scroll "231 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\DART\DESKTOP\FMCW\FMCW\PCB\TRANSMITTER\TRANS.DSN")
+      (Schematic "SCHEMATIC5")
+      (Page "PLL_VCO")))
+  (MPSSessionName "Dart")
   (ISPCBBASICLICENSE "false"))

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Fri Feb 26 14:27:55 2016                      )
+(    Date/Time        : Sat Feb 27 00:36:43 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            '.'
 Old design name:             'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
 New design name:             'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
 
-CmdLine: netrev -$ -i C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/#Taaaabb07744.tmp
+CmdLine: netrev -$ -i C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/#Taaaaab09364.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat 
-   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat (00:00:00.16)
+   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat (00:00:00.06)
 Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxprt.dat 
    Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxnet.dat 
@@ -70,7 +70,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Feb 26 14:27:55 2016
+netrev run on Feb 27 0:36:43 2016
    DESIGN NAME : 'TRANS'
    PACKAGING ON Oct 15 2014 05:53:32
 
@@ -95,6 +95,6 @@ netrev run on Feb 26 14:27:55 2016
  No oversight detected
  No warning detected
 
-cpu time      0:02:11
-elapsed time  0:00:01
+cpu time      0:00:53
+elapsed time  0:00:00
 

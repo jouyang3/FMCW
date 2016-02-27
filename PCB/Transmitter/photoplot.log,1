@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Fri Feb 26 13:31:45 2016                      )
+(    Date/Time        : Fri Feb 26 13:32:14 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -118,7 +118,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.00
+  Undefined line width                5.00
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.00
@@ -128,14 +128,19 @@ Results from parameter file ...
   Draw holes only                     NO
 
     WARNING: text composed 0 width line found at (593.00 -283.00)
-           ... ignored.
+           ... using undefined line width of 5.00
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... ignored.
+           ... using undefined line width of 5.00
 
 
 
-  APERTURES USED:  NONE
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
      SILK created with warnings
 
 

@@ -204,18 +204,19 @@
       (Path "Design Resources" ".\trans.dsn" "SCHEMATIC5")
       (Path "Design Resources" ".\trans.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\trans.dsn" "SCHEMATIC5"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 0 258 0 832"))
+        (Placement "44 0 1 -1 -1 -9 -38 0 258 0 832"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 64 1683 64 516")
-        (Scroll "231 0")
+        (Placement "44 2 3 -1 -1 -9 -38 64 1683 64 516")
+        (Scroll "0 192")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\DART\DESKTOP\FMCW\FMCW\PCB\TRANSMITTER\TRANS.DSN")

@@ -5113,4 +5113,11 @@
 \w (02:02:21) Artwork generated with warnings.
 \i (02:02:22) setwindow text
 \i (02:02:22) close 
-\i (02:02:23) setwind
+\i (02:02:23) setwindow form.film_control
+\i (02:02:23) FORM film_control ok  
+\i (02:02:23) setwindow pcb
+\i (02:02:23) generaledit 
+\i (02:43:00) exit 
+\e (02:43:00) Do you want to save the changes you made to C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd?
+\i (02:43:02) fillin yes 
+\t (02:43:02)     Journal end - Sun Feb 28 22:52:12 2016

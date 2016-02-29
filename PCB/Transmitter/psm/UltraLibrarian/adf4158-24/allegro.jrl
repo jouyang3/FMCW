@@ -1,38 +1,55 @@
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Sun Feb 21 20:19:57 2016
-\t (00:00:00)         Host=DESKTOP-RRCBF1U User=Jun Pid=7128 CPUs=8
+\t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:00)     Journal start - Sun Feb 28 21:39:52 2016
+\t (00:00:00)         Host=DART User=Dart Pid=9376 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\psm\UltraLibrarian\adf4158-24\CP_24_7.dra
 \t (00:00:00) 
 \t (00:00:00) Opening existing design...
-\d (00:00:00) Database opened: C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/CP_24_7.dra
-\i (00:00:00) trapsize 55
-\i (00:00:00) trapsize 54
-\i (00:00:00) trapsize 56
-\i (00:00:00) trapsize 46
-\i (00:00:00) trapsize 55
-\i (00:00:01) etchedit 
-\i (00:00:01) zoom out 1 
-\i (00:00:01) setwindow pcb
-\i (00:00:01) zoom out 8.58 -6.95
-\i (00:00:01) trapsize 109
-\i (00:00:01) zoom out 1 
-\i (00:00:01) setwindow pcb
-\i (00:00:01) zoom out 8.57 -6.95
-\i (00:00:01) trapsize 219
+\d (00:00:00) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/CP_24_7.dra
+\i (00:00:00) trapsize 133
+\i (00:00:00) trapsize 130
+\i (00:00:00) trapsize 133
+\i (00:00:00) trapsize 114
+\i (00:00:00) trapsize 114
+\i (00:00:01) generaledit 
 \i (00:00:02) zoom out 1 
 \i (00:00:02) setwindow pcb
-\i (00:00:02) zoom out 8.58 -6.94
-\i (00:00:02) trapsize 438
-\i (00:00:02) zoom out 1 
-\i (00:00:02) setwindow pcb
-\i (00:00:02) zoom out 8.57 -6.94
-\i (00:00:02) trapsize 875
-\i (00:00:02) zoom in 1 
-\i (00:00:02) setwindow pcb
-\i (00:00:02) zoom in -8.14 -22.69
-\i (00:00:02) trapsize 438
-\i (00:00:02) zoom in 1 
-\i (00:00:02) setwindow pcb
-\i (00:00:02) zoom in -8.14 -22.69
-\i (00:00:02) trapsize 219
-\i (00:00:09) exit 
-\t (00:00:09)     Journal end - Sun Feb 21 20:20:06 2016
+\i (00:00:02) zoom out -132.15 -6.25
+\i (00:00:02) trapsize 227
+\i (00:00:03) roam start
+\i (00:00:03) roam y -48
+\i (00:00:03) roam y -16
+\i (00:00:03) roam y -32
+\i (00:00:03) roam y -16
+\i (00:00:03) roam end
+\i (00:00:08) color192 
+\i (00:00:08) setwindow cvf.dialog
+\i (00:00:08) cvf layer_mode
+\i (00:00:09) setwindow pcb
+\i (00:00:09) generaledit 
+\i (00:00:16) setwindow cvf.dialog
+\i (00:00:16) cvf global_invisible
+\i (00:00:19) cvf layers_visible package_geometry/soldermask_top TRUE
+\i (00:00:20) cvf apply
+\i (00:00:23) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:00:23) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:00:26) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:00:27) cvf apply
+\i (00:00:28) cvf okay
+\i (00:00:32) setwindow pcb
+\i (00:00:32) refresh padstack 
+\i (00:00:33) setwindow form.rf_pad
+\i (00:00:33) FORM rf_pad execute  
+\t (00:00:33) Starting Refreshing padstacks...
+\t (00:00:33) Opening existing design...
+\i (00:00:33) setwindow pcb
+\i (00:00:33) trapsize 227
+\i (00:00:37) setwindow form.rf_pad
+\i (00:00:37) FORM rf_pad cancel  
+\i (00:00:37) setwindow pcb
+\i (00:00:37) generaledit 
+\i (00:00:38) save 
+\i (00:00:39) fillin yes 
+\t (00:00:40) Symbol 'cp_24_7.psm' created.
+\i (00:00:40) generaledit 
+\i (00:00:47) exit 
+\t (00:00:47)     Journal end - Sun Feb 28 21:40:39 2016

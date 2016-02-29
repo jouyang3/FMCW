@@ -1,9 +1,9 @@
-Tue Feb 23 19:20:14 2016				Page     1
+Sun Feb 28 21:33:03 2016				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Feb 23 19:20:14 2016
+	Sun Feb 28 21:33:03 2016
 
 ------ Module Refresh Messages ------
 
@@ -17,29 +17,31 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : PLL_VCO.brd                                   )
-(    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Feb 23 19:20:15 2016                      )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Feb 28 21:33:03 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Feb 23 19:20:15 2016				Page     1
+Sun Feb 28 21:33:03 2016				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design = 'C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd'
+Input design  = 'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
 Output design = ''
-Update mechanical symbols = 'NO'
-Update format symbols = 'NO'
-Update package symbols = 'YES'
-Update shape/flash symbols = 'YES'
-Update symbol padstacks = 'NO'
-Reset symbol text and size locations = 'NO'
-Reset Pin Escapes (fanouts) = 'NO'
-Ripup Etch = 'NO'
-Reset custom drill data = 'NO'
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
 
 
 ------ Library Paths ------
@@ -50,9 +52,11 @@ PSMPATH =  .
            C:/Cadence/SPB_16.6/share/local/pcb/symbols 
            C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/footprints/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24 
 
 PADPATH =  . 
            symbols 
@@ -61,9 +65,11 @@ PADPATH =  .
            C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
            C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/padstacks/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
-           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/padstacks/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
 
 
 ------ Symbol Refresh Messages ------
@@ -72,15 +78,38 @@ PADPATH =  .
 'CP_24_7'  symbol refreshed successfully.
 'SMP6_1_9R2_8'  symbol refreshed successfully.
 'JUMPER6'  symbol refreshed successfully.
-'PAT2012'  symbol refreshed successfully.
 'CAPC1608N'  symbol refreshed successfully.
 'FOX801'  symbol refreshed successfully.
 'SMA_AMPHENOL_S'  symbol refreshed successfully.
 'JUMPER2'  symbol refreshed successfully.
 'JUMPER1'  symbol refreshed successfully.
+'PAT2012'  symbol refreshed successfully.
+'CAPC3216N'  symbol refreshed successfully.
+'CAPC2012N'  symbol refreshed successfully.
 'AB00'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'SM1_0S'  pad stack refreshed successfully.
+'SM1_9R1_4'  pad stack refreshed successfully.
+'RX104Y104D0T'  pad stack refreshed successfully.
+'TH1_0C1_45C'  pad stack refreshed successfully.
+'RX147P64Y147P64D0T'  pad stack refreshed successfully.
+'SM0_65R0_25'  pad stack refreshed successfully.
+'PAD60CIR36D'  pad stack refreshed successfully.
+'SM2_1R0_45'  pad stack refreshed successfully.
+'SM0_6R0_25'  pad stack refreshed successfully.
+'RX11P81Y27P75D0T'  pad stack refreshed successfully.
+'SR156X59_TWOSIDES'  pad stack refreshed successfully.
+'SM1_5R1_1'  pad stack refreshed successfully.
+'SM1_8R1_1'  pad stack refreshed successfully.
+'SR167X59'  pad stack refreshed successfully.
+'RX12Y32D0TSM2'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Completed refreshing all symbols successfully.
+Updated symbols: 13 out 13
+    Design updated.
+

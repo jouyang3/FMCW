@@ -1,0 +1,86 @@
+Tue Feb 23 19:20:14 2016				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Feb 23 19:20:14 2016
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : PLL_VCO.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Feb 23 19:20:15 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Feb 23 19:20:15 2016				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/PLL_VCO.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'YES'
+Update shape/flash symbols = 'YES'
+Update symbol padstacks = 'NO'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/footprints/ 
+           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
+           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/padstacks/ 
+           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
+           C:/Users/Jun/Desktop/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+
+
+------ Symbol Refresh Messages ------
+
+'HCP_32_1'  symbol refreshed successfully.
+'CP_24_7'  symbol refreshed successfully.
+'SMP6_1_9R2_8'  symbol refreshed successfully.
+'JUMPER6'  symbol refreshed successfully.
+'PAT2012'  symbol refreshed successfully.
+'CAPC1608N'  symbol refreshed successfully.
+'FOX801'  symbol refreshed successfully.
+'SMA_AMPHENOL_S'  symbol refreshed successfully.
+'JUMPER2'  symbol refreshed successfully.
+'JUMPER1'  symbol refreshed successfully.
+'AB00'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

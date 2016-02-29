@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HCP_32_1.dra                                  )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Feb 28 21:41:13 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32
+    Name      = hcp_32_1.psm
+    User      = Dart
+    Machine   = DART
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

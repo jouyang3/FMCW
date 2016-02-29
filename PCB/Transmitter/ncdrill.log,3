@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Feb 28 21:55:27 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter' ...
+
+
+
+     'PLL_VCO_FINAL-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.0000    0.0000/  0.0000      PLATED        179
+            2.  36.0000    0.0000/  0.0000      PLATED         11
+            3.  39.3700    0.0000/  0.0000      PLATED          6
+
+     ---- Total holes:                                        196
+
+     ---- Total head travel:              4.52 feet (1.38 meters)
+

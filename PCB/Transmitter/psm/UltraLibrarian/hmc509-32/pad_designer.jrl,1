@@ -1,0 +1,91 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 25 01:52:38 2016
+\t (00:00:00)         Host=DART User=Dart Pid=8164 CPUs=4
+\t (00:00:00) CmdLine= pad_designer -s 2016-01-25_01-52-00_pads.scr
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay 2016-01-25_01-52-00_pads.scr 
+\i (00:00:00) Version 13.6 
+\t (00:00:00) Script version: 13.6
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin RX11p81Y27p75D0T.pad 
+\i (00:00:00) FORM padedit units Mils 
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row 1 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit width 11.811 
+\i (00:00:00) FORM padedit width 11.811 
+\i (00:00:00) FORM padedit height 27.748 
+\i (00:00:00) FORM padedit height 27.748 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit geometry_th Null 
+\i (00:00:00) FORM padedit grid row 6 
+\i (00:00:00) FORM padedit grid row pastemask_top 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit geometry Rectangle 
+\i (00:00:00) FORM padedit width 11.811 
+\i (00:00:00) FORM padedit width 11.811 
+\i (00:00:00) FORM padedit height 27.748 
+\i (00:00:00) FORM padedit height 27.748 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit parameters 
+\i (00:00:00) FORM padedit parameters  
+\i (00:00:00) FORM padedit single YES 
+\i (00:00:00) FORM padedit single YES 
+\i (00:00:00) FORM padedit plating Non-Plated 
+\i (00:00:00) FORM padedit plating Non-Plated 
+\i (00:00:00) pse_save_as 
+\i (00:00:00) fillin RX11p81Y27p75D0T.pad 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin RX147p64Y147p64D0T.pad 
+\i (00:00:00) FORM padedit units Mils 
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row 1 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 147.6378 
+\i (00:00:00) FORM padedit width 147.6378 
+\i (00:00:00) FORM padedit height 147.6378 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit geometry_th Null 
+\i (00:00:00) FORM padedit grid row 6 
+\i (00:00:00) FORM padedit grid row pastemask_top 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 1 
+\i (00:00:00) FORM padedit width 1 
+\i (00:00:00) FORM padedit height 1 
+\i (00:00:00) FORM padedit height 1 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit x_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit y_offset 0 
+\i (00:00:00) FORM padedit parameters 
+\i (00:00:00) FORM padedit parameters  
+\i (00:00:00) FORM padedit single YES 
+\i (00:00:00) FORM padedit single YES 
+\i (00:00:00) FORM padedit plating Non-Plated 
+\i (00:00:00) FORM padedit plating Non-Plated 
+\i (00:00:00) pse_save_as 
+\i (00:00:00) fillin RX147p64Y147p64D0T.pad 
+\i (00:00:00) pse_exit 
+\t (00:00:00)     Journal end - Mon Jan 25 01:52:38 2016

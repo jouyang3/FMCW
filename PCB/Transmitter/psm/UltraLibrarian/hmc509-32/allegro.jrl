@@ -1,45 +1,57 @@
 \t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
-\t (00:00:00)     Journal start - Fri Jan 29 14:18:00 2016
-\t (00:00:00)         Host=DART User=Dart Pid=6456 CPUs=4
-\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\UltraLibrarian\Library\Exported\Allegro\hmc509-32\HCP_32_1.dra
+\t (00:00:00)     Journal start - Sun Feb 28 21:41:02 2016
+\t (00:00:00)         Host=DART User=Dart Pid=7292 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\psm\UltraLibrarian\hmc509-32\HCP_32_1.dra
 \t (00:00:00) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: C:/UltraLibrarian/Library/Exported/Allegro/hmc509-32/HCP_32_1.dra
-\i (00:00:02) trapsize 45
-\i (00:00:02) trapsize 44
-\i (00:00:02) trapsize 46
-\i (00:00:02) trapsize 39
-\i (00:00:02) trapsize 43
-\i (00:00:03) zoom out 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom out -10.56 10.26
-\i (00:00:03) trapsize 85
-\i (00:00:03) zoom out 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom out -10.55 10.27
-\i (00:00:03) trapsize 170
-\i (00:00:04) zoom out 1 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) zoom out -11.92 11.63
-\i (00:00:04) trapsize 341
-\i (00:00:16) roam start
-\i (00:00:16) roam y 16
-\i (00:00:16) roam x 16
-\i (00:00:16) roam y 16
-\i (00:00:17) roam x 16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -32
-\i (00:00:17) roam y -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam y 16
-\i (00:00:19) roam y 16
-\i (00:00:19) roam end
-\i (00:00:40) exit 
-\t (00:00:41)     Journal end - Fri Jan 29 14:18:41 2016
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/HCP_32_1.dra
+\i (00:00:00) trapsize 199
+\i (00:00:00) trapsize 194
+\i (00:00:00) trapsize 200
+\i (00:00:00) trapsize 170
+\i (00:00:00) trapsize 170
+\i (00:00:01) generaledit 
+\i (00:00:05) refresh padstack 
+\i (00:00:06) setwindow form.rf_pad
+\i (00:00:06) FORM rf_pad execute  
+\t (00:00:06) Starting Refreshing padstacks...
+\t (00:00:07) Opening existing design...
+\i (00:00:07) setwindow pcb
+\i (00:00:07) trapsize 170
+\i (00:00:09) setwindow form.rf_pad
+\i (00:00:09) FORM rf_pad cancel  
+\i (00:00:09) setwindow pcb
+\i (00:00:09) generaledit 
+\i (00:00:10) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'hcp_32_1.psm' created.
+\i (00:00:11) generaledit 
+\i (00:00:16) color192 
+\i (00:00:16) setwindow cvf.dialog
+\i (00:00:16) cvf layer_mode
+\i (00:00:16) setwindow pcb
+\i (00:00:16) generaledit 
+\i (00:00:20) setwindow cvf.dialog
+\i (00:00:20) cvf global_invisible
+\i (00:00:21) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:00:25) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:00:26) cvf apply
+\i (00:00:30) cvf okay
+\i (00:04:50) setwindow pcb
+\i (00:04:50) refresh padstack 
+\i (00:04:51) setwindow form.rf_pad
+\i (00:04:51) FORM rf_pad execute  
+\t (00:04:51) Starting Refreshing padstacks...
+\t (00:04:52) Opening existing design...
+\i (00:04:52) setwindow pcb
+\i (00:04:52) trapsize 170
+\i (00:04:54) setwindow form.rf_pad
+\i (00:04:54) FORM rf_pad cancel  
+\i (00:04:54) setwindow pcb
+\i (00:04:54) generaledit 
+\i (00:04:55) save 
+\i (00:04:56) fillin yes 
+\t (00:04:56) Symbol 'hcp_32_1.psm' created.
+\i (00:04:56) generaledit 
+\i (00:04:57) exit 
+\t (00:04:58)     Journal end - Sun Feb 28 21:46:00 2016

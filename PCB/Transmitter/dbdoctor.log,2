@@ -4,12 +4,10 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Fri Feb 26 14:31:30 2016                      )
+(    Date/Time        : Sun Feb 28 21:47:23 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
-
-1 warnings, 0 errors detected, 0 errors could be fixed.
+0 warnings, 0 errors detected, 0 errors could be fixed.

@@ -1,0 +1,122 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Feb 28 21:46:07 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 28 21:46:07 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/padstacks/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_A', in directory search path.
+
+'SM1_5R1_1'  pad stack refresh starting.
+
+     'SM1_5R1_1'  pad stack refreshed successfully.
+     
+'SM1_8R1_1'  pad stack refresh starting.
+
+     'SM1_8R1_1'  pad stack refreshed successfully.
+     
+'SM1_9R1_4'  pad stack refresh starting.
+
+     'SM1_9R1_4'  pad stack refreshed successfully.
+     
+'RX147P64Y147P64D0T'  pad stack refresh starting.
+
+     'RX147P64Y147P64D0T'  pad stack refreshed successfully.
+     
+'RX11P81Y27P75D0T'  pad stack refresh starting.
+
+     'RX11P81Y27P75D0T'  pad stack refreshed successfully.
+     
+'SM0_6R0_25'  pad stack refresh starting.
+
+     'SM0_6R0_25'  pad stack refreshed successfully.
+     
+'RX104Y104D0T'  pad stack refresh starting.
+
+     'RX104Y104D0T'  pad stack refreshed successfully.
+     
+'RX12Y32D0TSM2'  pad stack refresh starting.
+
+     'RX12Y32D0TSM2'  pad stack refreshed successfully.
+     
+'TH1_0C1_45C'  pad stack refresh starting.
+
+     'TH1_0C1_45C'  pad stack refreshed successfully.
+     
+'SM2_1R0_45'  pad stack refresh starting.
+
+     'SM2_1R0_45'  pad stack refreshed successfully.
+     
+'SM0_65R0_25'  pad stack refresh starting.
+
+     'SM0_65R0_25'  pad stack refreshed successfully.
+     
+'PAD60CIR36D'  pad stack refresh starting.
+
+     'PAD60CIR36D'  pad stack refreshed successfully.
+     
+'SR167X59'  pad stack refresh starting.
+
+     'SR167X59'  pad stack refreshed successfully.
+     
+'SR156X59_TWOSIDES'  pad stack refresh starting.
+
+     'SR156X59_TWOSIDES'  pad stack refreshed successfully.
+     
+'SM1_0S'  pad stack refresh starting.
+
+     'SM1_0S'  pad stack refreshed successfully.
+     
+'VIA26'  pad stack refresh starting.
+
+     'VIA26'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

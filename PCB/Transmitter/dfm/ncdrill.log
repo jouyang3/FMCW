@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Sat Feb 27 01:03:16 2016                      )
+(    Date/Time        : Sun Feb 28 22:11:14 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -48,11 +48,11 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.  13.0000    0.0000/  0.0000      PLATED        114
+            1.  12.0000    0.0000/  0.0000      PLATED        179
             2.  36.0000    0.0000/  0.0000      PLATED         11
             3.  39.3700    0.0000/  0.0000      PLATED          6
 
-     ---- Total holes:                                        131
+     ---- Total holes:                                        196
 
-     ---- Total head travel:              3.08 feet (0.94 meters)
+     ---- Total head travel:              4.52 feet (1.38 meters)
 

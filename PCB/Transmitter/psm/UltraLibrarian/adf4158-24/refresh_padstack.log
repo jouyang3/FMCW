@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : CP_24_7.dra                                   )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Feb 28 21:40:25 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 28 21:40:25 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/CP_24_7.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/padstacks/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc701-40/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc509-32/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/hmc996-24/ 
+           C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/UltraLibrarian/adf4158-24/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX104Y104D0T'  pad stack refresh starting.
+
+     'RX104Y104D0T'  pad stack refreshed successfully.
+     
+'RX12Y32D0TSM2'  pad stack refresh starting.
+
+     'RX12Y32D0TSM2'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

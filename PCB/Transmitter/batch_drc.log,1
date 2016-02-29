@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : PLL.brd                                       )
-(    Software Version : 16.6P004                                      )
-(    Date/Time        : Sat Jan 30 03:00:30 2016                      )
+(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Software Version : 16.6S042                                      )
+(    Date/Time        : Sun Feb 28 21:31:12 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  1
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

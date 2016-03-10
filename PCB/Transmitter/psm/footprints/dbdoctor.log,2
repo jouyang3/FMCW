@@ -2,14 +2,17 @@
 (                                                                     )
 (    DBDOCTOR                                                         )
 (                                                                     )
-(    Drawing          : PLL_VCO_FINAL.brd                             )
-(    Software Version : 16.6S042                                      )
-(    Date/Time        : Sun Feb 28 21:55:34 2016                      )
+(    Drawing          : D75J.dra                                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Feb 04 22:51:12 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
 
-1 warnings, 0 errors detected, 0 errors could be fixed.
+0 warnings, 0 errors detected, 0 errors  fixed.

@@ -4,15 +4,10 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Sun Feb 28 21:46:55 2016                      )
+(    Date/Time        : Sun Feb 28 21:47:23 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
-  DRC elapsed time:      00:00:01
-
-0 warnings, 0 errors detected, 0 errors  fixed.
+0 warnings, 0 errors detected, 0 errors could be fixed.

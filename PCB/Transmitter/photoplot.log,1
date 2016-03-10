@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Sun Feb 28 21:19:11 2016                      )
+(    Date/Time        : Sun Feb 28 21:47:24 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -42,9 +42,6 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: Film contains objects with associated DRCs (1).
-           In the design editor view this film and enable visibility for the
-           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
 
 
   APERTURES USED:
@@ -74,7 +71,7 @@ Results from parameter file ...
   RECTANGLE  0.16700     x 0.05900       0.000 NO     DARK 
   RECTANGLE  0.16700     x 0.05900      90.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
@@ -201,6 +198,12 @@ Results from parameter file ...
   CIRCLE     0.06102                                  DARK 
   CIRCLE     0.07500                                  DARK 
   SQUARE     0.03937                     0.000 NO     DARK 
+  SQUARE     0.10500                     0.000 NO     DARK 
+  SQUARE     0.15000                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.03300      90.000 NO     DARK 
   RECTANGLE  0.02402     x 0.01024      90.000 NO     DARK 
   RECTANGLE  0.02559     x 0.00984      90.000 NO     DARK 
   RECTANGLE  0.05906     x 0.04331       0.000 NO     DARK 
@@ -240,6 +243,7 @@ Results from parameter file ...
   CIRCLE     0.01800                                  DARK 
   CIRCLE     0.06102                                  DARK 
   CIRCLE     0.07500                                  DARK 
+  SQUARE     0.10500                     0.000 NO     DARK 
   RECTANGLE  0.02402     x 0.01024      90.000 NO     DARK 
   RECTANGLE  0.16200     x 0.06500       0.000 NO     DARK 
   RECTANGLE  0.16200     x 0.06500      90.000 NO     DARK 
@@ -271,7 +275,7 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created with warnings
+        TOP created.
         BOTTOM created.
         SILK created with warnings
         OUTLINE created with warnings

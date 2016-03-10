@@ -1,28 +1,18 @@
-\t (00:00:49) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
-\t (00:00:49)     Journal start - Sun Feb 28 20:48:16 2016
-\t (00:00:49)         Host=DART User=Dart Pid=7884 CPUs=4
-\t (00:00:49) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:49) 
-\i (00:00:53) FORM padedit layers  
-\i (00:04:37) FORM padedit parameters  
-\i (00:04:40) FORM padedit layers  
-\i (00:05:09) FORM padedit parameters  
-\i (00:05:24) FORM padedit layers  
-\i (00:05:31) FORM padedit grid row soldermask_top 
-\i (00:05:33) FORM padedit grid row end_layer 
-\i (00:05:33) FORM padedit grid row soldermask_top 
-\i (00:05:35) FORM padedit grid row end_layer 
-\i (00:05:36) FORM padedit grid row default_internal 
-\i (00:05:37) FORM padedit grid row begin_layer 
-\i (00:05:38) FORM padedit grid row default_internal 
-\i (00:05:38) FORM padedit grid row end_layer 
-\i (00:05:41) FORM padedit grid row soldermask_top 
-\i (00:05:42) FORM padedit grid row soldermask_bottom 
-\i (00:05:43) FORM padedit grid row soldermask_top 
-\i (00:05:44) FORM padedit grid row soldermask_bottom 
-\i (00:05:44) FORM padedit grid row soldermask_top 
-\i (00:05:49) FORM padedit crossbox YES 
-\i (00:05:51) FORM padedit grid row soldermask_bottom 
-\i (00:05:51) FORM padedit grid row soldermask_top 
-\i (01:21:19) pse_exit
-\t (01:21:19)     Journal end - Sun Feb 28 22:08:46 2016
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Thu Mar 10 14:16:29 2016
+\t (00:00:00)         Host=DART User=Dart Pid=12872 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) pse_open 
+\i (00:00:34) fillin "sm1_9r1_4.pad"
+\i (00:00:35) FORM padedit layers  
+\i (00:00:37) FORM padedit grid row pastemask_top 
+\i (00:00:41) FORM padedit grid row begin_layer 
+\i (00:00:51) FORM padedit grid rpopup begin_layer Copy 
+\i (00:00:52) FORM padedit grid row pastemask_top 
+\i (00:00:54) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:01:01) pse_save 
+\i (00:01:04) fillin yes 
+\i (00:01:07) pse_exit
+\t (00:01:07)     Journal end - Thu Mar 10 14:17:36 2016

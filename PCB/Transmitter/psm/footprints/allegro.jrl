@@ -1,25 +1,75 @@
-\t (00:00:00) allegro 16.6 S042 (v16-6-112DG) Windows 32
-\t (00:00:00)     Journal start - Sun Feb 28 20:46:58 2016
-\t (00:00:00)         Host=DART User=Dart Pid=908 CPUs=4
-\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\psm\footprints\jumper1.dra
-\t (00:00:00) 
-\t (00:00:00) Opening existing design...
-\d (00:00:00) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints/jumper1.dra
-\i (00:00:00) trapsize 1990
-\i (00:00:00) trapsize 1944
-\i (00:00:00) trapsize 1998
-\i (00:00:00) trapsize 1704
-\i (00:00:00) trapsize 1704
-\i (00:00:01) generaledit 
-\i (00:00:02) zoom in 1 
-\i (00:00:02) setwindow pcb
-\i (00:00:02) zoom in 0.1874 -1.2095
-\i (00:00:02) trapsize 852
-\i (00:00:02) zoom in 1 
-\i (00:00:02) setwindow pcb
-\i (00:00:02) zoom in -4.9063 -1.2095
-\i (00:00:02) trapsize 426
-\i (00:00:04) pick grid 0.0086 -0.2725
-\t (00:00:04) last pick:  0.0000 0.0000
-\i (02:05:16) exit 
-\t (02:05:17)     Journal end - Sun Feb 28 22:52:15 2016
+\t (00:06:08) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:06:08)     Journal start - Thu Mar 10 14:15:55 2016
+\t (00:06:08)         Host=DART User=Dart Pid=4508 CPUs=4
+\t (00:06:08) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:06:08) 
+\d (00:06:08) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints/fox801.dra
+\i (00:06:08) generaledit 
+\i (00:07:02) pick grid -3.7716 1.0034
+\t (00:07:02) last pick:  -2.5400 0.0000
+\i (00:07:11) pick grid -5.1557 -0.3460
+\t (00:07:11) last pick:  -5.0800 0.0000
+\i (00:07:57) refresh symbol 
+\i (00:07:58) setwindow form.upd_element
+\i (00:07:58) FORM upd_element tree 'MULTISEL YES' 'Shape and flash symbols' 
+\i (00:07:58) FORM upd_element tree  'Shape and flash symbols' 
+\i (00:08:00) FORM upd_element refresh  
+\i (00:08:02) FORM upd_element close  
+\i (00:08:02) setwindow pcb
+\i (00:08:02) generaledit 
+\i (00:08:12) dbdoctor 
+\i (00:08:14) setwindow form.dbdoctor_allegro
+\i (00:08:14) FORM dbdoctor_allegro drc YES 
+\i (00:08:14) FORM dbdoctor_allegro execute  
+\t (00:08:14) Dbdoctor in progress - wait...
+\t (00:08:14) Checking db records
+\t (00:08:14)     checking for orphans...
+\t (00:08:15)     Checked 100 percent
+\t (00:08:15) Regenerating DRC
+\t (00:08:15)   Original DRC errors: 0
+\t (00:08:15) Performing DRC...
+\t (00:08:15) No DRC errors detected.
+\t (00:08:15)   Updated DRC errors:  0
+\t (00:08:15) Done dbdoctor.
+\t (00:08:15) Dbdoctor completed.
+\i (00:08:16) FORM dbdoctor_allegro close  
+\i (00:08:16) setwindow pcb
+\i (00:08:16) generaledit 
+\i (00:08:32) refresh padstack 
+\i (00:08:34) setwindow form.rf_pad
+\i (00:08:34) FORM rf_pad execute  
+\t (00:08:34) Starting Refreshing padstacks...
+\t (00:08:37) Opening existing design...
+\i (00:08:37) setwindow pcb
+\i (00:08:37) trapsize 1730
+\i (00:08:40) setwindow form.rf_pad
+\i (00:08:40) FORM rf_pad cancel  
+\i (00:08:40) setwindow pcb
+\i (00:08:40) generaledit 
+\i (00:08:43) color192 
+\i (00:08:44) setwindow cvf.dialog
+\i (00:08:44) cvf layer_mode
+\i (00:08:44) setwindow pcb
+\i (00:08:44) generaledit 
+\i (00:08:47) setwindow cvf.dialog
+\i (00:08:47) cvf global_invisible
+\i (00:08:52) cvf layer_tree_item 'Stack-Up'
+\i (00:08:58) cvf layers_visible stack-up stack-up/pastemask_top TRUE
+\i (00:08:59) cvf apply
+\i (00:09:01) cvf okay
+\i (00:09:05) setwindow pcb
+\i (00:09:05) save 
+\i (00:09:08) fillin yes 
+\t (00:09:08) Symbol 'fox801.psm' created.
+\i (00:09:08) generaledit 
+\i (00:09:11) open 
+\i (00:09:33) fillin "C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\PLL_VCO_FINAL.brd"
+\i (00:09:33) cd "C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter"
+\t (00:09:33) Opening existing design...
+\t (00:09:34) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:09:34) trapsize 877
+\i (00:09:34) trapsize 835
+\i (00:09:34) trapsize 877
+\t (00:09:34) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:09:34) trapsize 877
+\t (00:09:34)     Journal end - Thu Mar 10 14:19:22 2016

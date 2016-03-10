@@ -4,10 +4,15 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Sun Feb 28 21:47:24 2016                      )
+(    Date/Time        : Sun Feb 28 21:55:35 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -71,7 +76,7 @@ Results from parameter file ...
   RECTANGLE  0.16700     x 0.05900       0.000 NO     DARK 
   RECTANGLE  0.16700     x 0.05900      90.000 NO     DARK 
 
-     TOP created.
+     TOP created with warnings
 
 
 ================================================================
@@ -103,7 +108,7 @@ Results from parameter file ...
   RECTANGLE  0.15600     x 0.05900       0.000 NO     DARK 
   RECTANGLE  0.15600     x 0.05900      90.000 NO     DARK 
 
-     BOTTOM created.
+     BOTTOM created with warnings
 
 
 ================================================================
@@ -215,7 +220,7 @@ Results from parameter file ...
   RECTANGLE  0.17300     x 0.06500       0.000 NO     DARK 
   RECTANGLE  0.17300     x 0.06500      90.000 NO     DARK 
 
-     SM_TOP created.
+     SM_TOP created with warnings
 
 
 ================================================================
@@ -248,7 +253,7 @@ Results from parameter file ...
   RECTANGLE  0.16200     x 0.06500       0.000 NO     DARK 
   RECTANGLE  0.16200     x 0.06500      90.000 NO     DARK 
 
-     SM_BOT created.
+     SM_BOT created with warnings
 
 
 ================================================================
@@ -270,17 +275,17 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     DRILL created.
+     DRILL created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created.
-        BOTTOM created.
+        TOP created with warnings
+        BOTTOM created with warnings
         SILK created with warnings
         OUTLINE created with warnings
-        SM_TOP created.
-        SM_BOT created.
-        DRILL created.
+        SM_TOP created with warnings
+        SM_BOT created with warnings
+        DRILL created with warnings
 
  ARTWORK had warnings

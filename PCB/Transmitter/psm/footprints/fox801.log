@@ -4,13 +4,13 @@
 (                                                                     )
 (    Drawing          : fox801.dra                                    )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Sat Feb 20 23:03:12 2016                      )
+(    Date/Time        : Thu Mar 10 14:18:55 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/SPB_Data/Footprints
+    Directory = C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/psm/footprints
     Name      = fox801.psm
     User      = Dart
     Machine   = DART

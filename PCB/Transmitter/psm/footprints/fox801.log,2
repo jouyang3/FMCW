@@ -1,15 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : PLL_VCO_FINAL.brd                             )
+(    Drawing          : fox801.dra                                    )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Sun Feb 28 21:55:34 2016                      )
+(    Date/Time        : Sat Feb 20 23:03:12 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Footprints
+    Name      = fox801.psm
+    User      = Dart
+    Machine   = DART
 
-WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
 
-1 warnings, 0 errors detected, 0 errors could be fixed.
+Create symbol started.
+ 
+
+Create symbol completed.
+

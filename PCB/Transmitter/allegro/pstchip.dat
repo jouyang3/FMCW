@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Feb-27-2016 at 00:36:34}
+{ Using PSTWRITER 16.6.0 d001Mar-22-2016 at 21:04:52}
 primitive 'CAP_CAPC1608N_100PF';
   pin
     'A':
@@ -83,6 +83,23 @@ primitive 'CAP_CAPC1608N_0.1UF';
     PART_NAME='CAP';
     JEDEC_TYPE='capc1608n';
     VALUE='0.1uF';
+  end_body;
+end_primitive;
+primitive 'CAP_CAPC1608N_10 PF';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_GROUP='0';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_GROUP='0';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP';
+    JEDEC_TYPE='capc1608n';
+    VALUE='10 pF';
   end_body;
 end_primitive;
 primitive 'CAP_CAPC1608N_CAP';
@@ -500,22 +517,22 @@ primitive 'ADF4158_CP_24_7_ADF4158';
 end_primitive;
 primitive 'ADP3300_SMP6_1_9R2_8_ADP3300';
   pin
+    'IN':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'SD':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
     'GND':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
     'NR':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
-    'SD':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'ERR':
+    'OUT':
       PIN_NUMBER='(4)';
       PINUSE='UNSPEC';
-    'IN':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'OUT':
+    'ERR':
       PIN_NUMBER='(6)';
       PINUSE='UNSPEC';
   end_pin;

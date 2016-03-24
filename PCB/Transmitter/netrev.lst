@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PLL_VCO_FINAL.brd                             )
 (    Software Version : 16.6S042                                      )
-(    Date/Time        : Thu Mar 10 14:19:46 2016                      )
+(    Date/Time        : Tue Mar 22 21:05:21 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,16 +22,16 @@ Design Directory:            '.'
 Old design name:             'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
 New design name:             'C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd'
 
-CmdLine: netrev -$ -i C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/#Taaaaai04508.tmp
+CmdLine: netrev -$ -i C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/#Taaaaab01240.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat 
-   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat (00:00:00.09)
+   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstchip.dat (00:00:00.08)
 Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxprt.dat 
    Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxnet.dat 
-   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxnet.dat (00:00:00.04)
+   Finished reading C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/allegro/pstxnet.dat (00:00:00.01)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -70,7 +70,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Mar 10 14:19:46 2016
+netrev run on Mar 22 21:05:21 2016
    DESIGN NAME : 'TRANS'
    PACKAGING ON Oct 15 2014 05:53:32
 
@@ -95,6 +95,6 @@ netrev run on Mar 10 14:19:46 2016
  No oversight detected
  No warning detected
 
-cpu time      0:01:58
-elapsed time  0:00:01
+cpu time      0:02:03
+elapsed time  0:00:00
 

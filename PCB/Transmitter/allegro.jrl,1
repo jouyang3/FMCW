@@ -1,245 +1,1270 @@
-\t (00:00:40) allegro 16.6 S042 (v16-6-112DG) Windows 32
-\t (00:00:40)     Journal start - Thu Mar 10 14:10:27 2016
-\t (00:00:40)         Host=DART User=Dart Pid=4508 CPUs=4
-\t (00:00:40) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:40) 
-\d (00:00:40) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd
-\i (00:00:40) generaledit 
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 271.41 922.76
-\t (00:00:41) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
-\i (00:00:41) trapsize 833
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 271.40 922.76
-\t (00:00:41) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:00:41) trapsize 1666
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 202.28 922.75
-\t (00:00:41) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
-\i (00:00:41) trapsize 3484
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 2606.27 132.40
-\i (00:00:41) trapsize 3484
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 2606.27 132.40
-\i (00:00:41) trapsize 3484
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 2606.27 132.40
-\i (00:00:41) trapsize 3484
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 2606.27 132.40
-\i (00:00:41) trapsize 3484
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 2606.27 132.40
-\i (00:00:41) trapsize 3484
-\i (00:00:43) zoom out 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom out 2606.27 132.40
-\i (00:00:43) trapsize 3484
-\i (00:00:43) zoom out 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom out 2606.27 132.40
-\i (00:00:43) trapsize 3484
-\i (00:00:43) zoom out 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom out 2606.27 132.40
-\i (00:00:43) trapsize 3484
-\i (00:00:43) zoom out 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom out 2606.27 132.40
-\i (00:00:43) trapsize 3484
-\i (00:00:43) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 2606.27 132.40
-\i (00:00:44) trapsize 3484
-\i (00:00:44) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 2606.27 132.40
-\i (00:00:44) trapsize 3484
-\i (00:00:44) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 2606.27 132.40
-\i (00:00:44) trapsize 3484
-\i (00:00:44) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 2606.27 132.40
-\i (00:00:44) trapsize 3484
-\i (00:00:44) zoom in 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom in 2606.27 132.40
-\t (00:00:44) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:00:44) trapsize 1742
-\i (00:00:44) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 303.13 132.40
-\t (00:00:44) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
-\i (00:00:44) trapsize 3484
-\i (00:00:44) zoom out 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) zoom out 2606.27 132.40
-\i (00:00:44) trapsize 3484
-\i (00:00:45) zoom out 1 
+\t (00:00:03) allegro 16.6 S042 (v16-6-112DG) Windows 32
+\t (00:00:03)     Journal start - Mon Mar 21 17:47:35 2016
+\t (00:00:03)         Host=DART User=Dart Pid=11892 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd
+\t (00:00:06) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:06) trapsize 486
+\i (00:00:06) trapsize 475
+\i (00:00:06) trapsize 488
+\i (00:00:06) trapsize 416
+\t (00:00:06) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:06) trapsize 416
+\i (00:00:07) generaledit 
+\i (00:00:26) subclass -- 
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 34.86 943.58
+\t (00:00:27) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:00:27) trapsize 833
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 34.84 943.58
+\t (00:00:27) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:27) trapsize 1666
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -743.93 943.59
+\t (00:00:27) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
+\i (00:00:27) trapsize 3484
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 627.18 306.62
+\i (00:00:27) trapsize 3484
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 627.18 306.62
+\i (00:00:27) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 627.18 306.62
+\i (00:00:28) trapsize 3484
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 710.80 -202.09
+\t (00:00:30) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:30) trapsize 1742
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out -644.60 -202.09
+\t (00:00:30) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 710.80 -202.09
+\i (00:00:30) trapsize 3484
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 1714.29 390.24
+\i (00:00:31) trapsize 3484
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 1714.29 390.24
+\i (00:00:31) trapsize 3484
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 1714.29 390.24
+\i (00:00:31) trapsize 3484
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 1714.29 390.24
+\i (00:00:31) trapsize 3484
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 1714.29 390.24
+\i (00:00:31) trapsize 3484
+\i (00:00:32) zoom in 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 3108.02 -6.97
+\t (00:00:32) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:32) trapsize 1742
+\i (00:00:44) color192 
+\i (00:00:44) setwindow cvf.dialog
+\i (00:00:44) cvf layer_mode
 \i (00:00:45) setwindow pcb
-\i (00:00:45) zoom out 2606.27 132.40
-\i (00:00:45) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out 885.02 153.31
-\i (00:00:46) trapsize 3484
-\i (00:00:47) zoom in 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom in 885.02 153.31
-\t (00:00:47) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:00:47) trapsize 1742
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out -557.49 153.31
-\t (00:00:47) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:47) zoom out 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom out 885.02 153.31
-\i (00:00:47) trapsize 3484
-\i (00:00:51) zoom in 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom in 3108.02 -6.97
-\t (00:00:51) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:00:51) trapsize 1742
-\i (00:00:57) color192 
-\i (00:00:58) setwindow cvf.dialog
-\i (00:00:58) cvf layer_mode
-\i (00:00:58) setwindow pcb
-\i (00:00:58) generaledit 
-\i (00:01:02) setwindow cvf.dialog
-\i (00:01:02) cvf global_invisible
-\i (00:01:04) cvf layers_visible stack-up stack-up/pastemask_top TRUE
-\i (00:01:05) cvf apply
-\t (00:01:42) Grids are drawn 32.00, 32.00 apart for enhanced viewability.
-\i (00:01:42) setwindow pcb
-\i (00:01:42) trapsize 3663
-\i (00:01:56) zoom in 
-\i (00:01:56) setwindow pcb
-\i (00:01:56) zoom in 549.45 -7.33
-\t (00:01:56) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:01:56) trapsize 1832
-\i (00:01:58) roam x -96 
-\i (00:01:58) roam x -96
-\i (00:02:24) roam y 96 
-\i (00:02:24) roam y 96
-\i (00:02:25) roam y -96 
-\i (00:02:25) roam y -96
-\i (00:03:30) color192 
-\i (00:03:30) setwindow cvf.dialog
-\i (00:03:30) cvf layer_mode
-\i (00:03:31) setwindow pcb
-\i (00:03:31) generaledit 
-\i (00:03:34) setwindow cvf.dialog
-\i (00:03:34) cvf layers_visible stack-up stack-up/soldermask_top TRUE
-\i (00:03:35) cvf apply
-\i (00:03:40) cvf okay
-\i (00:03:47) setwindow pcb
-\i (00:03:47) prepopup -813.18 549.45
-\i (00:03:49) pop dyn_option_select 'Application Mode@:@Placement Edit' 
-\i (00:03:49) placementedit 
-\i (00:03:52) pick grid -564.10 520.15
-\t (00:03:52) last pick:  -564.00 520.00
-\i (00:03:54) pick grid -549.45 835.17
-\t (00:03:54) last pick:  -549.00 835.00
-\i (00:03:55) prepopup -860.80 644.69
-\i (00:04:00) pop dyn_option_select 'Application Mode@:@General Edit' 
-\i (00:04:00) generaledit 
-\i (00:04:00) pick grid -699.63 798.54
-\t (00:04:00) last pick:  -700.00 799.00
-\i (00:05:44) open 
-\e (00:05:44) Do you want to save the changes you made to PLL_VCO_FINAL.brd?
-\i (00:05:46) fillin no 
-\i (00:06:07) fillin "C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\psm\footprints\fox801.dra"
-\i (00:06:07) cd "C:\Users\Dart\Desktop\FMCW\FMCW\PCB\Transmitter\psm\footprints"
-\t (00:06:07) Opening existing design...
-\i (00:06:07) trapsize 1770
-\i (00:06:07) trapsize 1667
-\i (00:06:07) trapsize 1575
-\i (00:06:07) trapsize 1654
-\i (00:06:08) trapsize 1730
-\i (00:06:08) trapsize 1730
-\t (00:06:08)     Journal end - Thu Mar 10 14:15:55 2016
+\i (00:00:45) generaledit 
+\i (00:00:49) setwindow cvf.dialog
+\i (00:00:49) cvf global_invisible
+\i (00:01:03) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:01:05) cvf layers_visible stack-up stack-up/soldermask_top FALSE
+\i (00:01:05) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:01:15) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:01:16) cvf layer_tree_item 'Stack-Up'
+\i (00:01:17) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:01:19) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:01:21) cvf layer_tree_item 'Board Geometry'
+\i (00:01:28) cvf layers_visible board_geometry/soldermask_top TRUE
+\i (00:01:28) cvf layers_visible board_geometry/soldermask_top FALSE
+\i (00:01:30) cvf layers_visible board_geometry/soldermask_top TRUE
+\i (00:01:43) cvf layer_tree_item 'Package Geometry'
+\i (00:02:14) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:02:15) cvf layer_tree_item 'Package Geometry'
+\i (00:02:20) cvf layer_tree_item 'Components'
+\i (00:02:22) cvf layer_tree_item 'Manufacturing'
+\i (00:02:22) cvf layer_tree_item 'Components'
+\i (00:02:24) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:02:25) cvf layer_tree_item 'Package Geometry'
+\i (00:02:30) cvf layer_tree_item 'Board Geometry'
+\i (00:02:40) cvf layer_tree_item 'Components'
+\i (00:02:45) cvf layer_tree_item 'Package Geometry'
+\i (00:02:48) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:02:51) cvf apply
+\i (00:03:01) cvf layer_tree_item 'Stack-Up'
+\i (00:03:03) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:03:07) cvf layers_visible stack-up via/top FALSE
+\i (00:03:09) cvf layers_visible stack-up via/top TRUE
+\i (00:03:09) cvf layers_visible stack-up etch/top FALSE
+\i (00:03:11) cvf layers_visible stack-up etch/top TRUE
+\i (00:03:19) cvf apply
+\i (00:03:24) cvf layers_visible stack-up etch/top FALSE
+\i (00:03:25) cvf layers_visible stack-up drc/top FALSE
+\i (00:03:26) cvf apply
+\i (00:03:31) cvf okay
+\i (00:03:36) setwindow pcb
+\i (00:03:36) pick grid 1118.46 76.66
+\t (00:03:36) last pick:  1118.00 77.00
+\i (00:03:42) zoom in 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom in 554.01 -6.97
+\t (00:03:42) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:03:42) trapsize 871
+\i (00:03:44) roam x -96 
+\i (00:03:44) roam x -96
+\i (00:03:45) roam x -96 
+\i (00:03:45) roam x -96
+\i (00:03:45) roam y -96 
+\i (00:03:45) roam y -96
+\i (00:03:45) roam y -96 
+\i (00:03:45) roam y -96
+\i (00:03:45) roam y -96 
+\i (00:03:45) roam y -96
+\i (00:03:46) roam y -96 
+\i (00:03:46) roam y -96
+\i (00:03:46) roam y 96 
+\i (00:03:46) roam y 96
+\i (00:03:47) roam x 96 
+\i (00:03:47) roam x 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:48) roam y -96 
+\i (00:03:48) roam y -96
+\i (00:03:48) roam x -96 
+\i (00:03:48) roam x -96
+\i (00:03:52) zoom in 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 219.52 494.78
+\t (00:03:52) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:03:52) trapsize 436
+\i (00:03:54) roam x -96 
+\i (00:03:54) roam x -96
+\i (00:03:54) roam y 96 
+\i (00:03:54) roam y 96
+\i (00:03:54) roam y 96 
+\i (00:03:54) roam y 96
+\i (00:04:00) color192 
+\i (00:04:01) setwindow cvf.dialog
+\i (00:04:01) cvf layer_mode
+\i (00:04:01) setwindow pcb
+\i (00:04:01) generaledit 
+\i (00:04:10) setwindow cvf.dialog
+\i (00:04:10) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:04:12) cvf layer_tree_item 'Flow Plan' 'Stack-Up'
+\i (00:04:13) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:04:21) cvf layer_tree_item 'Areas'
+\i (00:04:25) cvf layer_tree_item 'Constraints Region' 'Areas'
+\i (00:04:26) cvf layer_tree_item 'Route KeepOut' 'Areas'
+\i (00:04:26) cvf layer_tree_item 'Via KeepOut' 'Areas'
+\i (00:04:27) cvf layer_tree_item 'Package KeepOut' 'Areas'
+\i (00:04:28) cvf layer_tree_item 'Package KeepIn' 'Areas'
+\i (00:04:28) cvf layer_tree_item 'Route KeepIn' 'Areas'
+\i (00:04:29) cvf layer_tree_item 'Constraints Region' 'Areas'
+\i (00:04:30) cvf layer_tree_item 'Areas'
+\i (00:04:32) cvf layer_tree_item 'Board Geometry'
+\i (00:04:33) cvf layer_tree_item 'Areas'
+\i (00:04:35) cvf layer_tree_item 'Constraints Region' 'Areas'
+\i (00:04:36) cvf layer_tree_item 'Route KeepOut' 'Areas'
+\i (00:04:37) cvf layer_tree_item 'Via KeepOut' 'Areas'
+\i (00:04:38) cvf layer_tree_item 'Package KeepOut' 'Areas'
+\i (00:04:40) cvf layer_tree_item 'Via KeepOut' 'Areas'
+\i (00:04:41) cvf layer_tree_item 'Route KeepOut' 'Areas'
+\i (00:04:42) cvf layer_tree_item 'Constraints Region' 'Areas'
+\i (00:04:43) cvf layer_tree_item 'Areas'
+\i (00:04:45) cvf layer_tree_item 'Constraints Region' 'Areas'
+\i (00:04:45) cvf layer_tree_item 'Via KeepOut' 'Areas'
+\i (00:04:46) cvf layer_tree_item 'Package KeepIn' 'Areas'
+\i (00:04:47) cvf layer_tree_item 'Route KeepIn' 'Areas'
+\i (00:04:48) cvf layer_tree_item 'Board Geometry'
+\i (00:05:08) cvf layer_tree_item 'Package Geometry'
+\i (00:05:14) cvf layers_visible package_geometry/assembly_top TRUE
+\i (00:05:15) cvf apply
+\i (00:05:18) cvf layers_visible package_geometry/assembly_top FALSE
+\i (00:05:49) cvf layers_visible package_geometry/display_top TRUE
+\i (00:05:50) cvf apply
+\i (00:05:52) cvf layers_visible package_geometry/display_top FALSE
+\i (00:05:56) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:05:57) cvf apply
+\i (00:06:05) cvf layers_visible package_geometry/assembly_top TRUE
+\i (00:06:06) cvf apply
+\i (00:06:11) cvf layer_tree_item 'Components'
+\i (00:06:13) cvf layers_visible components components/assembly_top TRUE
+\i (00:06:14) cvf apply
+\i (00:06:18) cvf layers_visible components components/silkscreen_top TRUE
+\i (00:06:20) cvf apply
+\i (00:06:21) cvf okay
+\i (00:06:22) setwindow pcb
+\i (00:06:22) roam y 96 
+\i (00:06:22) roam y 96
+\i (00:06:22) roam y 96 
+\i (00:06:22) roam y 96
+\i (00:06:23) roam y 96 
+\i (00:06:23) roam y 96
+\i (00:06:23) roam y 96 
+\i (00:06:23) roam y 96
+\i (00:06:23) roam y 96 
+\i (00:06:23) roam y 96
+\i (00:06:23) roam y 96 
+\i (00:06:23) roam y 96
+\i (00:06:24) roam x -96 
+\i (00:06:24) roam x -96
+\i (00:06:24) roam x -96 
+\i (00:06:24) roam x -96
+\i (00:06:24) roam x -96 
+\i (00:06:24) roam x -96
+\i (00:06:25) roam y 96 
+\i (00:06:25) roam y 96
+\i (00:06:25) roam y 96 
+\i (00:06:25) roam y 96
+\i (00:06:26) roam x 96 
+\i (00:06:26) roam x 96
+\i (00:06:26) roam x 96 
+\i (00:06:26) roam x 96
+\i (00:06:27) roam y 96 
+\i (00:06:27) roam y 96
+\i (00:06:27) roam y 96 
+\i (00:06:27) roam y 96
+\i (00:06:27) roam x 96 
+\i (00:06:27) roam x 96
+\i (00:06:28) roam y 96 
+\i (00:06:28) roam y 96
+\i (00:06:28) roam y -96 
+\i (00:06:28) roam y -96
+\i (00:06:28) roam y -96 
+\i (00:06:28) roam y -96
+\i (00:06:32) roam x 96 
+\i (00:06:32) roam x 96
+\i (00:06:33) roam x 96 
+\i (00:06:33) roam x 96
+\i (00:06:33) roam x 96 
+\i (00:06:33) roam x 96
+\i (00:06:33) roam x 96 
+\i (00:06:33) roam x 96
+\i (00:06:33) roam x 96 
+\i (00:06:33) roam x 96
+\i (00:06:33) roam x 96 
+\i (00:06:33) roam x 96
+\i (00:06:34) roam x 96 
+\i (00:06:34) roam x 96
+\i (00:06:34) roam x 96 
+\i (00:06:34) roam x 96
+\i (00:06:34) roam x 96 
+\i (00:06:34) roam x 96
+\i (00:06:35) roam y -96 
+\i (00:06:35) roam y -96
+\i (00:06:35) roam y -96 
+\i (00:06:35) roam y -96
+\i (00:06:35) roam y -96 
+\i (00:06:35) roam y -96
+\i (00:06:35) roam y -96 
+\i (00:06:35) roam y -96
+\i (00:06:36) roam y -96 
+\i (00:06:36) roam y -96
+\i (00:06:36) roam y -96 
+\i (00:06:36) roam y -96
+\i (00:06:36) roam y -96 
+\i (00:06:36) roam y -96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:38) roam y -96 
+\i (00:06:38) roam y -96
+\i (00:06:38) roam y -96 
+\i (00:06:38) roam y -96
+\i (00:06:38) roam y -96 
+\i (00:06:38) roam y -96
+\i (00:06:38) roam y -96 
+\i (00:06:38) roam y -96
+\i (00:06:39) roam y -96 
+\i (00:06:39) roam y -96
+\i (00:06:39) roam x -96 
+\i (00:06:39) roam x -96
+\i (00:06:39) roam x -96 
+\i (00:06:39) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:06:40) roam x -96 
+\i (00:06:40) roam x -96
+\i (00:07:25) roam x -96 
+\i (00:07:25) roam x -96
+\i (00:08:07) roam x -96 
+\i (00:08:07) roam x -96
+\i (00:08:08) roam x -96 
+\i (00:08:08) roam x -96
+\i (00:08:14) roam y 96 
+\i (00:08:14) roam y 96
+\i (00:08:14) roam y 96 
+\i (00:08:14) roam y 96
+\i (00:08:15) roam y 96 
+\i (00:08:15) roam y 96
+\i (00:08:15) roam y 96 
+\i (00:08:15) roam y 96
+\i (00:08:15) roam y -96 
+\i (00:08:15) roam y -96
+\i (00:08:15) roam y -96 
+\i (00:08:15) roam y -96
+\i (00:08:16) roam y -96 
+\i (00:08:16) roam y -96
+\i (00:08:21) roam x 96 
+\i (00:08:21) roam x 96
+\i (00:08:27) roam y 96 
+\i (00:08:27) roam y 96
+\i (00:08:28) roam y 96 
+\i (00:08:28) roam y 96
+\i (00:08:28) roam y 96 
+\i (00:08:28) roam y 96
+\i (00:08:28) roam y -96 
+\i (00:08:28) roam y -96
+\i (00:08:28) roam y -96 
+\i (00:08:28) roam y -96
+\i (00:08:29) roam y -96 
+\i (00:08:29) roam y -96
+\i (00:08:29) roam y -96 
+\i (00:08:29) roam y -96
+\i (00:08:29) roam y -96 
+\i (00:08:29) roam y -96
+\i (00:08:30) roam y 96 
+\i (00:08:30) roam y 96
+\i (00:08:30) roam y 96 
+\i (00:08:30) roam y 96
+\i (00:08:30) roam x -96 
+\i (00:08:30) roam x -96
+\i (00:08:31) roam x -96 
+\i (00:08:31) roam x -96
+\i (00:08:31) roam x -96 
+\i (00:08:31) roam x -96
+\i (00:08:31) roam y 96 
+\i (00:08:31) roam y 96
+\i (00:08:31) roam y 96 
+\i (00:08:31) roam y 96
+\i (00:08:31) roam y 96 
+\i (00:08:31) roam y 96
+\i (00:08:32) roam y -96 
+\i (00:08:32) roam y -96
+\i (00:14:18) zoom out 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom out -114.99 494.77
+\t (00:14:18) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:14:18) trapsize 871
+\i (00:14:20) roam x 96 
+\i (00:14:20) roam x 96
+\i (00:14:21) roam y 96 
+\i (00:14:21) roam y 96
+\i (00:14:22) roam y 96 
+\i (00:14:22) roam y 96
+\i (00:14:22) roam y 96 
+\i (00:14:22) roam y 96
+\i (00:14:23) roam y 96 
+\i (00:14:23) roam y 96
+\i (00:14:24) roam y 96 
+\i (00:14:24) roam y 96
+\i (00:14:25) roam x 96 
+\i (00:14:25) roam x 96
+\i (00:14:27) roam y -96 
+\i (00:14:27) roam y -96
+\i (00:14:27) roam y -96 
+\i (00:14:27) roam y -96
+\i (00:14:27) roam y -96 
+\i (00:14:27) roam y -96
+\i (00:14:28) roam y -96 
+\i (00:14:28) roam y -96
+\i (00:14:29) roam y -96 
+\i (00:14:29) roam y -96
+\i (00:14:34) roam y 96 
+\i (00:14:34) roam y 96
+\i (00:14:34) roam y 96 
+\i (00:14:34) roam y 96
+\i (00:14:35) roam y 96 
+\i (00:14:35) roam y 96
+\i (00:14:35) roam y 96 
+\i (00:14:35) roam y 96
+\i (00:14:37) roam y 96 
+\i (00:14:37) roam y 96
+\i (00:14:39) roam y -96 
+\i (00:14:39) roam y -96
+\i (00:14:42) roam y -96 
+\i (00:14:42) roam y -96
+\i (00:14:42) roam y -96 
+\i (00:14:42) roam y -96
+\i (00:14:43) roam y -96 
+\i (00:14:43) roam y -96
+\i (00:14:43) roam y -96 
+\i (00:14:43) roam y -96
+\i (00:14:44) roam y -96 
+\i (00:14:44) roam y -96
+\i (00:14:48) roam y 96 
+\i (00:14:48) roam y 96
+\i (00:15:22) pdf out 
+\i (00:15:30) setwindow form.pdf_out
+\i (00:15:30) FORM pdf_out data_pin YES 
+   (00:15:30) The overhead of creating property links for PINs is very high, PDF size will increase dramatically.
+\i (00:15:34) fillin confirm
+\i (00:15:35) FORM pdf_out data_pin NO 
+\i (00:15:47) FORM pdf_out pdftree 'MULTISEL YES' TOP 
+\i (00:15:47) FORM pdf_out pdftree  TOP 
+\i (00:15:50) FORM pdf_out pdftree 'MULTISEL YES' SILK 
+\i (00:15:50) FORM pdf_out pdftree  SILK 
+\i (00:16:00) FORM pdf_out export  
+\t (00:16:00) Starting Exporting PDF File...
+\t (00:16:11) PDF output completed.
+\i (00:23:56) FORM pdf_out cancel  
+\i (00:23:56) setwindow pcb
+\i (00:23:56) generaledit 
+\i (00:23:58) roam y 96 
+\i (00:23:58) roam y 96
+\i (00:23:58) roam y 96 
+\i (00:23:58) roam y 96
+\i (00:23:59) roam y 96 
+\i (00:23:59) roam y 96
+\i (00:24:26) roam y 96 
+\i (00:24:26) roam y 96
+\i (00:24:26) roam y 96 
+\i (00:24:26) roam y 96
+\i (00:24:27) roam y -96 
+\i (00:24:27) roam y -96
+\i (00:24:27) roam y -96 
+\i (00:24:27) roam y -96
+\i (00:24:27) roam y -96 
+\i (00:24:27) roam y -96
+\i (00:24:27) roam y -96 
+\i (00:24:27) roam y -96
+\i (00:24:27) roam y -96 
+\i (00:24:27) roam y -96
+\i (00:24:28) roam y -96 
+\i (00:24:28) roam y -96
+\i (00:24:28) roam y 96 
+\i (00:24:28) roam y 96
+\i (00:24:29) roam y 96 
+\i (00:24:29) roam y 96
+\i (00:24:29) roam y 96 
+\i (00:24:29) roam y 96
+\i (00:24:29) roam y 96 
+\i (00:24:29) roam y 96
+\i (00:24:29) roam y 96 
+\i (00:24:29) roam y 96
+\i (00:24:30) roam y 96 
+\i (00:24:30) roam y 96
+\i (00:24:31) roam y -96 
+\i (00:24:31) roam y -96
+\i (00:24:32) roam y -96 
+\i (00:24:32) roam y -96
+\i (00:24:32) roam y -96 
+\i (00:24:32) roam y -96
+\i (00:24:33) roam y -96 
+\i (00:24:33) roam y -96
+\i (00:24:33) roam y 96 
+\i (00:24:33) roam y 96
+\i (00:24:34) roam y 96 
+\i (00:24:34) roam y 96
+\i (00:24:34) roam y 96 
+\i (00:24:34) roam y 96
+\i (00:24:34) roam y 96 
+\i (00:24:34) roam y 96
+\i (00:24:36) roam y 96 
+\i (00:24:36) roam y 96
+\i (00:24:44) roam y -96 
+\i (00:24:44) roam y -96
+\i (00:24:44) roam y -96 
+\i (00:24:44) roam y -96
+\i (00:24:45) roam y -96 
+\i (00:24:45) roam y -96
+\i (00:24:45) roam y -96 
+\i (00:24:45) roam y -96
+\i (00:24:45) roam y -96 
+\i (00:24:45) roam y -96
+\i (00:24:45) roam y -96 
+\i (00:24:45) roam y -96
+\i (00:24:51) roam y 96 
+\i (00:24:51) roam y 96
+\i (00:24:53) roam y 96 
+\i (00:24:53) roam y 96
+\i (00:24:53) roam y 96 
+\i (00:24:53) roam y 96
+\i (00:24:54) roam y -96 
+\i (00:24:54) roam y -96
+\i (00:24:54) roam y -96 
+\i (00:24:54) roam y -96
+\i (00:24:54) roam y -96 
+\i (00:24:54) roam y -96
+\i (00:25:30) zoom in 
+\i (00:25:30) setwindow pcb
+\i (00:25:30) zoom in 217.79 491.31
+\t (00:25:30) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:25:30) trapsize 436
+\i (00:25:31) roam y -96 
+\i (00:25:31) roam y -96
+\i (00:25:32) roam y -96 
+\i (00:25:32) roam y -96
+\i (00:25:34) zoom in 
+\i (00:25:34) setwindow pcb
+\i (00:25:34) zoom in 217.79 658.55
+\t (00:25:34) Grids are drawn 2.00, 2.00 apart for enhanced viewability.
+\i (00:25:34) trapsize 218
+\i (00:25:36) roam y -96 
+\i (00:25:36) roam y -96
+\i (00:26:21) roam x -96 
+\i (00:26:21) roam x -96
+\i (00:26:22) roam x -96 
+\i (00:26:22) roam x -96
+\i (00:26:27) roam x 96 
+\i (00:26:27) roam x 96
+\i (00:26:27) roam x 96 
+\i (00:26:27) roam x 96
+\i (00:29:29) roam y 96 
+\i (00:29:29) roam y 96
+\i (00:29:29) roam y 96 
+\i (00:29:29) roam y 96
+\i (00:29:29) roam y 96 
+\i (00:29:29) roam y 96
+\i (00:29:30) roam y 96 
+\i (00:29:30) roam y 96
+\i (00:29:30) roam y 96 
+\i (00:29:30) roam y 96
+\i (00:29:30) roam y 96 
+\i (00:29:30) roam y 96
+\i (00:29:30) roam y 96 
+\i (00:29:30) roam y 96
+\i (00:29:30) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:31) roam y 96 
+\i (00:29:31) roam y 96
+\i (00:29:32) roam y 96 
+\i (00:29:32) roam y 96
+\i (00:29:32) roam y 96 
+\i (00:29:32) roam y 96
+\i (00:29:32) roam y 96 
+\i (00:29:32) roam y 96
+\i (00:29:32) roam y 96 
+\i (00:29:32) roam y 96
+\i (00:30:52) roam x -96 
+\i (00:30:52) roam x -96
+\i (00:30:53) roam x -96 
+\i (00:30:53) roam x -96
+\i (00:30:53) roam x -96 
+\i (00:30:53) roam x -96
+\i (00:30:53) roam x -96 
+\i (00:30:53) roam x -96
+\i (00:30:53) roam x -96 
+\i (00:30:53) roam x -96
+\i (00:30:54) roam y -96 
+\i (00:30:54) roam y -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:54) roam x -96 
+\i (00:30:54) roam x -96
+\i (00:30:55) roam x -96 
+\i (00:30:55) roam x -96
+\i (00:30:55) roam x -96 
+\i (00:30:55) roam x -96
+\i (00:30:55) roam x -96 
+\i (00:30:55) roam x -96
+\i (00:30:55) roam x -96 
+\i (00:30:55) roam x -96
+\i (00:30:55) roam x -96 
+\i (00:30:55) roam x -96
+\i (00:30:55) roam y -96 
+\i (00:30:55) roam y -96
+\i (00:30:55) roam y -96 
+\i (00:30:55) roam y -96
+\i (00:30:55) roam y -96 
+\i (00:30:55) roam y -96
+\i (00:30:56) roam y -96 
+\i (00:30:56) roam y -96
+\i (00:30:56) roam y -96 
+\i (00:30:56) roam y -96
+\i (00:30:56) roam y -96 
+\i (00:30:56) roam y -96
+\i (00:30:56) roam y -96 
+\i (00:30:56) roam y -96
+\i (00:30:56) roam y -96 
+\i (00:30:56) roam y -96
+\i (00:30:56) roam y -96 
+\i (00:30:56) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam y -96 
+\i (00:30:57) roam y -96
+\i (00:30:57) roam x 96 
+\i (00:30:57) roam x 96
+\i (00:30:58) roam x 96 
+\i (00:30:58) roam x 96
+\i (00:30:58) roam y -96 
+\i (00:30:58) roam y -96
+\i (00:30:58) roam y -96 
+\i (00:30:58) roam y -96
+\i (00:30:58) roam y -96 
+\i (00:30:58) roam y -96
+\i (00:30:59) roam y -96 
+\i (00:30:59) roam y -96
+\i (00:31:05) roam y 96 
+\i (00:31:05) roam y 96
+\i (00:31:05) roam y 96 
+\i (00:31:05) roam y 96
+\i (00:31:06) roam y 96 
+\i (00:31:06) roam y 96
+\i (00:31:06) roam y 96 
+\i (00:31:06) roam y 96
+\i (00:31:06) roam y 96 
+\i (00:31:06) roam y 96
+\i (00:31:06) roam y 96 
+\i (00:31:06) roam y 96
+\i (00:31:06) roam y 96 
+\i (00:31:06) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:07) roam y 96 
+\i (00:31:07) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:08) roam y 96 
+\i (00:31:08) roam y 96
+\i (00:31:09) roam x 96 
+\i (00:31:09) roam x 96
+\i (00:31:09) roam x 96 
+\i (00:31:09) roam x 96
+\i (00:31:09) roam x 96 
+\i (00:31:09) roam x 96
+\i (00:31:09) roam x 96 
+\i (00:31:09) roam x 96
+\i (00:31:09) roam x 96 
+\i (00:31:09) roam x 96
+\i (00:31:10) roam x 96 
+\i (00:31:10) roam x 96
+\i (00:31:10) roam x 96 
+\i (00:31:10) roam x 96
+\i (00:31:10) roam x 96 
+\i (00:31:10) roam x 96
+\i (00:31:10) roam x 96 
+\i (00:31:10) roam x 96
+\i (00:31:10) roam x 96 
+\i (00:31:10) roam x 96
+\i (00:31:10) roam y 96 
+\i (00:31:10) roam y 96
+\i (00:31:10) roam y 96 
+\i (00:31:10) roam y 96
+\i (00:31:11) roam y 96 
+\i (00:31:11) roam y 96
+\i (00:31:11) roam y 96 
+\i (00:31:11) roam y 96
+\i (00:31:11) roam y 96 
+\i (00:31:11) roam y 96
+\i (00:31:11) roam y 96 
+\i (00:31:11) roam y 96
+\i (00:31:11) roam y 96 
+\i (00:31:11) roam y 96
+\i (00:31:12) roam y 96 
+\i (00:31:12) roam y 96
+\i (00:31:12) roam y 96 
+\i (00:31:12) roam y 96
+\i (00:31:12) roam y 96 
+\i (00:31:12) roam y 96
+\i (00:31:13) roam x 96 
+\i (00:31:13) roam x 96
+\i (00:31:13) roam x 96 
+\i (00:31:13) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:14) roam x 96 
+\i (00:31:14) roam x 96
+\i (00:31:15) roam x 96 
+\i (00:31:15) roam x 96
+\i (00:31:15) roam x 96 
+\i (00:31:15) roam x 96
+\i (00:31:15) roam x 96 
+\i (00:31:15) roam x 96
+\i (00:31:15) roam x 96 
+\i (00:31:15) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:16) roam x 96 
+\i (00:31:16) roam x 96
+\i (00:31:17) roam y -96 
+\i (00:31:17) roam y -96
+\i (00:31:17) roam y -96 
+\i (00:31:17) roam y -96
+\i (00:31:17) roam y -96 
+\i (00:31:17) roam y -96
+\i (00:31:17) roam y -96 
+\i (00:31:18) roam y -96
+\i (00:31:18) roam y -96 
+\i (00:31:18) roam y -96
+\i (00:31:19) roam y -96 
+\i (00:31:19) roam y -96
+\i (00:31:19) roam y -96 
+\i (00:31:19) roam y -96
+\i (00:31:19) roam y -96 
+\i (00:31:19) roam y -96
+\i (00:31:19) roam y -96 
+\i (00:31:19) roam y -96
+\i (00:31:19) roam y -96 
+\i (00:31:19) roam y -96
+\i (00:31:20) roam x -96 
+\i (00:31:20) roam x -96
+\i (00:31:21) roam x -96 
+\i (00:31:21) roam x -96
+\i (00:31:21) roam y 96 
+\i (00:31:21) roam y 96
+\i (00:31:21) roam y 96 
+\i (00:31:21) roam y 96
+\i (00:31:22) roam y -96 
+\i (00:31:22) roam y -96
+\i (00:31:26) roam y 96 
+\i (00:31:26) roam y 96
+\i (00:31:35) roam x -96 
+\i (00:31:35) roam x -96
+\i (00:31:35) roam x -96 
+\i (00:31:35) roam x -96
+\i (00:31:35) roam x -96 
+\i (00:31:35) roam x -96
+\i (00:31:44) roam x -96 
+\i (00:31:44) roam x -96
+\i (00:31:44) roam x -96 
+\i (00:31:44) roam x -96
+\i (00:31:45) roam x -96 
+\i (00:31:45) roam x -96
+\i (00:31:46) roam y -96 
+\i (00:31:46) roam y -96
+\i (00:31:47) roam y 96 
+\i (00:31:47) roam y 96
+\i (00:31:47) roam y 96 
+\i (00:31:47) roam y 96
+\i (00:31:48) roam x 96 
+\i (00:31:48) roam x 96
+\i (00:31:49) roam x 96 
+\i (00:31:49) roam x 96
+\i (00:31:49) roam x 96 
+\i (00:31:49) roam x 96
+\i (00:31:49) roam x 96 
+\i (00:31:49) roam x 96
+\i (00:31:49) roam x 96 
+\i (00:31:49) roam x 96
+\i (00:31:49) roam y -96 
+\i (00:31:49) roam y -96
+\i (00:31:50) roam y -96 
+\i (00:31:50) roam y -96
+\i (00:31:50) roam y -96 
+\i (00:31:50) roam y -96
+\i (00:31:50) roam y -96 
+\i (00:31:50) roam y -96
+\i (00:31:50) roam y -96 
+\i (00:31:50) roam y -96
+\i (00:31:50) roam y -96 
+\i (00:31:50) roam y -96
+\i (00:31:51) roam y 96 
+\i (00:31:51) roam y 96
+\i (00:31:51) roam y 96 
+\i (00:31:51) roam y 96
+\i (00:31:51) roam y 96 
+\i (00:31:51) roam y 96
+\i (00:31:51) roam y 96 
+\i (00:31:51) roam y 96
+\i (00:31:54) roam y 96 
+\i (00:31:54) roam y 96
+\i (00:32:15) roam y 96 
+\i (00:32:15) roam y 96
+\i (00:32:16) roam y 96 
+\i (00:32:16) roam y 96
+\i (00:32:16) roam y 96 
+\i (00:32:16) roam y 96
+\i (00:32:16) roam y 96 
+\i (00:32:16) roam y 96
+\i (00:32:17) roam y 96 
+\i (00:32:17) roam y 96
+\i (00:32:17) roam x -96 
+\i (00:32:17) roam x -96
+\i (00:32:17) roam x -96 
+\i (00:32:17) roam x -96
+\i (00:32:18) roam x -96 
+\i (00:32:18) roam x -96
+\i (00:32:18) roam x -96 
+\i (00:32:18) roam x -96
+\i (00:32:18) roam x -96 
+\i (00:32:18) roam x -96
+\i (00:32:18) roam y 96 
+\i (00:32:18) roam y 96
+\i (00:32:19) roam y 96 
+\i (00:32:19) roam y 96
+\i (00:32:19) roam y 96 
+\i (00:32:19) roam y 96
+\i (00:32:19) roam y 96 
+\i (00:32:19) roam y 96
+\i (00:32:19) roam x -96 
+\i (00:32:19) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:20) roam x -96 
+\i (00:32:20) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:21) roam x -96 
+\i (00:32:21) roam x -96
+\i (00:32:22) roam x -96 
+\i (00:32:22) roam x -96
+\i (00:32:22) roam x -96 
+\i (00:32:22) roam x -96
+\i (00:32:22) roam x -96 
+\i (00:32:22) roam x -96
+\i (00:32:22) roam x -96 
+\i (00:32:22) roam x -96
+\i (00:32:22) roam x -96 
+\i (00:32:22) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam x -96 
+\i (00:32:23) roam x -96
+\i (00:32:23) roam y -96 
+\i (00:32:23) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:24) roam y -96 
+\i (00:32:24) roam y -96
+\i (00:32:25) roam y -96 
+\i (00:32:25) roam y -96
+\i (00:32:25) roam y -96 
+\i (00:32:25) roam y -96
+\i (00:32:25) roam y -96 
+\i (00:32:25) roam y -96
+\i (00:32:25) roam y -96 
+\i (00:32:25) roam y -96
+\i (00:32:26) roam y 96 
+\i (00:32:26) roam y 96
+\i (00:32:26) roam y 96 
+\i (00:32:26) roam y 96
+\i (00:32:26) roam y -96 
+\i (00:32:26) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:28) roam y -96 
+\i (00:32:28) roam y -96
+\i (00:32:28) roam y -96 
+\i (00:32:28) roam y -96
+\i (00:32:28) roam y -96 
+\i (00:32:28) roam y -96
+\i (00:32:28) roam y -96 
+\i (00:32:28) roam y -96
+\i (00:32:28) roam y -96 
+\i (00:32:28) roam y -96
+\i (00:32:29) roam y -96 
+\i (00:32:29) roam y -96
+\i (00:32:29) roam y -96 
+\i (00:32:29) roam y -96
+\i (00:32:29) roam y -96 
+\i (00:32:29) roam y -96
+\i (00:32:29) roam y -96 
+\i (00:32:29) roam y -96
+\i (00:32:29) roam y -96 
+\i (00:32:29) roam y -96
+\i (00:32:30) roam y -96 
+\i (00:32:30) roam y -96
+\i (00:32:30) roam y -96 
+\i (00:32:30) roam y -96
+\i (00:32:30) roam y -96 
+\i (00:32:30) roam y -96
+\i (00:32:56) roam y -96 
+\i (00:32:56) roam y -96
+\i (00:32:56) roam y -96 
+\i (00:32:56) roam y -96
+\i (00:32:56) roam y -96 
+\i (00:32:56) roam y -96
+\i (00:32:57) roam y -96 
+\i (00:32:57) roam y -96
+\i (00:32:57) roam y -96 
+\i (00:32:57) roam y -96
+\i (00:32:57) roam y -96 
+\i (00:32:57) roam y -96
+\i (00:32:57) roam x 96 
+\i (00:32:57) roam x 96
+\i (00:32:58) roam x 96 
+\i (00:32:58) roam x 96
+\i (00:32:58) roam x 96 
+\i (00:32:58) roam x 96
+\i (00:32:58) roam x 96 
+\i (00:32:58) roam x 96
+\i (00:32:58) roam x 96 
+\i (00:32:58) roam x 96
+\i (00:32:59) roam x 96 
+\i (00:32:59) roam x 96
+\i (00:32:59) roam x 96 
+\i (00:32:59) roam x 96
+\i (00:32:59) roam x 96 
+\i (00:32:59) roam x 96
+\i (00:32:59) roam x 96 
+\i (00:32:59) roam x 96
+\i (00:32:59) roam x 96 
+\i (00:32:59) roam x 96
+\i (00:33:00) roam x 96 
+\i (00:33:00) roam x 96
+\i (00:33:00) roam x 96 
+\i (00:33:00) roam x 96
+\i (00:33:00) roam x 96 
+\i (00:33:00) roam x 96
+\i (00:33:00) roam x 96 
+\i (00:33:00) roam x 96
+\i (00:33:00) roam x 96 
+\i (00:33:00) roam x 96
+\i (00:33:01) roam x 96 
+\i (00:33:01) roam x 96
+\i (00:33:01) roam x 96 
+\i (00:33:01) roam x 96
+\i (00:33:01) roam x 96 
+\i (00:33:01) roam x 96
+\i (00:33:01) roam x 96 
+\i (00:33:01) roam x 96
+\i (00:33:08) roam x 96 
+\i (00:33:08) roam x 96
+\i (00:33:09) roam x 96 
+\i (00:33:09) roam x 96
+\i (00:33:09) roam x 96 
+\i (00:33:09) roam x 96
+\i (00:33:09) roam x 96 
+\i (00:33:09) roam x 96
+\i (00:33:09) roam x 96 
+\i (00:33:09) roam x 96
+\i (00:33:09) roam x 96 
+\i (00:33:09) roam x 96
+\i (00:33:09) roam x 96 
+\i (00:33:09) roam x 96
+\i (00:33:10) roam x 96 
+\i (00:33:10) roam x 96
+\i (00:33:10) roam x 96 
+\i (00:33:10) roam x 96
+\i (00:33:10) roam x 96 
+\i (00:33:10) roam x 96
+\i (00:33:10) roam x 96 
+\i (00:33:10) roam x 96
+\i (00:33:10) roam x 96 
+\i (00:33:11) roam x 96
+\i (00:33:11) roam x 96 
+\i (00:33:11) roam x 96
+\i (00:33:11) roam x 96 
+\i (00:33:11) roam x 96
+\i (00:33:11) roam x 96 
+\i (00:33:11) roam x 96
+\i (00:33:11) roam x 96 
+\i (00:33:11) roam x 96
+\i (00:33:11) roam y 96 
+\i (00:33:11) roam y 96
+\i (00:33:12) roam y 96 
+\i (00:33:12) roam y 96
+\i (00:33:12) roam y 96 
+\i (00:33:12) roam y 96
+\i (00:33:12) roam y 96 
+\i (00:33:12) roam y 96
+\i (00:33:12) roam y 96 
+\i (00:33:12) roam y 96
+\i (00:33:13) roam y 96 
+\i (00:33:13) roam y 96
+\i (00:33:13) roam y 96 
+\i (00:33:13) roam y 96
+\i (00:33:13) roam y 96 
+\i (00:33:13) roam y 96
+\i (00:33:13) roam y 96 
+\i (00:33:13) roam y 96
+\i (00:33:13) roam y 96 
+\i (00:33:13) roam y 96
+\i (00:33:14) roam y 96 
+\i (00:33:14) roam y 96
+\i (00:33:14) roam y 96 
+\i (00:33:14) roam y 96
+\i (00:33:14) roam y 96 
+\i (00:33:14) roam y 96
+\i (00:33:14) roam y 96 
+\i (00:33:14) roam y 96
+\i (00:33:15) roam y 96 
+\i (00:33:15) roam y 96
+\i (00:33:15) roam y 96 
+\i (00:33:15) roam y 96
+\i (00:33:15) roam y 96 
+\i (00:33:15) roam y 96
+\i (00:33:17) roam y 96 
+\i (00:33:17) roam y 96
+\i (00:33:18) roam y 96 
+\i (00:33:18) roam y 96
+\i (00:33:18) roam y 96 
+\i (00:33:18) roam y 96
+\i (00:33:18) roam x -96 
+\i (00:33:18) roam x -96
+\i (00:33:18) roam x -96 
+\i (00:33:18) roam x -96
+\i (00:33:19) roam x -96 
+\i (00:33:19) roam x -96
+\i (00:33:19) roam x -96 
+\i (00:33:19) roam x -96
+\i (00:33:19) roam x -96 
+\i (00:33:19) roam x -96
+\i (00:33:19) roam x -96 
+\i (00:33:19) roam x -96
+\i (00:33:20) roam x -96 
+\i (00:33:20) roam x -96
+\i (00:33:20) roam x -96 
+\i (00:33:20) roam x -96
+\i (00:54:22) xhilite 
+\i (00:54:22) xrefdes R15 
+\i (00:54:22) xNet +12V 
+\i (00:54:22) xname_flush 
+\t (00:54:22) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:54:22) trapsize 388
+\t (00:54:22) Symbol "R15" highlighted.
+\t (00:54:22) Net "+12V" highlighted.
+\i (00:54:23) done 
+\i (00:54:23) xdehilite 
+\i (00:54:23) xrefdes R15 
+\i (00:54:23) xNet +12V 
+\i (00:54:23) xname_flush 
+\t (00:54:23) Symbol "R15" dehighlighted.
+\t (00:54:23) Net "+12V" dehighlighted.
+\i (00:54:23) done 
+\i (00:54:24) generaledit 
+\i (00:54:49) xhilite 
+\i (00:54:49) xrefdes J9 
+\i (00:54:49) xNet Gnd 
+\i (00:54:49) xNet +12V 
+\i (00:54:49) xname_flush 
+\t (00:54:49) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:54:49) trapsize 1467
+\t (00:54:49) Symbol "J9" highlighted.
+\t (00:54:49) Net "Gnd" highlighted.
+\t (00:54:49) Net "+12V" highlighted.
+\i (00:54:49) done 
+\i (00:54:49) generaledit 
+\i (03:26:05) roam y -96 
+\i (03:26:05) roam y -96
+\i (03:26:05) roam y 96 
+\i (03:26:05) roam y 96
+\i (03:52:42) xhilite 
+\i (03:52:42) xrefdes C17 
+\i (03:52:42) xname_flush 
+\t (03:52:42) Grids are drawn 2.00, 2.00 apart for enhanced viewability.
+\i (03:52:42) trapsize 243
+\t (03:52:42) Symbol "C17" highlighted.
+\i (03:52:42) done 
+\i (03:52:42) generaledit 
+\i (03:52:54) xdehilite 
+\i (03:52:54) xrefdes C17 
+\i (03:52:54) xname_flush 
+\t (03:52:54) Symbol "C17" dehighlighted.
+\i (03:52:54) done 
+\i (03:52:55) generaledit 
+\i (23:15:08) exit 
+\e (23:15:08) Do you want to save the changes you made to PLL_VCO_FINAL.brd?
+\i (23:15:09) fillin no 
+\t (23:15:10)     Journal end - Tue Mar 22 17:02:41 2016

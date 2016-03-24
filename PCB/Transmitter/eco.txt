@@ -3,8 +3,86 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd           |
-|                                                    Thu Mar 10 14:19:47 2016  |
+|                                                    Tue Mar 22 21:05:21 2016  |
 |------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins MOVED FROM this net (to net name listed on right)
+                                 U4.1             869.60 -346.12
+                                                                            GND
+                                 U4.2             907.00 -346.12
+                                                                         N26468
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +3V          pins MOVED FROM this net (to net name listed on right)
+                                 U3.5             761.00 -234.88
+                                                                         N28824
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 U3.3             798.40 -345.12
+                                                                         N28824
+                                 U4.3             944.40 -346.12
+                                                                           +12V
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26468       pins MOVED FROM this net (to net name listed on right)
+                                 U4.4             944.40 -235.88
+                                                                         N26536
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26536       pins MOVED FROM this net (to net name listed on right)
+                                 U4.5             907.00 -235.88
+                                                                           +12V
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N28824       pins MOVED FROM this net (to net name listed on right)
+                                 U3.1             723.60 -345.12
+                                                                            GND
+                                 U3.2             761.00 -345.12
+                                                                         N28882
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N28882       pins MOVED FROM this net (to net name listed on right)
+                                 U3.4             798.40 -234.88
+                                                                            +3V
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  0                                              |
+|  C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd           |
+|                                                    Tue Mar 22 21:05:21 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ADP3300_SMP6_1_9R2_8_ADP3300
+ CAP_CAPC1608N_10 PF
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd           |
+|                                                    Tue Mar 22 21:05:21 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C17                 CAP_CAPC1608N_10 PF    349.00 -177.00 CAP_CAPC1608N_CAP
+ U3                  ADP3300_SMP6_1_9R2_8_ADP3300  761.00 -290.00 ADP3300_SMP6_1_9R2_8_ADP3300
+ U4                  ADP3300_SMP6_1_9R2_8_ADP3300  907.00 -291.00 ADP3300_SMP6_1_9R2_8_ADP3300
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Dart/Desktop/FMCW/FMCW/PCB/Transmitter/PLL_VCO_FINAL.brd           |
+|                                                    Tue Mar 22 21:05:21 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C17.2           349.00 -177.00 PRIM_FILE      .\pstchip.dat
+ U3.3            761.00 -290.00 PRIM_FILE      .\pstchip.dat
+ U4.3            907.00 -291.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  18                                             |
 |------------------------------------------------------------------------------|

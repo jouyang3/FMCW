@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk_div:clk_div_inst|clk_div_16'
+Slack : -9.139
+TNS   : -823.295
+
+Type  : Slow Model Setup 'clk'
+Slack : -4.860
+TNS   : -590.264
+
+Type  : Slow Model Setup 'clk_div:clk_div_inst|clk_div_32'
+Slack : -3.284
+TNS   : -3102.565
+
+Type  : Slow Model Setup 'windowing:window_inst|state[0]'
+Slack : -2.228
+TNS   : -6.503
+
+Type  : Slow Model Hold 'clk'
+Slack : -2.557
+TNS   : -5.114
+
+Type  : Slow Model Hold 'windowing:window_inst|state[0]'
+Slack : -2.299
+TNS   : -8.858
+
+Type  : Slow Model Hold 'clk_div:clk_div_inst|clk_div_16'
+Slack : -1.043
+TNS   : -15.432
+
+Type  : Slow Model Hold 'clk_div:clk_div_inst|clk_div_32'
+Slack : -0.228
+TNS   : -0.453
+
+Type  : Slow Model Minimum Pulse Width 'clk_div:clk_div_inst|clk_div_16'
+Slack : -2.000
+TNS   : -1223.304
+
+Type  : Slow Model Minimum Pulse Width 'clk_div:clk_div_inst|clk_div_32'
+Slack : -1.627
+TNS   : -4740.764
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -245.380
+
+Type  : Slow Model Minimum Pulse Width 'windowing:window_inst|state[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'clk_div:clk_div_inst|clk_div_16'
+Slack : -3.440
+TNS   : -229.119
+
+Type  : Fast Model Setup 'clk_div:clk_div_inst|clk_div_32'
+Slack : -1.562
+TNS   : -710.693
+
+Type  : Fast Model Setup 'clk'
+Slack : -1.561
+TNS   : -153.966
+
+Type  : Fast Model Setup 'windowing:window_inst|state[0]'
+Slack : -0.424
+TNS   : -0.801
+
+Type  : Fast Model Hold 'clk'
+Slack : -1.598
+TNS   : -3.196
+
+Type  : Fast Model Hold 'windowing:window_inst|state[0]'
+Slack : -1.376
+TNS   : -5.308
+
+Type  : Fast Model Hold 'clk_div:clk_div_inst|clk_div_16'
+Slack : -0.770
+TNS   : -18.753
+
+Type  : Fast Model Hold 'clk_div:clk_div_inst|clk_div_32'
+Slack : -0.492
+TNS   : -5.282
+
+Type  : Fast Model Minimum Pulse Width 'clk_div:clk_div_inst|clk_div_16'
+Slack : -2.000
+TNS   : -1227.912
+
+Type  : Fast Model Minimum Pulse Width 'clk_div:clk_div_inst|clk_div_32'
+Slack : -1.627
+TNS   : -4768.412
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -245.380
+
+Type  : Fast Model Minimum Pulse Width 'windowing:window_inst|state[0]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

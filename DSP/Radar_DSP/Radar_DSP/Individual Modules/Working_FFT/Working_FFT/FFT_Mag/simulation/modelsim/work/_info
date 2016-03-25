@@ -1,0 +1,121 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Micah\Desktop\FFT_Mag\simulation\modelsim
+vdft_testbench
+Z1 !s100 dK6zk9U@GX9lIEY4EEkeV2
+Z2 Ibha0YJ7b?03:^o<JlHT840
+Z3 Vf[7PB9MQog59=M@3PgUeF3
+Z4 dC:\Users\Micah\Desktop\FFT_Mag\simulation\modelsim
+Z5 w1456995025
+Z6 8C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Module.v
+Z7 FC:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Module.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Module.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1457078929.555000
+Z12 !s107 C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Module.v|
+!s101 -O0
+vdft_top
+Z13 I;]e>[PflkP3ZmzA3:nii[3
+Z14 VP@zhi:HnFD7TUXNZAC15m2
+R4
+Z15 w1457055316
+Z16 8C:/Users/Micah/Desktop/FFT_Mag/simulation/modelsim/FFT_Mag_fast.vo
+Z17 FC:/Users/Micah/Desktop/FFT_Mag/simulation/modelsim/FFT_Mag_fast.vo
+L0 31
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/Micah/Desktop/FFT_Mag/simulation/modelsim/FFT_Mag_fast.vo|
+R10
+Z19 !s100 YZM<c=>GP4BRzO0N8l7`z3
+Z20 !s108 1457055325.713000
+Z21 !s107 C:/Users/Micah/Desktop/FFT_Mag/simulation/modelsim/FFT_Mag_fast.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vFFT_Mag
+Z22 I^fFaSI4lG]m0WJmLRdQDB1
+Z23 VnTSZ2h<nR7V^>7?[Q4[kL3
+R4
+Z24 w1457078853
+R16
+R17
+L0 31
+R8
+r1
+31
+R18
+R10
+Z25 n@f@f@t_@mag
+Z26 !s100 P94^lDRZ^gME0g8nc89An1
+Z27 !s108 1457078927.511000
+R21
+!i10b 1
+!s85 0
+!s101 -O0
+vmagnitude
+Z28 IBYa2MPDjNi3ZeP_ShkNjL2
+Z29 V8[?5>A5>=K6S4>6?Ig5]P3
+R4
+Z30 w1457056283
+R16
+R17
+L0 31
+R8
+r1
+31
+R18
+R10
+Z31 !s100 0iaW7@gM`7zN?ofNnMBe]2
+Z32 !s108 1457056489.067000
+R21
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_FFT_Mag
+Z33 !s100 ?VAmjzaFEdQR0`hZld5i32
+Z34 I8Ud_=Y=>[1cZIHJ`m[@m60
+Z35 VNeU<T0ana9fWbo?O;4@j71
+R4
+Z36 w1457075784
+Z37 8C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Mag.v
+Z38 FC:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Mag.v
+L0 2
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Mag.v|
+R10
+Z40 ntb_@f@f@t_@mag
+Z41 !s108 1457078929.271000
+Z42 !s107 C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Mag.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_magnitude
+!i10b 1
+Z43 !s100 5^B3;SfaLb>86:P7E5[Ba1
+Z44 I:TdkIfIWeS?TJaEJ6>]mk1
+Z45 VG4PIQn8NE?YZZDdc<AYLf1
+R4
+Z46 w1457066224
+Z47 8C:/Users/Micah/Desktop/FFT_Mag/tb_magnitude.v
+Z48 FC:/Users/Micah/Desktop/FFT_Mag/tb_magnitude.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1457078930.075000
+!s107 C:/Users/Micah/Desktop/FFT_Mag/tb_magnitude.v|
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Micah/Desktop/FFT_Mag/tb_magnitude.v|
+!s101 -O0
+R10

@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Micah\Desktop\Average_Filter\simulation\modelsim
+vAverage_Filter
+Z1 IJGD29V9gRjU?JVPFUA8XM3
+Z2 VdFdJj2l?j=5_X7`R5IC3`3
+Z3 dC:\Users\Micah\Desktop\Average_Filter\simulation\modelsim
+Z4 w1457159725
+Z5 8C:/Users/Micah/Desktop/Average_Filter/simulation/modelsim/Average_Filter_fast.vo
+Z6 FC:/Users/Micah/Desktop/Average_Filter/simulation/modelsim/Average_Filter_fast.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@average_@filter
+!i10b 1
+Z10 !s100 d07XF]E<RPPlf`X3KFL?T3
+!s85 0
+Z11 !s108 1457159770.017000
+Z12 !s107 C:/Users/Micah/Desktop/Average_Filter/simulation/modelsim/Average_Filter_fast.vo|
+Z13 !s90 -reportprogress|300|-work|work|C:/Users/Micah/Desktop/Average_Filter/simulation/modelsim/Average_Filter_fast.vo|
+!s101 -O0
+vtb_avg_filter
+!i10b 1
+!s100 2_EkFYB0KO3alZKQfHd`X1
+IS;XE^1z>ikDOILz8[9dJK2
+Z14 V3fi7?BzZjFhhWElmFXR6?0
+R3
+w1457159675
+Z15 8C:/Users/Micah/Desktop/Average_Filter/tb_avg_filter.v
+Z16 FC:/Users/Micah/Desktop/Average_Filter/tb_avg_filter.v
+L0 8
+R7
+r1
+!s85 0
+31
+!s108 1457159770.510000
+!s107 C:/Users/Micah/Desktop/Average_Filter/tb_avg_filter.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Micah/Desktop/Average_Filter/tb_avg_filter.v|
+!s101 -O0
+R8

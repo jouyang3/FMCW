@@ -1,0 +1,6 @@
+//Comments are allowed 
+1100_1100   // This is first address i.e 8'h00
+1010_1010   // This is second address i.e 8'h01
+@ 55        // Jump to new address 8'h55
+0101_1010   // This is address 8'h55
+0110_1001   // This is address 8'h56

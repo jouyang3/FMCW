@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="Ram_example">
-		<CBX_INST_ENTRY INSTANCE_NAME="|windowing|lpm_mult:Mult0" CBX_FILE_NAME="mult_u6t.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|windowing|lpm_mult:Mult1" CBX_FILE_NAME="mult_u6t.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|windowing|memory:memory_inst|altsyncram:rom_rtl_0" CBX_FILE_NAME="altsyncram_52p1.tdf"/>
-	</PROJECT>
-</LOG_ROOT>

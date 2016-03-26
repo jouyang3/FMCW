@@ -1,0 +1,22 @@
+C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Module.v {1 {vlog -work work C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dft_testbench
+
+Top level modules:
+	dft_testbench
+
+} {} {}} C:/Users/Micah/Desktop/FFT_Mag/tb_magnitude.v {1 {vlog -work work C:/Users/Micah/Desktop/FFT_Mag/tb_magnitude.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_magnitude
+
+Top level modules:
+	tb_magnitude
+
+} {} {}} C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Mag.v {1 {vlog -work work C:/Users/Micah/Desktop/FFT_Mag/tb_FFT_Mag.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_FFT_Mag
+
+Top level modules:
+	tb_FFT_Mag
+
+} {} {}}

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Mar 26 15:36:20 2016
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : Radar
+Top-level Entity Name : Radar_top
+Family : Cyclone IV E
+Total logic elements : 1,628
+    Total combinational functions : 1,195
+    Dedicated logic registers : 971
+Total registers : 971
+Total pins : 92
+Total virtual pins : 0
+Total memory bits : 213,352
+Embedded Multiplier 9-bit elements : 12
+Total PLLs : 0

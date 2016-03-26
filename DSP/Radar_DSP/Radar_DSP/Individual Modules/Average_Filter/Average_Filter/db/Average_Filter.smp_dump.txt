@@ -1,9 +1,0 @@
-
-State Machine - |Average_Filter|state
-Name state.s5 state.s4 state.s3 state.s2 state.s1 state.000 
-state.000 0 0 0 0 0 0 
-state.s1 0 0 0 0 1 1 
-state.s2 0 0 0 1 0 1 
-state.s3 0 0 1 0 0 1 
-state.s4 0 1 0 0 0 1 
-state.s5 1 0 0 0 0 1 

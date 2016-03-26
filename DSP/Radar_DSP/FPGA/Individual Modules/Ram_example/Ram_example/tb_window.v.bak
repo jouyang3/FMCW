@@ -1,0 +1,16 @@
+module tb_window();
+	reg clk;
+	reg [11:0] in1, in2;
+	wire [11:0] out1, out2;
+	wire next;
+
+	initial clk = 0;
+	always #100 clk = ~clk;
+
+	windowing windowing_inst (.clk(clk), .in1(in1), .in2(in2), .out1(out1),
+				.out2(out2), .next(next));
+				
+				
+				
+				
+endmodule

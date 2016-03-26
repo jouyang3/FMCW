@@ -1,5 +1,0 @@
-set tool_name "ModelSim-Altera (Verilog)"
-set corner_file_list {
-	{{"Slow Model"} {Average_Filter.vo Average_Filter_v.sdo}}
-	{{"Fast Model"} {Average_Filter_fast.vo Average_Filter_v_fast.sdo}}
-}

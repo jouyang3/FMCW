@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Radar">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|D1_43962:instD1inst0_43962|altsyncram:Ram0_rtl_0" CBX_FILE_NAME="altsyncram_ok61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|D2_46012:instD2inst0_46012|altsyncram:Ram0_rtl_0" CBX_FILE_NAME="altsyncram_ol61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|multfix:m41902|lpm_mult:Mult0" CBX_FILE_NAME="mult_t5t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|rc46097:instrc46352|perm46095:instPerm46360|memArray2048_46095:memSys|memMod:memMod1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_s5h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|windowing:window_inst|lpm_mult:Mult1" CBX_FILE_NAME="mult_gbt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|windowing:window_inst|memory:memory_inst|altsyncram:rom_rtl_0" CBX_FILE_NAME="altsyncram_mio1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|altshift_taps:X3_rtl_0" CBX_FILE_NAME="shift_taps_snm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|rc41776:stage0|perm41774:instPerm46329|memArray2048_41774:memSys|memMod:memMod0|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_m5h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|rc41776:stage0|perm41774:instPerm46329|memArray2048_41774:memSys|memMod:memMod1|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_m5h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|altshift_taps:X1_rtl_0" CBX_FILE_NAME="shift_taps_8pm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|multfix:m41851|lpm_mult:Mult0" CBX_FILE_NAME="mult_t5t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|multfix:m41873|lpm_mult:Mult0" CBX_FILE_NAME="mult_t5t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|DirSum_46014:DirSumInst46350|codeBlock41778:codeBlockIsnt46353|multfix:m41891|lpm_mult:Mult0" CBX_FILE_NAME="mult_t5t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|FFT_Mag:fft_inst|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|statementList46099:instList46347|rc46097:instrc46352|perm46095:instPerm46360|memArray2048_46095:memSys|memMod:memMod0|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_s5h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|SerialInterface:serialInterface_inst|Serial_Ram:ram_inst|altsyncram:ram_rtl_0" CBX_FILE_NAME="altsyncram_m1r1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Radar_top|windowing:window_inst|lpm_mult:Mult0" CBX_FILE_NAME="mult_gbt.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,6 +1,0 @@
-
-State Machine - |FFT_Mag|dft_top:dft_top_instance|ICompose_46101:IComposeInst46328|iri_state
-Name iri_state.00 iri_state.10 iri_state.01 
-iri_state.00 0 0 0 
-iri_state.01 1 0 1 
-iri_state.10 1 1 0 

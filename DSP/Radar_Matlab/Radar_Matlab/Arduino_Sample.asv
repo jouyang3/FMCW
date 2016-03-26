@@ -1,0 +1,12 @@
+file = fopen('FFT_output_50k.txt','r');
+X_mag = fscanf(file, '%d');
+
+
+for ii=1:length(X_mag)
+    sample = X_mag(ii);
+    sampleUB = uint8(bitsrl(sample,8));
+    sampleLB = uint8(sample & 255);
+    fprintf(
+end
+
+fclose(file);

@@ -4,7 +4,7 @@ DEVICE = "/dev/ttyACM0"
 BAUD = 9600
 HEAD = 0xCC
 MAX_Y = 2**12 # 12 bits depth
-MAX_X = 10**6 # 10 MHz
+MAX_X = 10*10**6 # 10 MHz
 FRAME_SIZE = 1024
 BYTE_PER_SAMPLE = 2
 

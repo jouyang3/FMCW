@@ -3,7 +3,7 @@ import numpy
 
 import sampler
 
-FREQUENCY_RESOLUTION = 4882.8
+FREQUENCY_RESOLUTION = 610.35 
 
 def main():
     s = sampler.SampleReader()
